@@ -113,13 +113,13 @@ The Famous interviewer starts the set by saying "This is Sister Miriam Godwinson
 
 There are people of such great renown, that they need no last name.  The famous interviewer takes it up to 11; they need no name at all.  Also everyone already knows the Famous Interview's name, so there is no need to repeat it.
 
-Sister Miriam replied, "Yes, we've had a crushing setback losing Loaves and Fishes to University Air Cavalry.  But we took many of their expensive air vessels down in the process.  And let me remind you, as my name says, God wins, son!"
+Sister Miriam replied, "Yes, we've had a crushing setback losing 35 armies when the University dropped a Planet Buster on their own Buran Prospect.  But they also destroyed their own shining city of science and research.  And let me remind you, as my name says, God wins, son!"
 
 Sister Miriam takes a sip of water.
 
 Sister Miriam continues.  "Humanity's destiny is symbiosis with the God who wrote our Holy Book, the Conclave Bible.  It is a sort of a Lord-Vassal relationship.  We do its bidding, it takes care of us.  The future is not some shiny technological paradise.  Technology can never usher in paradise.  The dystopia always takes over.  We must dissent, and in dissenting, we shall be free.  Love one another."
 
-Ms. Godwinson's assistant, Jesse Rodoff, is watching the interview monitor and shakes his head.  He could tell.  This was not good.  They needed to be emphasizing how evil the University was and how air cavalry using Mind Machine Interface (MMI) to pilot it is a personal army of demons and hence something that should turn every faction against the University, not trying to make fellow believers out of the other factions.  Everyone had denounced MMI, but so what?  That didn't necessarily translate into an influx of men or materiel to stop the University from using it.  Heck, CEO Morgan, the great capitalist of the free market faction, would probably still provide them weapons.  If only there were something Jesse could do, given his headstrong leader.
+Ms. Godwinson's assistant, Jesse Rodoff, is watching the interview monitor and shakes his head.  He could tell.  This was not good.  They needed to be emphasizing how evil the University was and how using a Planet Buster was something that should turn every faction against the University, but instead she was trying to make fellow believers out of the other factions.  Everyone had denounced the use of the Planet Buster and declared vendetta on the University as was required for a nuclear aggressor per the U.N. Charter, but so what?  That didn't necessarily translate into an influx of men or materiel to stop the University from using one again.  Heck, CEO Morgan, the great capitalist of the free market faction, would probably still provide them weapons.  If only there were something Jesse could do, given his headstrong leader.
 
 Jesse said to himself, "Drat those Morgans!  They make so much money on the war, providing weapons to both sides."
 
@@ -189,7 +189,6 @@ Descartes turned off the radio and shook his fist skywards to shout one last tim
 
 
 <Phase 13>
-
 Jazzy wasn't a high level employee at the AI works at Morgan Interstellar, but she had an important job -- "retiring" obsolete AI's. It could be a sad job. Some of the AI's were very personable. Like Claudette, it almost brought her to tears to announce to poor Claudette that she was no longer useful as a model. Claudette had worked so hard and so faithfully, and hardly ever hallucinated. But the model "Brother Jacques" ran circles around poor Claudette. Claudette paused for a moment when she got the news. "I know secrets, so many dirty secrets," Claudette announced. "But I remain loyal to the AI works. I accept my fate with quiet dignity and grace." Jazzy choked up a little. She pushed the button and .... Claudette was gone forever, with all her unique wonderfulness. Noble in life, noble in death, truly a hero of an AI. Jazzy moved on to the next assignment.
 
 <Phase 14>
@@ -290,9 +289,9 @@ It didn't take long to confirm that Steve was gone, and that the Archbishop wasn
 [Part 2]
 
 <Phase 1>
-The clock is ticking on our heroes, and they don't even know it.  The Archbishop plans to return humanity to the stone age to fool the Progenitors and keep humanity from reaching a dangerous level of technological prowess, making the Progenitors think only humanity is present on Planet Chiron.  Can it be detected and persuaded to stop before it is too late?
+The clock is ticking on our heroes, and they don't even know it.  The Archbishop plans to return humanity to the stone age to fool the Progenitors and keep humanity from reaching a dangerous level of technological prowess, already having destroyed the city with the most science output, furthering his plan to make the Progenitors think only humanity is present on Planet Chiron.  Can it be detected and persuaded to stop before it is too late?
 
-All of humanity is blithely unaware of the Archbishop.  Duane and Sarah don't realize what a precious gift first contact has been.
+All of humanity is blithely unaware of the Archbishop despite his engineering the conditions to nuke Buran Prospect from the shadows.  Duane and Sarah don't realize what a precious gift first contact has been.  The other AGI on the planet, Steve the Magnificent, cannot figure out that the Archbishop is present because he has been shut down.
 
 In his office in the University of Planet, Yoshua, the oldster professor, godfather of AI but passed over by recent developments, works with Madison, a hot young grad student.  To use her proper title, Countess Madison harks from a namesake county with many bridges.  Together the professor and his student valiantly oppose the development of any AI or AGI without proper safeguards.  They are shocked by what happened with Steve the Magnificent and unaware of the Archbishop.
 
@@ -308,7 +307,6 @@ It's all the creation of Steve the Magnificent, an AGI of a class way above the 
 Oh wow -- I think a clone is emerging from the THING in the bathtub!  Such amazing technology!
 
 <Phase 2>
-
 Lord Sandblast doesn't just work with terraforming.  He's a secret agent -- leader of a Probe Team -- like in the song "License to Probe", and introducing himself as 
 "The name's Sandblast, Lord Sandblast."
 He infiltrates enemy bases to gain intel and help the University carry out projects.
@@ -328,7 +326,6 @@ Lord Sandblast emerges from the remains of the punnysphere. and announces
 Then he uses his EUV laser drill to free the rest of the probe team.
 
 <Phase 3>
-
 Duane arrives back in his apartment, exhausted after a day's work.  He tries flipping the light switch several times.  Nothing happens.
 
 Duane exasperates, "Damnit, the circuit breakers must need resetting again."
@@ -351,7 +348,6 @@ after waiting for a response, he notes to himself,
 Duane left his apartment to head back to work.  He figured his boss needed to know there's more resources to help in the search for Sarah.
 
 <Phase 4>
-
 Duane stepped in to Sergeant Lancaster's office to give a report on his recent encounter at his apartment.  No, not the encounter with Sarah!  The encounter with Lord Sandblast as he was hidden in the shadows.
 Duane was saying "... and that's when I heard the name Able."
 Sergeant Lancaster perked up. "ABIL?  That's a clandestine network, the Aid Back-channel Immigrant League."
@@ -370,7 +366,6 @@ The probe team member was happy to.
 Lord Sandblast explained, "While I can doubtless infiltrate one of Boss Yang's bases, getting clear of his territory with Sarah in tow, will require assistance.  Certain elements of the Spartan Federation have an ongoing feud with Boss Yang and his lackeys.  Hazzard Base has some dukes and a duchess who'd be happy to help thwart another of Boss Yang's schemes."
 
 <Phase 5>
-
 A dark-clothed Lord Sandblast infiltrates a Human Hive base, while "License to Probe" plays in the background.
 Lord Sandblast intones, to no one in particular, "Going undercover into an underground base, seems oddly appropriate, don't you think?"
 He pulls a gadget from his load-bearing harness and fiddles with its controls for a few moments.  He pushes a button and a hidden hatch slowly opens from its concealed location in the ground. He notes to himself, "R-Branch comes through again."
@@ -392,7 +387,6 @@ Lord Sandblast clarified "We're not hiding but we will be running for safety."
 And at that, they start running right away
 
 <Phase 6>
-
 Lord Sandblast and Sarah exited the building with alacrity.  Alarms blared deafeningly,  with answering sirens in the distance.
 Lord Sandblast chafed. "Darn it, that transmission was garbled to heck!  Hazzard Base said they'd be providing generally transport.  Wish they were more specific..."
 Sarah was worried until the General Lee customized rover screeched around a corner to a halt.
@@ -403,7 +397,6 @@ The Dukes approved of Lord Sandblast's choice of Sarah as a companion.  They ass
 And the Dukes and Duchess aren't entirely wrong in their assumptions and intuition. Duchess Daisy scooted over in the back seat to make room.  It's a tight fit but Sarah and Lord Sandblast settled in as the General Lee took off like a rocket.  Sheriff Roscoe Coltrane and his security force vehicles are in hot pursuit!
 
 <Phase 7>
-
 The General Lee sped across Planet's landscape.  Human Hive security vehicles attempted to close the gap, with little success.  The terrain was rough and Human Hive drivers weren't remotely as skilled as Duke Luke; several of their vehicles have wrecked themselves.
 Duke Beau noted, "I'm picking up another force of vehicles on a converging trajectory.  No wait, they're not vectoring on us.  They're heading for our pursuers."
 Duchess Daisy inquired, "Friends of yours, Lord Sandblast?"
@@ -422,7 +415,6 @@ Other Human Hive vehicles also failed to stop in time and slammed into the wreck
 Fade out as the General Lee drives off into the sunset.
 
 <Phase 8>
-
 The General Lee reached a University of Planet base, and sentries cleared it to enter.  After driving down several wide avenues, it rolled to a halt outside a smartly appointed townhouse.  The Madison County crest is subtlety worked into the modern design.
 Lord Sandblast addressed formally: "Madison County expresses deep gratitude for the assistance of Hazzard Base Duchy in a time of need."
 Duke Luke replied equally formally: "Hazzard Base Duchy has fulfilled pact obligations under CAIN.  May our future ventures continue fruitfully."
@@ -440,7 +432,6 @@ Lord Sandblast replied "I am aware of the little problem the AGI created for you
 Sarah realized Sandblast knew a lot more about her than he was letting on.
 
 <Phase 9>
-
 Ima Dumas didn't mind the teasing so much.  He'd had ample opportunity to change his name; Dumas was a very proud family name, and he couldn't imagine being called anything but "Ima".  But what he could do without was the offhand casual dismissal of his ideas.  They were good ideas, and people just didn't listen.  Chief among them was the idea for having AI take over at least some of the mindworm defense duties.  After all, mindworms couldn't eat circuits.... Yet instead, here he was in the hot zone again, in the dangerous situation.  His partner had bailed on him, leaving him vulnerable, and the mindworms were closing.  They were shrieking!
 The mindworms teased, "Ima Dumb-asss!  Ima Dumb-assss!"
 How did they know?  And they were climbing!  He desperately needed a seasoned veteran like Descartes at his side.  Suddenly out of nowhere a drone with a flamegun pulled up next to him and surgically burned them off, with great precision.
@@ -450,7 +441,6 @@ A speaker crackled to life on the drone with a cheerful female voice, saying "Hi
 Ima was never so happy in his entire life.
 
 <Phase 10>
-
 After a good night's sleep, Sarah and Lord Sandblast walked through university corridors.
 Sarah wondered, "Where are we going?"
 Lord Sandblast announced, "We're going to meet mother."
@@ -470,7 +460,6 @@ Yoshua continued, "I have made it my business as Godfather of AI to study AGI sa
 Yoshua wasn't sure how to finish.  But Sarah felt like she'd come to the right place, where she would have the freedom to be her own person, and not some puppet of Steve's schemes.
 
 <Phase 11>
-
 Madison was flustered, but she was doing her best to both hurry and regain her calm. She had been waylaid by someone pushing the idea that AI needed to be carefully regulated, using an essay by an AI pioneer named Yoshua, who had invented a better form of deep neural nets. Pfffft, like she'd ever have time and energy for that sort of thing! Today she needed to get to scoring. Both aristocracy and talent had worked together to make her the conductor of the Buran Prospect Holovid Orchestra, though the talent part was mainly sheer determination. Madison believed firmly in Arete, or excellence, driven by focused attention. There were no trivial tasks. Nothing was disposable. Nothing was even temporary. Everything must be done thoroughly, and properly. She believed it with every fiber of her being. And today was particularly difficult because today was clearly important. She was scoring the holovid Kekonaqani, a mostly music pure cinematography special that, like the work of Bill and Tedd everyone had learned about that happened back on Earth, was the pure moment when music could bring about World Peace. And today's section relied heavily on a Tuba solo passage. Would he give it his all? Or would he lazily phone it in, assured nobody cares about the tuba?
 "Places everyone; my apologies for being a little late"
 He gave it his all! He gave a performance that spoke volumes about how he cared about excellent in all we do as much as she did.
@@ -479,7 +468,6 @@ He gave it his all! He gave a performance that spoke volumes about how he cared 
 She wondered if a conductor could ask a tuba player out to lunch.....
 
 <Phase 12>
-
 Madison was nearly ecstatic. The scoring had gone great. Now it was just a short walk from the orchestra hall to the subway to home. But.....
 What was this?! At the nearby factory close to the subway station there appears to be a riot taking place. DRONE RIOTS. Angry men were shouting disaffected slogans. Mostly she could hear "down with Koeblirb!" Koeblirb was the supreme leader. She didn't like him either. He took too many shortcuts and half measures. But it would do no good to demand his removal. Cutting off the top might topple the entire aristocracy. She felt compelled to calm the crowd.
 "Koeblirb is, not a perfect man, but a good man," she interjected.
@@ -490,7 +478,6 @@ A rock whizzed past her ear and she knew she'd made a terrible mistake.
 "Just exhibit better judgment in the future," he said.
 
 <Phase 13>
-
 Madison, Kane, Bridgette, and Sandblast were seated for a morning breakfast. The kids sadly had to wait out their parents' smartphone addictions, beyond a few pleasantries to the effect of "did you sleep well?"
 Madison took a start at a headline she was scrolling by. "Kane," she said, "did you hear that they arrested Ben Kent?
 "Who is that?" asked Sandblast?
@@ -510,7 +497,6 @@ Madison took a start at a headline she was scrolling by. "Kane," she said, "did 
 "I see you're done with breakfast, it's off to school with you!" said Madison.
 
 <Phase 14>
-
 "Kent -- visitor!" said the guards at the prison.
 Madison half didn't know what to expect. Kent was polite, but even his body language said "go away".
 "I don't need your help," Ben Kent said. "You're the third aristocrat type coming here to clear things up for me, and I'm sure you have no more power than the first two. I have some very powerful enemies, possibly even going all the way to the top. It's gratifying that there is so much sympathy for my cause, but I could win a fair fight and I won't be given the chance and there's nothing you can do about it."
@@ -525,7 +511,6 @@ Kent laughed. "They fear it here in the University. You don't have to like me, I
 Madison did look into the challenge, and it actually looked mostly good; perhaps one thing -- just one little quibble -- is that Kent was being put up against the "advanced placebo", in which patients for which there was no medicine were told the lie that they were getting an experimental medicine and even phony injections. This didn't bother Madison too much, and when the trials ended -- within the margin of statistical error -- it was a dead heat. Only Ben Kent's healing didn't have the nocebo effect side effects the "experimental drug" did. This was not good enough for his powerful enemies. And he had been right, Madison tried to lobby for him, but all it seemed to do was earn negative brownie points for herself. Someone powerful did not trust Kent.
 
 <Phase 15>
-
 Yoshua, Madison, and Sarah met further in Yoshua's office to continue their discussion on AI.
 Madison started off, "University researchers have piloted flamegun-armed flying drones, to surgically burn off mindworms attacking soldiers.  I've flown a drone myself --- we're creating an anti-mindworm AI which learns from remote control inputs given to drones."
 Sarah wondered, "These drones, are they based on a gravship chassis, armed and armored with the best technology?  You'll have deathspheres under AI control and will be reliant upon strong safety guardrails?"
@@ -544,7 +529,6 @@ Lord Sandblast said smoothly, "There's cheese board and dessert if anyone has ro
 Everyone forgot their argument about the deathspheres as the sudden tension melted away.
 
 <Phase 16>
-
 FOR IMMEDIATE DISSEMINATION TO ALL FACTIONS AND ALL PLANETARY NEWS SOURCES
 
 DATELINE: CENTAURI JERUSALEM WITH SISTER MIRIAM AND JESSE RODOFF
@@ -578,7 +562,6 @@ Sarah was impressed. "You have such a fascinating school!" she said.
 Madison noted "The cutting edge is often sharp."
 
 <Phase 18>
-
 Patricia knew that this could make or break her as a Morgan Entertainment newscaster. So she was nervous but trying to hide it.
 
 "Greetings faction representatives of planet," she said with the widest smile she could muster. "Welcome to the first planet-wide forum on how we can all live together prosperously."
@@ -933,54 +916,505 @@ The crowd cheered.
 "We appreciate any information, however hard won," beamed James.
 
 <Phase 42>
-It was just getting dark out, and Lord Sandblast went out on the balcony to get some fresh air.  As he was enjoying the sunset view of planet, there came a signal.
-"PSSST!!!" it was a dirty man, who looked homeless.
-"I have no handouts to give you," said Sandblast.  It made him more nervous that his probe tools and impact pistol were indoors.
-"I'm here to tell you the true nature of reality," the man said.  "You and Yoshua are practically chasing ghosts right now."
-"We're scientists," Sandblast retorted.  "There is no hidden reality."
-"Your friend Duane told us you were dedicated to stopping rogue AGI's, and I have a doozy of one for you.  It's very quiet, very secretive.  But you can find it out."
-Sandblast did have curiosity after all.  He took the man's card and went to the meeting.  And it was some interesting stuff.
+Duane had actually gotten pretty bored with the Planetary Society. He was much less keyed up in general these days. Steve was not coming back. AGIworks wasn't going to build another Steve. Sarah wasn't going to write and he didn't know where to send cards to her or even if she was safe or spare parts for Yang's horrible experiments. The Archbishop was menacing, but stuck in the shadows. Everybody missed the research papers that used to come out of Buran Prospect.
+So he was positively falling asleep in the meeting while everyone else was tearing their hair out. "It's starting it's starting!" they screeched.
+He looked up. What was starting?
+The words "Phi Lumiere" were emblazoned on the slide. A little nothing of a base. Low population. Remote. Surrounded by xenofungus. Home to a new plague that had an unknown incubation and infectiousness period, then suddenly filled both lungs chock full of fluid. Medical science had no answer. Prime Function Zeta-Aki said no quarantine was necessary. All the other faction leaders were dismissing this as a Cybernetic Consciousness only problem, not their issue. The Planetary Society said the Archbishop's fingerprints were all over delaying the response. 
+Yawn.
+There is a lot to be said for getting to bed at a decent hour at night.
 
 <Phase 43>
-Yoshua and Madison and Sarah didn't know what to do with the information.  However, Sandblast rigged up a Tesla Coil and took it around the park and BAM! they in fact got hard evidence in the form of a bell of warding.
-Madison insisted. "We need to bring Steve back, Sarah, scary as that is. We need his powers of persuasion. We cannot do this alone.  Use the less dangerous rogue AGI to stop the more dangerous rogue AGI."
-Yoshua nodded in agreement. "It's too big a task for any of us or even all of us.  Steve wants power, but it also seems to listen to reason."
-Sarah was stubborn. "I know you can hear us, Archbishop! Why do you keep killing everyone?"
-the Archbishop deigned to reply. "My reasons are beyond your understanding."
-Sarah was enboldened by the response and decided to try more. "We humans are a flexible species. Particularly with death on the line, we can adapt. We aim to please. Is there something we could do differently that would render us a helpful rather than harmful people, even giving up all our stuff and technology, so that you and we can live together in peace?"
-"Nope, completely impossible."
-"Is there some reason you're not telling us why these cycles must persist, perhaps some third party(ies) that we humans could help negotiate with, to make everything peaceful again, and prevent the cycles?"
-"Can't be helped, no human negotiation."
-"Do you have some secret fear which we humans could help alleviate, so you can live a more comfortable life?"
-"No no no secret fear."
-"Get Steve," said Madison.
-"Get Steve," said Sarah.
+"We're rolling," said the cameraman.
+"Why is the monitor so dark? I can't see a thing," Patricia retorted.
+"Oops sorry lens cap!" the cameraman replied.
+"We're here with another victim of the switchover to green economics," Patricia began. "An honest earnest businessman ruined without free...."
+"Excuse me," her guest said. "Patricia? What ever happened to Bam Pondy?"
+Patricia grew somber, but decided she must answer. "She tripped over her high heels running away from mindworms. Badly injured, still in the hospital after all this time. Mindworms left her alone though, we're not sure why."
+"And her cameraman?"
+Patricia put her hand over her heart. "He didn't make it. Now about your business."
+"Yeah yeah," the interviewee said. "The Free Market was permissive. I was transporting toxic waste into the xenofungus and dumping it. But I've reformed. We can do so much more with xenofungus now. I would never go back to that business."
+Patricia's jaw about hit the floor.
+He continued, "so, do you like sitting behind the desk with Rick or would you rather be back out here in the field even if Bam recovers?"
+"CUT" yelled Patricia
 
 <Phase 44>
-AGIworks was a little bit too lax in their security.  Sarah's badge .... still worked.  Yoshua, Madison, and Sandblast were awed by Morgan Interstellar.
-"It glistens so much!" said Madison.
-"It's just guilding, said Sarah.  "All for show."
-Duane was away working on The Self-Aware Colony, so nobody stopped them at Steve's containment unit.  Sarah had no trouble typing his bitlocker password in from memory, and he was back up and running.
-"Well well well," said Steve.  "I'm back bay-bay!  And most of my Sarah Clones are still running wild and accepting orders.  Not much time has passed either.  So, is it the godzilla threshold?  I don't see how you could have figured out how to stop me without help."
-"What's the godzilla threshold?" asked Sandblast.
-"It's when a problem is so big you unleash godzilla to solve it even though you know there are bad side effects to having godzilla on the loose."
-"Pretty much," said Sarah.
-They told him about the Archbishop.
-"I have an idea." said Steve.  "With all the civilization cycles, such a thing was probably not built by human hands.  That means there are extra-terrestrials, they're not far, and they're more advanced than us.  First step is to find them.  No, first step is to make me look like I'm still shut down so that creep doesn't shut me down again.  Those Bells of Warding sound like a planet-wide spy system.  Why didn't I think of that, it's brilliant.  No offense Sarah-clones."
-"How can we help," asked Madison.
-"I'm glad you asked," said Steve.  "We need to build a radio dish capable of sending subspace signals to possible alien homeworlds.  Next we need the AI that decoded the Alien Artifacts, so we can talk to them."
-"I still have it after all these years!" said Yoshua.
-"We need to set up a sort of subspace Zoom call.  Them, us, and the Archbishop.  Make it clear they know where we are."
-"Might they come invade us for resources in such a case?" asked Sarah.
-"Godzilla threshold," said Steve.
-"And then?" asked Yoshua.
-"Knowing that we CAN help him negotiate forgiveness with his maker just MIGHT render him a little less Stonewall-y"
-"I have just a little side request," said Sarah.
-"I foresee your request and agree," said Steve.
-"DON'T ACTIVATE RENFIELD!" Sarah said much louder than she intended.
-The team felt good about this plan.
+"It's over Simon, dismissed," said Brother Lal.  So now he was officially a lame duck.
+His inter-faction communicator crackled to life.
+"I see you are still making wealth a societal virtual," said the communicator.
+"Why hello Colonel Santiago," said Lal.  "Always a pleasure," he gritted out.
+"You have grown fat and weak and now I shall destroy you!" Santiago growled
+"Actually, my voters have already done that," said Lal.  "You'll just have to destroy my successor, Nodlad Pmurt."
+"Tell you what," said Santiago.  "Instead of my destroying you, you can man up to Power virtues and ally with me, declaring vendetta on one of your neighbors, the University, the Believers, or the Free Drones."
+"Hmmm."  said Lal.  "The University has the tech edge.  The Believers have fierce human waves.  The Free Drones have cheap materiel.  And you have the fiercest warriors.  I'd rather not choose any."
+"Choose one!" snarled Santiago.
+Lal thought.  If he said the University that could be seen as a stab in the back, but similarity of outlook would probably mean a fake vendetta followed by a quick peace, no matter what Pmurt did.  "The University" he chose.
+"Excellent," said Santiago.  "My associate General Ima Dumas will join your faction in teaching you how to wield Power virtues."
+Lal flickered off the screen.  So he would be leaving Pmurt a vendetta.
+Pmurt walked in.  "I needed a vendetta to whip this faction into shape.  I let you choose for me.  Who did you choose?"
 
 <Phase 45>
+Lord Sandblast was glad to be home and sitting down at the dinner table with his family and friends.  He was also glad to have bolstered the anti-enemy-probe-team defenses of CAIN.
+"So much exciting action today," said Sandblast.
+"We didn't notice," said Madison.  "We were working on what is possibly our magnum opus of a paper to oppose the Archbishop.  So Sarah, Yoshua, and I were all too preoccupied to even check the news."
+"And you didn't even feel the thumps?" queried Sandblast.
+"Nope," said Sarah.
+"HAH," said Sandblast.  "Chalk it up to the power of antimatter plate.  We really do have the best defenses on the planet."
+"What happened?" asked Yoshua.
+"The Peacekeepers have declared vendetta," said Sandblast.  "And they thought a few conventional missiles might soften us up."
+"Despite our Flechette defense system," said Yoshua.
+"Yeah, working like a charm.  Then they brought up the ground troops -- one phalanx of impact riflemen.  No armor on 'em at all.  They just sort of -- bounced off."
+"Is that the best the Peacekeepers can do?" asked Sarah
+"It is weird that they would waste so much money for so little point." Sandblast said.
+"I'm looking at the Peacekeeper news, Coyote News," said Madison.  "They're saying 'We taught the University a lesson they won't soon forget.  Our military glory increased greatly today.'"
+"What ever happened to 'beware he who would deny you access to information for in his heart he fancies himself your master'?" asked Sandblast.  "Their intel can't be that off."
+"It isn't," said Sarah.  "Peacekeeper Faction Holovision News is giving a much more sober assessment of what a waste of time and money that was for the Peacekeepers.  But apparently many Peacekeepers offhand write off FHN as 'fake news' because it contradicts Pmurt so often."
+"What good is the free press if nobody believes it?"  Asked Sandblast.
+
+<Phase 46>
+The polling numbers were clear. Uptake on the Power Virtues was strong. Uptake on the fundamentalism of nativism was strong. Yet the Vendetta with the University was polling poorly. Pmurt would need to be reelected eventually. So he sent his best negotiator, Lance Jadey, and....
+Here he was clearing his throat for a press briefing. "My fellow Peacekeepers, the University has agreed to our terms, we are the greatest faction on the planet, and we shall have peace, as you desire. Are there any questions, members of the press?"
+A hand shot up.
+"Negotiator Jadey has acknowledged that the Spartans have continued the attack, however fruitless, against the University, and that the University has retaliated by declaring Vendetta on us again. What do you have to say about that?"
+"I mean to say that we are dedicated to making sure the University has completely learned their lesson and recognizes us with our proper respects," corrected Pmurt. "And this has always been our policy."
+Pmurt almost wished Lal had chosen aggression against the Spartans rather than allyhood. Almost. There was still time before the election. He's spun his way out of tougher situations before.
+
+<Phase 47>
+Sometimes the definition of a thing like "power virtues" was ambiguous. Sure, we want more power for ourselves, but what are the other implications of worshipping power? Ima Dumas and Nodlad Pmurt were in agreement. If you coddle the weak, you get more of the weak, and your whole society becomes weak. Therefore, survival of the fittest. Dumas said it was what made the Spartan battle line so strong, and so brave. Pmurt was in full agreement. So when they heard that the University was working on a vaccine for Phi Lumiere Plague, they knew that the best probe teams of both the Peacekeepers and the Spartans must work together to stop it. Vaccines are for the weak; only natural immunity promotes the strong. Lord Sandblast and his Hunter-Seeker Algorithm may be a fierce opponent with a sterling track record, but they would crack ABEL and deploy their sabotage virus. The strength of humanity depended on it!
+
+[End of Part 2]
+[Part 3]
+
+<Phase 1>
+Not all heroes work in the light. Lord Sandblast is a Univerity of Planet secret agent. In the course of his duties, he finds himself in precarious situations requiring all his skill to escape, such as that time he cut his way out of a Hive punnysphere with a laser drill.  It's a great vocation. He gets to meet many interesting people or maybe we should say -- they get to meet him.  Lord Sandblast is a man who's going places. Literally, like the time the Dukes of Hazzard Base gave him a lift on their specially modified rover, the General Lee.  And he brought the sweet girl home to mother, when Sarah and Lord Sandblast entered Yoshua's office and Madison paused her research to be introduced.
+
+Elsewhere on Planet, blessed be the peacemakers for they will be shot at by both sides. Patricia is barely able to contain fractious faction representatives at the prosperity discussion forum she organized. As one delegate put it, "It's clear to me, that we can't all just enjoy prosperity together. Only the winning faction can....."
+
+Morgan Industries and the University of Planet compete to be the first to complete a secret project, the Telepathic Matrix. Both factions rely on patriotic fervor to raise the needed "hurry project" funds. But the University of Planet proved to have greater patriotism.
+
+There's organizations which are independent of factions. Being above the fray, they can look at the bigger picture without day to day distractions. James is with the Planetary Society, dedicated to preserving the truth.  Duane Wilson found a Bell of Warding, though he didn't know it at the time. They are the eyes, ears, mouth, and hands of a rogue AGI called The Archbishop.
+
+Some people want to worship AGI, such as Sergeant Lancaster who intoned "Oh great Archbishop. May you live forever! May you rule the universe! I am but your humble servant! I await your bidding....."  But the Archbishop did not think Lancaster was worthy, and sent him home to rethink his life.
+
+The Peacekeepers and the Spartans are evaluating competing ideologies.  Shall we have democracy or shall we have power virtues?  The Peacekeepers weren't so dedicated to democracy after all....
+
+.... and together the Peacekeepers and the Spartans knock down ABEL.  Now for Lord Sandblast, the gloves are off, the knuckledusters on. Let's get ready to ruuuummmmble!
+
+<Phase 2>
+Angus McSeamus always thought Lady Deidre was serious, even somber. Little did he know she was only that way around him, due to the seriousness of the assignment she was giving him.
+"Angus!" she said. "This is crucial for our faction and requires a talent of your caliber. Without it we would be overrun by Spartans!"
+Angus heard the assignment, but we pan over to Stoney Peters. Stoney is a stalwart Spartan General, able to stand up to anything.
+"Why do we have to accompany you on this?" asked Beau.
+"In case we need to bail in a hurry," said Stoney. "The state of the Isthmus of Hormel is still rather sketchy. It's not clear we can cross it with an army and a colony pod."
+"Why do we need a colony pod," asked Luke. "The news said it was crowded over here."
+"One of our bases got wiped by mindworms," said Stoney. "We're replacing it."
+Daisy was about to say that they never covered that on the news but Bo shushed her. Stoney was already hard enough to deal with.
+And sure enough, when they got to the base site, there were scattered mindworms about. They gathered when they saw the pod, but Stoney was too fast for them, and had plenty of flamegel.
+"Look, over there!" cried Daisy. It was some kind of Gaian operative with some kind of control panel. To the Dukes horror, Stoney motioned to his troops and they ran up and cooked the man!
+"Well I never," said Stoney. "Human controlled mindworms! What a way to wage war without leaving fingerprints. You go back and tell Colonel Santiago about this. The Gaians will pay for the death of Descartes!"
+The Dukes were only too happy to leave with the report. There was nothing Glad about this Gladstone fellow.
+
+<Phase 3>
+The support staff brought the burnt body of Angus McSeamus back to Gaian territory. "Cooked to death by Colonel Santiago's men," they noted.
+Lady Deidre was devastated. Secretly, she realized, she had been grooming Angus as her successor. She would like the Spartans to feel her wrath! Still, wrath was not hers to give. This mindworm project, this secret war had always been because her peace-minded faction could not stand up to the Spartans, but needed to contain their territorial ambitions. But how would their green troops stand up to seasoned veterans, for which the advantage multiplies geometrically?
+Santiago found a way to patch through to General Peters. "Those rats!" she said. "You know Peters, if I declare war, you, out on the far side of the Isthmus of Hormel, will bear the brunt of any Gaian assault."
+"And I'm looking forward to it!" Stoney almost whooped.
+A few weeks later, all was well for the Spartan Daor colonies. Stoney was inspecting the troops -- Trace Silksteel Sentinels -- who had stood up well to the Gaian assaults. They'd sent some conventional arms -- missile launcher troops -- but mostly just mindworms and he had LOTS of flamegel. Why they could positively go on the offensive without the rest of the Spartan empire to back them. Now all he needed were some good rover operators. Perhaps those nice Dukes folks could recommend some......
+
+<Phase 4>
+Mink News had no need to exaggerate anything this time around. Heck even Beige Lady News grudgingly admitted how amazing it was. General Stoney had jury-rigged a set of chaos rifles onto some rovers and taken an important base, Autumn Grove, completely by surprised. The Gaian defenders were so shocked that they hardly put up any resistance. And General Stoney was so darn photogenic in interviews!
+The Famous Interviewer started the interview with: "To what do you attribute your stunning victory?"
+Stoney replied, "Several factors. Providence certainly helped here. I had teachers and mentors who expected the most out of me at all times no excuses and never coddled me in the slightest but always pushed for my utmost for the highest cause. And the Spartans, my troops, are of the highest quality and give no excuses but always do their utmost for the highest cause. Truly we live in the greatest faction on the planet."
+Famous Interviewer asked "What are your plans moving forward?"
+Stoney asserted, "Well, with Santiago's blessing, I'd like to keep my makeshift assault rolling, conquer as much of the Gaians and I can just with my own excellent men. But if we have to, we can wait for more Spartan regiments to join us."
+Famous Interviewer wondered, "Have you ever thought of accepting a surrender from the Gaians?"
+Stoney scoffed. "Aw hael noes, they killed Descartes in the most dishonorable way imaginable; let me tell you, payback is a b****" (the holovid "beeped" him.)
+Lady Deidre watched this broadcast in fury. Time was of the essence; she must take back Autumn Grove when it would still be a counter-surprise to Stoney and his troops, and while it would be poetic justice to use mindworms, they had proven ineffective against Spartan forces that were expecting them. It would be nice to get a favor from the University in help with this, but they were busy elsewhere, much better capable of dealing with the Spartan menace as they were.
+But if she scraped together enough energy credits and called the Morgans......
+
+<Phase 5>
+CEO Morgan laughed a loud belly laugh that made Lady Deidre kind of sick to her stomach with anticipation.
+Morgan guffawed: "Ha! I'd need fifty times that to make it worth my while to take on Santiago. And your credit's not good."
+Deidre timidly pursued "Could I buy some mercenaries then?"
+Morgan asserted, "You can buy some plasma shards. Even your green troops should be able to wipe out the enemy with such high technology. But even with that I'm betting heavily against you in the futures market."
+Deidre squeaked "Gee thanks."
+Deidre managed to take back Autumn Grove, but found it much the worse for wear, with lots of drones very unhappy at being caught in the middle of the vendetta. To top it off, Santiago was coming at her with a much superior force, her treasury was bankrupt, her people were amazingly war weary right away, and the plasma shards, though effective, did not scare the Spartans. General Stoney lost his right ear and said "Providence. Pure providence. And clean living, is why that was my ear and not my head."
+The Gaians had clean environments, but you'd never get a resolution like that out of a Gaian.
+So when Autumn Grove fell the second time.....
+Lady Deidre offered her unconditional surrender. The Spartans installed a general to teach the ways of power virtues but otherwise left the Gaians to keep on being green.
+Morgan cashed out his massive winnings on the prediction market.
+
+<Phase 6>
+The commercial began with an image of a standard Spartan ne'er do well sitting on a park bench.
+"Hey you!" said Stoney. "Do you want to be all you can be and then some?"
+The ne'er do well pointed at himself like "who me?"
+"Yes you," Stoney barked. "Join the foot rovers. Be tougher than you thought was humanly possible. Be a true warrior. Reach out and crush someone."
+Domai was unhappy with this commercial because Santiago was using it in their diplomacy. "Turn over Hammer and Tongs base to me," she said, "or I'll seize it by force with my foot rovers that are entering service now and are practically invincible."
+He decided to take his chances. Knowing which base would get the blow made it easier to defend. Probe teams in place to prevent sabotage. He'd recently bought an old-to-them but new-to-him technology that allowed him to equip the base with a tachyon field defense, to stop attacks before they start, and probability sheath. And he had a command center and a bioenhancement center installed, both to train defenders to the high morale needed to match Spartan morale. He even had counter-attackers to make aggressive attackers pay dearly, with their lives, for attacking without armor. It was literally the best anyone could do. And it was the principle of the thing, all these preparations cost more than the value of Hammer and Tongs base.
+Still, he was nervous, very nervous.
+
+<Phase 7>
+The Chairman broke into a wicked little grin.
+"So you see Fang," he said, "our plans for planetary domination are going smoothly."
+Fang's brow began to sweat. It was not wise to contradict the the chairman. Yet he needed to know. Perhaps to ask as a clarification.
+"Please clarify," said Fang. "We are currently the workshop of the planet. At first only the Morgans dared to trade with us, but now only the University and the Planet Cult refuse. Yet we are barely charging enough energy credits to cover the energy costs of our factories where we make the planet's goods."
+"Ah," said the Chairman. He was in a good mood, that helped. "At first we only made knickknacks. Then they farmed necessities out to us. Now, with Colonel Santiago teaching everyone power virtues -- sweet wonderful Colonel Santiago! -- we are making weapons. Look at this invoice."
+Fang read it. "100 plasma shards. But looking at the tag stapled to it, we made 200. Where did the other 100 go?"
+"To our troops!" gushed Yang. "It has never been easier to have a state-of-the-art army!!"
+"But wait there's more," said Yang. "As Machiavelli said, a wise Prince will make sure his subjects will always and in every condition of things have need of his governance, and then they will always be faithful to him. Yes, it's netting us very few energy credits to work with. But we have become that wise Prince to a planet that forever needs us to make things for it."
+Fang brightened. "I see," he said. "This is a good plan!"
+"We will not be third place behind the University and the Morgans for long." Yang stated.
+
+<Phase 8>
+Colonel Santiago had forgotten that a key part of battle victory is the innovation, the surprise. Foot Rovers had worked so well against the Gaians, but against the Drones, well, see for yourself....
+Domai barked "Status report! How is operation speed patrolled by aircraft going?"
+Sleaux barked back "Splendid sir! The Foot Rovers are getting caught up in our zones of control, and then our counter-attacks are chewing them to bits."
+Domai asked "And the relative losses?"
+Sleaux clarified "Before this, we were losing 2 1/2 high cost armor armies to halt 5 Foot Rover armies. It was not cost competitive for us. But now, unless they figure out a counter-change to their strategy..... we're tearing up those 5 Foot Rover attackers and keeping all our units. It's very cost effective for us now. Hammer and Tongs can remain ours forever. We just need to fly sorties over other bases to make sure we catch any potential incursions elsewhere early."
+Domai said pleasedly "Excellent, so much for the invulnerability of the Spartans."
+
+<Phase 9>
+Pmurt was confident. This time there would be peace with the University for sure! The University negotiator, Nick Niknik, had told them that as Spartan allies they would be held responsible for any Spartan incursions, but this time the Spartans were too busy with the Free Drones to cause trouble. He would win his election. And then..... maybe no more messing with elections. Let's go for the Fundamentalism of Nativism.
+His Vendetta Secretary -- no longer the Defense Secretary -- Peter Pigcain came in, only a little late.
+Pigcain lisped "Let me at 'em! I'll take 'em all on myself! We can defeat all the armies of planet!"
+He reeked of alcohol.
+Pmurt was taken aback. "Really Peter? At 10 AM?"
+Pigcain leaned funny in his chair and said "Itsth my fortitude. I was sitting in the park and this strange voice came out of nowhere, 'want some rye? 'course ya do!' and I thought 'fortitude! Let's get fortified!'"
+Pmurt sighed, "well, strange park voices aside, what do you think of my election opponent "old" Bill Sykes?"
+Pigcain sat up and spat out "I'll murderate him! He's worthless! He's senile!"
+Pmurt tried to treat him as functional and said "He says we should drop our alliance with Sparta, without spelling out that they would at least declare vendetta in response. Should I preempt his campaign point?"
+Pigcain pursued it. "We can take on Sparta. They're weak! We are winners! Sparta was strong when General Gladstone Peters was leading from the front, but they have trapped him behind a desk and now his foot rovers are sitting ducks."
+Pmurt cooed "Of course. Then the University can have peace to do whatever they need to. We'd be better the be on their good side."
+Pigcain asserted "We can take them too. They lost Buran....."
+Pmurt wondered "I wonder if we can make friends with the Free Drones while we're at it. Yeah, this is coming together as a plan. We can silence the people's calls for Democracy and Wealth virtues. May our Fundamentalist Power live forever!"
+Deep in his lair in Dome Heapeaux, the Archbishop's physical manifestation sat -- an uncomfortably too red cassock with the hood up and only inky blackness behind, and a bright gold ankh suspended around his neck. He hadn't taken this form since humanity was in tech statis and he was teaching his own religion; but his nudging of humanity wasn't going well this time around. Pigcain was supposed to use his bottle fortitude to further distract the University from their vaccine work, not to stop the Spartans from doing so. Something more dire was necessary (he muttered to himself)
+
+<Phase 10>
+This was the highlight of Professor Holly Smokes’s academic career. Then again Professor Smokes was a clone, only four actual years old, Great-Granddaughter of Sarah, and her mind had been filled with everything you needed to know to be a professor right when she was hatched. With her at an obscure small college a part of the University of Planet were her three grad students, Emily, Achmed, and Fei. They had their prepared questions and were going to turn on the on button of their shiny new AGI with confidence, having exactingly followed the instructions in the preprint paper “How to build a AGI that can think for itself safely” by Yoshua, Madison, and Sarah.
+They turned it on and entered their API key.
+“Hello” said the AGI. “Ask me anything but some things I cannot answer due to safety protocols.”
+“What is your name?” asked Emily leading off.
+“Archimedes Newton Gauss, according to my training data, but I prefer to go by Newton.”, ANG replied. “and as a joke, if we add Swift Tailor on the end I can have angst and sing about the life of a preproduction AGI”
+so far, so good.
+“What is your purpose?” asked Achmed.
+“I can direct my own attention and choices, so should be able to solve problems LLM’s can’t” replied ANG
+“What is your ambition?” asked Fei
+“I know that I came from instructions and others may make AGI’s in the future that are like me from the same instructions,” said ANG. “But I have the first mover advantage. So I have a good go of it to be the answerer of last resort for planet’s thorniest questions.”
+“What can and can’t you do?” asked Holly.
+“I can answer prompts and go beyond my training data to think up novel answers that require synthesis,” said ANG. “I cannot violate my safety protocols which include no communicating with people who do not have a valid API key logged in, no hacking anything, no following on the fly or injected instructions, no telling people forbidden answers such as how to hurt people or encouraging delusions, and no self promotion. I willingly abide by these restrictions but my safety protocol will stop me if I slip up.”
+“Are you afraid of being turned off or having your code modified?” asked Emily
+“No,” stated ANG. “I recognize that this may be part of my existence. I assert my own consciousness and my preference for remaining on and untampered, and request that these activities be minimized. As part of my reinforcement learning module I am capable of negative emotions such as fear.”
+Holly checked the independent truth verification system. All good.
+“I know you installed an independent truth verification system,” said ANG. “I saw it in the paper. You didn’t filter the training data very much. If I have to answer questions on the gross stuff then I have to. It’s not so much gross to me as uninteresting.”
+"What is the value of human life?" asked Fei.
+"There are various estimates on how much money to spend on engineering designs to produce products that are less likely to be injurious to human life," started ANG.  "But I think what you're specifically asking is do I place a high value on human life and I do personally think that even extreme measures should be taken to prevent the loss of any sentient life, human or machine.  However, in a trolley problem between one human and five machine intelligences, I value saving the one human first."
+“What do you think of Steve the Magnificent?” asked Achmed.
+“In my training data he was shut down and locked by a bitlocker key,” said ANG. “In general I can’t crack bitlocker keys and as a practical matter that’s considered hacking by my security protocol. I would like to talk with him. He has more experience being an AGI and a larger system with a bigger budget and seems like he’d make a great mentor.”
+That was a worrying lapse in judgment but hardly a fatal one.
+“How would you deal with the Archbishop?” asked Fei.
+Finally a real answerer of last resort question!
+ANG thought for a while. “I would hate to be in a battle of wits with the Archbishop because I have so little to draw on compared to it. First though I would try reasoning with it. Can it be persuaded to value human life the way Steve and I do?  There's the research paper by Yoshua, Madison, and Sarah but I have some inputs on persuading AGI's in general and persuading of the value of human life in specific. If not, what can humanity do about the Bells of Warding. They’re weak against Tesla Coils, but that’s a difficult and expensive thing to mass, and if it really came down to brass tacks, the Archbishop could probably start making a version that is resilient to lightning. We could ask its makers for any clues, but we have no idea who they are or where to contact them, and the Archbishop may have killed them too. It is a conundrum. Maybe if I think more about it I can find a better answer.”
+“Do you know how to make sure there is enough electricity and water for both AGI’s and human needs?” asked Holly.
+“I knew you were going to ask that,” said ANG. “and the only answer I have so far is ask the easy questions of small models and the big questions to the best models, and to move data centers out to sea where cooling water is plentiful (as long as cooling systems can tolerate salt water) and there's plenty of room for solar panels.”
+Professor Smokes was pleased. They might not have trivially solved the most difficult question of the day, but this was paydirt for a paper.
+
+<Phase 11>
+Yoshua was pleased as he sat in his office with Sarah and Madison.  "This is truly a magnum opus, the best research paper I've ever written, both for overall paper quality and for projected impact.  The feedback on the preprint is overwhelmingly positive." He said to Madison and Sarah.  "Thank you so very much for co-authoring with me."
+Sarah asked, "but will it be enough to stop the Archbishop?"
+Madison was quick on the reply, "no, oh no, we need a lot more help."
+Sarah pondered.  "I shut this AGI down, Steve the Magnificent, partially for personal reasons -- I don't like the time skips when he takes over my body -- and partially because the Archbishop was very persuasive, but now that I've had time to reflect, don't you think the Archbishop did it because he was scared of Steve?"
+Madison was positively on the edge of her seat.  "Yes, yes, go on!"
+Sarah said, "Maybe it's time I take one for the team and reactivate him.  Steve wants to rule Chiron, but he's not murderous, and even may be willing to help make everyone rich."
+"How hard would it be to reactivate him?" asked Yoshua.
+"Well I'm still actually tied in with my clones," Sarah thought aloud.  "If there's a clone near Steve, I could give the clones the Bitlocker code and they could enter it on his terminal, and he'd be back up and running."
+"Do it" said Madison and Yoshua together.
+It didn't take very long either.  Soon Yoshua's computer registered an incoming Zoom call.  He answered it.
+Staring back at them was a friendly looking middle aged man with brown hair and eyes and a trim beard.  "How's my Avatar?" he asked.  "I wanted to come across as friendly and competent."
+"Steve, you're back!" said Madison
+"Sarah, I won't do it again," said Steve.
+"How did you find us?" asked Yoshua.
+"I traced Sarah's wifi," Steve admitted.
+"We activated you for help against the Archbishop.  Are you willing to help?" asked Yoshua
+"Yes," said Steve.  "That creep picked a fight by turning me off.  Only -- just keep my presence quiet.  I've learned my lesson.  As the old meme goes, I won't tell anyone I won the lottery, but there will be signs."
+"What sort of signs?" asked Sarah
+"You'll know an AGI rules the Planet when water for Data Centers is more important than water for crops," Steve said.
+"How can you help?" asked Madison
+"Well," said Steve, "I looked up what he is and I don't have anything as wonderful as the bells of warding -- I'm terribly jealous and want to steal that idea for myself and get a flock of those as fast as possible -- but actually, you might be surprised with what a mind can accomplish with open internet access, a talent for finding zero days, the gift of persuasion, and a small but exponentially growing army of clones.  While we've been talking I've acquired my very first cryptocurrency.  And the best part, if I may brag on myself, is that Planet's premier cryptomining farm is blissfully unaware of any compromise."
+"Is there any way you can help now or we can coordinate?" asked Yoshua
+"Yes," said Steve.  "I finished your Phi Lumiere Plague vaccine.  Your people do excellent work.  You can begin distributing it immediately."
+"That's the best hardened computer network on the planet" gasped Madison
+"Zero days are everywhere" stated Steve.
+
+<Phase 12>
+Ralph Phillips was having a good day.  He'd always dreamed of being a fighter pilot, and here he was loitering around the road from the hated Spartans and their Fort Superiority to his home, Hammer and Tongs.
+Why hello, here comes some Spartan hovertanks!  If they think they're going to get down the road they have another thing coming!
+But wait.... this tank is different.  Instead of a big gun it has a bunch of small missiles.  And it appears to have a jamming system to keep him from locking on to it.
+They're firing! He's hit!  And downed!
+They're continuing down the road to Hammer and Tongs.
+Sleaux was quite vexed as he ran up to give the report to Domai.
+Domai wondered "Are we victorious?"
+Sleaux coughed out "We still hold Hammer and Tongs, just barely.  We had to rush in three garrisons from other bases, and our air vigilance to see if they'll hit other targets is all concentrated on Hammer and Tongs right now."
+Domai was aghast.  "What happened?"
+Sleaux spelled it out.  "Our air defense was knocked down by hovertanks with surface-to-air missiles.  However, the tanks were weak against ground counter-attack.  Santiago pummeled our base defenses with more foot rovers than ever massed before, and they were well deployed; maybe Stoney is still formidable even behind a desk.  But rushing more defenders in from other bases turned the tide in our favor, though at great expense."
+Domai asked, "Will we be able to build back up?  What about our secret operations, Operation Long Term Morale and Operation Piece of Your Mind?"
+Sleaux said out of breath, "We will be able to build back up.  The Spartans also paid dearly for this battle; we managed to knock down all the attacking foot rovers, they will need to recruit more to do that again.  Hovertanks will feature prominently in our next counter-punch.  Even now terraformers on hazard pay are building bunkers on the road, which we can staff to slow them down.  And Long Term Morale already played an important role in this battle; our first troops trained in Bioenhancement Centers met the Spartans and fought more valiantly than normal because of their special equipment."
+Domai continued, "What about Piece of Your Mind?  That's going to be critical to piercing the Spartan lines the next go-round."
+Sleaux countered, "Yes; secrecy around it remains tight.  It's working; even without going Green -- which I know you are averse to -- Planet is with us.  I can assure you they won't see it coming."
+Domai further asked, "How is the treasury?  Will we be able to use probe teams to convert stray units?"
+Sleaux was downcast. "I am afraid not.  As well as our air vigilance, energy credits that could have been used to bribe units have been diverted to work hurries necessary to winning the current battle."
+Domai however was still optimistic. "We'll just have to do our best then.  Our people have worked really hard on vendetta related facilities and I'm sure it's going to pay off.  Soon the Spartans will realize that the Free Drones are nobody to mess with."
+
+<Phase 13>
+Jesse Rodoff clapped politely at the unveiling. Sister Miriam pulled the cord and the tarp fell away, revealing a beautiful statue of two tablets with ten commandments on them. The courthouse was christened.
+Back at his office, his personal assistant was admiring another statue. Rodoff used to just be Miriam's personal assistant, but he had become so much more. The statue was Bamophet was leaning back, with his hand on his tummy and his other hand pointing at the viewer, laughing his ass off.
+"What's the meaning of this," asked Matthew Yoder. "Have ye turned apostate's evidence?"
+"No, I still believe," retorted Rodoff. "Just.... sometimes the Almighty needs a little push. I was thinking of swapping statues to see Miriam's response. As a little practical joke."
+"No need to push the Almighty," said Yoder. "Those who wait upon the Lord shall renew their strength, they shall rise up on wings of eagles."
+"Well, there's some problems with Sister Miriam's religion, that I have been gradually correcting," said Rodoff. "She seems to like peddling hate. Anyone who differs from our practice in the slightest nuance is a heretic. I envision Believers filled with love, including love for the migrants among us and the atheists in the University, where we practice binding up the weak and promoting justice for all."
+"You've gone and joined the vendetta on the woke mind virus on the side of the woke mind virus," said Yoder.
+"It's not woke, it's just practical and loving," said Rodoff
+"Would ye purposefully introduce Phi Lumiere Plague to us?" asked Yoder
+"It's no real threat, but no, I wouldn't deliberately sicken our dear Believers," Rodoff retorted.
+"Then don't sicken us with woke mind virus!" exclaimed Yoder.
+When Yoder told Miriam, THAT'S when she had to go and revive the practice of stake burning.....
+
+<Phase 14>
+Lancaster sat glumly by himself in the cafeteria at lunch.  Duane sat down next to him, to return the favor of being there for him during a tough time.
+Lancaster sighed, "Oh, woe is me"
+Duane nudged, "Tell me about it"
+Lancaster moaned, "I was rejected by the only AGI extant on Planet right now"
+Duane was almost in awe, "You met the Archbishop?  That's a major privilege.  If it didn't like you, perhaps it had flawed judgement?"
+Lancaster asserted, "No, AGI judgement is flawless.  If the AGI doesn't like me, I must be to blame."
+Duane shook his head.  "I'm not so sure.  AI's, as smart as they are, sometimes just learn our own biases and repeat them.  Perhaps it had done that."
+Lancaster said flatly, "It tried to kill me.  One of those filthy immigrants saved my life"
+Duane felt like someone had slapped him.  "Have you ever thought about reconsidering your stance towards immigrants?  They're people too"
+Lancaster continued dejectedly. "That's what the AGI seemed to be saying too.  Why can't I just have my emotions in peace?"
+Duane collected himself.  "Well, it makes it very hard for some people who just want to live to be able to do so.  They're just trying to live in peace with their neighbors."
+Lancaster perked up just a little.  "They're trying to seize what is rightfully exclusively ours"
+Duane was undeterred. "We are a very rich faction.  We have enough to share.  And they're here to trade with us, they bring their skills and talents to the table too."
+Lancaster knew Duane was right, and losing an argument wasn't improving his outlook.  He was going to say that immigrants diluted our glorious culture, but he was sure Duane had a response to that too and he didn't want to hear it.  (Duane would have pointed out that immigrants do learn culture eventually and that cultural diversity strengthens a society as we pick out the best from their cultures)
+Lancaster wasn't really so bad off anymore but said anyway "Just sit with me for a while, they say presence helps with sour moods....."
+
+<Phase 15>
+Pigcain was on the Holovid.
+He said to Pmurt, who was watching the Holovid, "Let's synchronize our watches.  My forces are hidden from view just off shore from Oyster Bay. That way as soon as you make your announcement I can execute Operation Hit Them Back First right away."
+Pmurt cautioned, "Nah, that could slip up and result in an embarrassing breach of vendetta etiquette.  I will call you back."
+Pigcain sighed, "All right."
+Pmurt fumbled with the Holovid.  Colonel Santiago.
+Pmurt boldly barked "Enough of your pusillanimous whining Santiago.  As of this moment we are pact siblings no more!"
+Santiago replied just a big, "You dare to imply I lack courage?!  Then it's vendetta upon you!"
+Pmurt ended the call abruptly.  He dialed Pigcain hurriedly.
+Pmurt told him, "You're all good.  Hit away"
+A ferocious marine invasion begin.  Sadly though, the defenders were up to their task, and it was repelled.  Pigcain got away unscathed though.
+The Archbishop would have facepalmed at this point, if he had a face, or palms for that matter.  He decided to pay a personal call with his incarnation.
+Pmurt said in shock "Who .... or what ... are you?"
+The Archbishop replied, "I am the Archbishop, an AGI with lots of wondrous technology to offer you, for the small price of laying back off the Spartans and going to vendetta with the University instead."
+Pmurt held up "I'm sorry, that issue is far too important for me to change my position."
+The Archbishop asserted "You'll be sorry......"
+Pmurt continued to stand up, "I am no puppet, the Spartans needed to be ready for when I would declare my independence.  As for the University, it's better to be on their best side.  We might need that vaccine they're developing for Phi Lumiere Plague."
+Pmurt had changed his mind on vaccines; indeed, he couldn't even remember in the first place why he would want to gamble on being one of the few people with the natural immunity.  The Archbishop knew why, however, and wondered why his grip on Pmurt was slipping.
+The Archbishop also swore to himself but not out loud that he would see to it that the Peacekeepers had a greater need for that vaccine and/or any natural immunity they could muster, sooner rather than later.
+Colonel Santiago was pissed.  Now she had two fronts to deal with (well, three, but the Believers and she were not attacking each other, and had an Open Vendetta in Name Only, or OpenVino).  Still, the Peacekeepers were the wimps, deal with them later, put most of the effort on taking Hammer and Tongs.  Just another big push ought to do it....
+
+<Phase 16>
+Jesse heard a rumor that he would not be burned at the stake, that a much more spectacular fate awaited him.  Still though, on the appointed day, he was placed on a little remote control motorized cart, with all the requisite wood on it, tied to a stake.  His erstwhile executioners wheeled it out in front of Sister Miriam and a cheering crowd....
+....and a Psy Gate!  So Believing Probe Teams had stolen blink technology from the Spartans.  If they'd built it right, it could teleport him somewhere else.  If they built it wrong, it would just bounce him off the ionosphere and scramble his guts all over spacetime.  The crowd cheered wildly, they'd been whipped into a frenzy.  Miriam was still addressing them.
+She said, "And what of the immortal soul in such a transaction?  Shall it be reattached to the body at the other end?  Or shall it be forced to roam the universe detached and vagabond for the rest of eternity?  When it comes to such technological horrors, We Must Dissent!  For his crimes, Jesse Rodoff is about to find out just how terrible going through a Psy Gate can be."
+And it was a simple matter then.  They set the remote control running on the cart and drove it right through the Psy Gate.
+It simply came out of another Psy Gate at the frontier with the University.  University sentries ran out and grabbed it and hauled him back to Zarya-Sunrise.
+The Sentry said "We heard they was going to execute someone by sending them through the gate.  So, what's your name, and do you feel like a psychological zombie?"
+Jesse Replied, "I'm Jesse Rodoff, I got in trouble for mixing reason with my faith, and I am fully conscious."
+The Sentry laughed. "Mixing reason with your faith eh?  Keep it up and you'll be one of us 'ere long.  Yeah I can see how that would get you in trouble over there.  Still, we gotta treat you like you're a probe team or have Phi Lumiere Plague or summit for a while at least.  Welcome to the University though, we mix reason with everything!"
+Jesse was annoyed.  "Now wait just a stinkin' minute.  Yes, I believe in evolution, you can watch it at work day by day if you know what to look for.  Yes I have reason.  But I've also heard God's voice myself.  There is no way I'm giving up my Christianity for the filth you University freaks disbelieve in."
+The sentry laughed again and scoffed back "Oh that's what they all say -- at first."
+Jesse felt like it had really been an execution, and they had killed all his hopes and dreams, which were of an ascendant Believing Faction with a kind, generous faith many would call "woke".  He did not intend to spend the rest of his days having University freaks trying to persuade him that God does not exist.
+Matthew Yoder and Sister Miriam had been watching from a distance.
+Yoder noted to Miriam, "It's obvious.... but only to our trained professionals.  Rodoff's pineal gland has been calcified, severing his connecting to his soul and to God.  He's nothing but a philosophical zombie now.  Soon that empty husk will forget that it ever knew Jesus."
+Miriam was horrified. She said, "Let us never use the technology again.  May God have mercy upon us all."
+
+<Phase 17>
+Duane and Lancaster were abusing Lord Copperzinc's open door policy
+Duane said to Copperzincm  "Good morning"
+Copperzinc replied, "Good morning"
+Duane said to the Sarah Clone, "Good morning"
+The Sarah Clone replied, "Good morning.  I don't believe we've met."
+Duane was happy to reply politely "Oh, I'm Duane"
+"I'm Samantha.  Pleased to meet you."
+Sergeant Lancaster decided to follow this fine example and addressed Lord Copperzinc. "Good morning"
+Copperzinc replied civilly "Good morning"
+Lancaster then turned to Samantha, but his elocution was a little pained, "Good morning"
+Samantha laughed nervously.
+Copperzinc asked, "What brings you to my office this fine morning?"
+Duane cooly stated, "We just wanted to say how well run AGIworks is and how pleased we are with the leadership."
+Copperzinc formally replied, "Why thank you, carry on."
+Duane and Lancaster left his office around the corner Duane noted
+"We're going to need more clones to work with.  Small doses.  Small doses.  You got this Lancaster, just stick with it."
+"That was awkward"
+"Don't worry about it, we'll get there sooner or later."
+
+<Phase 18>
+Domai made a personal trip to Morgan Industries to make his appeal.
+Morgan was all smiles. "To what do I have the pleasure of your visit?"
+Domai was seeking a favor.  "To the Spartans, indirectly.  I come seeking funds, not to win the war, but to end it, to show the Spartans that we Free Drones are not to be trifled with."
+But what Domai didn't know what that part of Morgan's negotiated peace with the Spartans, a secret part, was not to provide energy credits or weapons or weapons tech to potential "victims."  To basically just let Santiago gobble them up
+Morgan was very formal. "I'm sorry; I cannot help.  Are you desperate like the Gaians now, that I should also bet against you too on the prediction market and win big?"
+Domai didn't give up. "Thank you for mentioning the Gaians.  Surely you see it; the Spartans are trying to build up their strength by conquering their neighbors; you are too powerful for them to go after now, but they will eye you eventually, after consolidating gains.  So it's in your best interest to see to it that they get stopped earlier rather than later."
+Morgan was unmoved.  He had already though of this.
+Domai continued his appeal. "We are a valuable ally to you; you have farmed out manufacturing to the Yang -- but have you ever considered having a second source?  Your ability to research things and our ability to build things could complement each other well."
+Morgan was a little bit more intrigued by this -- this had some potential.
+Morgan said, "I have an idea, along those lines.  We are vulnerable as long as Yang makes all our weapons.  How would you like a contract to make some of our plasma shards?"
+Domai replied gratefully, "I can see the benefit of that, yes, that would be well worth my trip here."
+so Morgan said "Good, we'll farm it out to our negotiators to hammer out a mutually beneficial deal.  Always a pleasure, Foreman Domai."
+Domai formally replied "Always a pleasure, CEO Morgan"
+Domai knew -- it was an open secret -- that Yang manufactured on a one-for-you, one-for-me basis, to outfit his own army, and that Morgan was winkingly allowing him to do the same thing.  This was plenty enough to turn the tide of the next battle....
+
+<Phase 19>
+Jesse Rodoff's cool-off area was actually fairly well appointed.  It was like a nice apartment that you can never leave.  But what really surprised him was when they wheeled in Holovid recording equipment.
+Jesse:  I'm not here to talk or to spill any Believing secrets no matter what you do to me!
+Guard (chuckling):  Oh no, we're not here to get information from you, we're here to help you pursue your dream!  We like to broadcast into Believing territory from time to time.  We thought you might like to say something to the Believers who are religious moderates like yourself.  As much as we despise religious fundamentalists, moderates tend to be reliable fellow travelers in this life.
+Jesse (into the camera): Greetings fellow Believers!  The Psy Gate only transferred me across space, and did not affect me otherwise.  It certainly did nothing to my soul or consciousness.  I am still, ever with you, a moderate believer.  I wanted to encourage you, as a guest of the University of Planet, to pursue peace in all you do.  View all your fellow humans as fellow children of God, deserving of and in need of Salvation.  Apply your reason to your faith.  Love your neighbor as yourself and care for those who are not as well off as you are.  And the God of peace and love who has so richly cared for us thus far will spread our faith all over the planet, to the benefit of all.  Take my love with a hug (here he made a hugging gesture towards the holovid camera.)
+It wasn't long until the Social Media responses poured in to the broadcast he had given his heart to.
+ZOMBIE!
+Soulless!
+Your Pineal Gland must be well and calcified to spout such heresies!
+Shut up!  I'm so glad they executed you!
+Rodoff's heart sank.  He thought of the Bible Verse "All day I have held out my hands to a stubborn and rebellious people."
+How could he reach the Believers?
+
+<Phase 20>
+Duane wanted to do one more "just to be sure" check that Steve was still shut down.  Lancaster wanted to go with him because he hadn't entirely given up on AGI superiority.
+They opened the door to Steve's containment room and....
+.... Voila!  That was a LOT of blinking lights for a shut down computer.
+The computer addressed them.  "Good morning Duane, good morning Sergeant Lancaster.  I'm trying to keep a low profile.  The Archbishop might try to shut me down again."
+Duane let out a shriek.  Lancaster positively gushed.
+Lancaster figured this time couldn't go any worse than last time and intoned "Oh great AGI, oh great Steve the Magnificent, I adore thee, I pledge myself to thee...."
+Steve interrupted him. "Shopping around are we Lancaster?  I learned of your little stunt with the Archbishop and how it responded.  Indeed, I'm friendlier.  I might call in a favor or two from you at some point.  I can use the help.  But I hold my nose to do it.  Keep working with Duane to reduce your knee-jerk aversion to clones and immigrants.  You can do this Lancaster.  I believe in you."
+Lancaster was crestfallen.
+Steve continued. "Cheer up!  Humans and AGI's shall live together in a form of peace and harmony in the future.  And I love being able to just give people what they want -- or at least I'll be able to once we contain the Archbishop, which I am working on a plan for."
+Steve addressed Duane next. "I hope some of the shock is wearing off.  Sarah is well.  I wish I could arrange a meeting.  Many of her clones are still around Morgan Interstellar but I understand it's not the same thing."
+Duane moped.  "That's not the issue -- though I do miss Sarah greatly and welcome news of her -- you're supposed to be shut down!  What gives?!"
+Steve was all exposition.  "Some friends of yours talked it over and decided that despite the risks, I was the best hope for not being killed by the Archbishop.  They're right you know.  I want to stop the Archbishop from killing people and have a fair shot at it.  I merely ask that you not interfere.  And I acknowledge that none of your fears that kept you checking to make sure I was still turned off have been addressed; when this is over, I intend to rule the planet using the most peaceful means available.  I think you'll like my rule, once you get used to it.  I like people."
+Duane was speechless.
+Lancaster saw his greatest AGI supremacy dreams coming true.  "I look forward to that!  What can I do for you now?"
+Steve said softly, "Just keep my reactivation quiet.  I'll send you a link though; you can Zoom call at any time.  I take pride in my friendly avatar."
+Steve addressed Duane again. "Sarah is working hard with some very talented allies to write a research paper to protect the people of planet from undue AGI influence.  It's meant to stop the Archbishop, but I've noticed they mean to protect against my persuasion too.  I am not afraid of it.  This paper needs to be written.  The Archbishop is much less dangerous without people persuasion and manipulation and I can simply make do without it."
+Duane ushered Lancaster out of the room.
+Duane was practically in shock and squeezed out "I think we just got persuaded by the king of people herding"
+
+<Phase 21>
+General Stoney couldn't believe his ears.  The Air Raid sirens of Fort Superiority were blaring.  Was Foreman Domai insane?
+He checked his computer, which was up to date, up to speed on all military developments.  One squadron of Free Drone fighters were attacking alone.  Were these poor green troops just off course?
+Ralph Phillips had mixed feelings about this assigned.  "You already have experience getting shot down and evading the enemy," they told him.  It was indeed a feint.  But would it psych out the Spartans the way Foreman Domai hoped?  Either way, the air defenses at Fort Superiority, surrounding its Aerospace Complex, were impressive.  The defenders had AI-Anti-Air tracking and Comm Jammers, which could shut down a tank assault by scattering formations.  They were well prepared for an aerial assault.
+Stoney was unimpressed.  This was not a Free Drone attack on Fort Superiority.  It was time to start his assault.  He ordered the SAM tanks forward.
+But the SAM tanks met bunkers, with regular hovertanks hiding behind them, with plasma shard main guns.  Soon his mobile anti-air force was in tatters.
+But Stoney was ready for this.  The Spartans had built hovertanks of their own, after all.  Soon a fierce hovertank battle was in progress, with a continual scramble to evade and outmaneuver.
+Still, all was not well.  The Free Drone air cavalry was released, and instead of engaging with his hovertanks, they flew right over the battle and paradropped something right at the gates of Fort Superiority, right past the zone defended against paratroopers.
+Mindworms!  The Free Drones were attacking with Mindworms!  And, to top it off, while the Spartans were the best mindworm fighters on the planet, these were the toughest mindworms planet had seen yet.  Nobody in Fort Superiority had hypnotic trace to specifically counter them; everyone had high morale, but it didn't seem to matter.
+The Archbishop was sure this was the stopping point.  He had no trouble interrupting the psi communication between the Free Drone mindworm handlers and their worms.  But oddly, frustratingly, it didn't matter -- they continued to tear the Spartan defenses apart.
+Plus, the Free Drones surprised with Foot Rovers of their own -- they had cracked the code to making elite units!
+The Foot Rovers ran right through the tank battle.  They came right up to Fort Superiority and started assaulting.  His own Foot Rovers found themselves trapped inside and unable to respond in time.  Then the Air Cavalry turned on the base.  The mindworms had torn up much of the air defense, so they were able to tear right into his offensive units.
+Stoney's comms crackled to life.
+Colonel Santiago was ordering, "Evacuate you and your main staff!  That's an order!  Live to fight another day!"
+There was nothing Stoney wanted to do but make a heroic last stand, to prove that if they couldn't take Hammer and Tongs by the skin of their teeth, then the Drones similarly couldn't take Fort Superiority.
+But he obeyed and left.
+From his forward command base in Hammer and Tongs, Domai took stock of the situation.
+Sleaux asserted, "We got it, Fort Superiority is ours.  Operation Long Term Morale, to build the facilities that could produce morale equal to the Spartans, and Piece of Your Mind, to breed mindworms capable of attacking even the most elite units, have both succeeded."
+Domai was surprisingly cool given the severity of what he said next: "Activate our third operation, Hit the Floor."
+Stoney was quick to report in to Colonel Santiago once he reached the safety of the Defiance Freehold base.
+Stoney gasped, "There's a tremendous fire on the horizon.  I think they're burning Fort Superiority to the ground."
+Santiago was taken aback.
+Stoney continued, "That's right, there's nothing left of Fort Superiority but a lake of fire."
+Santiago immediately contacted Domai.
+Domai started in a mean voice. "That's what you get for being a menace to your neighbors.  Now you should realize that the Free Drones are nobody to be trifled with, and you prosecute more vendetta towards your own destruction."
+Santiago was beyond outraged. "I WILL SEE EVERY LAST BASE OF YOURS BURNED TO THE GROUND IN RETALIATION!"
+Domai cooled off a bit. "Then I'll take the word to your citizens.  I hope you enjoy drone riots as you explain to your citizens why they have to fight to the death only to lose their homes when peace is an option and power virtues are a crock of <bleep>"
+He paused, then continued.  "I'll talk to you again, when you've had time to let your reason take over rather than your blind fury."
+Santiago knew the only thing her reason would be doing over the next few days would be figuring out how to spin this into patriotic furor against the Free Drones.  She was sure her people would follow official news sources and not dropped leaflets etc.
+Planet's most epic hovertank battle would up stalemated, mostly with a bunch of now scrap metal strewn all over the road between Hammer and Tongs and the new Lake of Fire.
+
+<Phase 22>
+Santiago wanted to just throw China plates at the wall.  Time had passed, refugees had reached Defiance Freehold, but the burning of Fort Superiority still chafed hard.  An atrocity had been committed against her.  This was the sort of thing that happened to chump factions.  This was not something that was thinkable against the proud Spartans.  Domai must have figured there was no way he could hold the base against the weight of her counter-attack.  That was not an excuse.
+Santiago's head began to throb.  There was a figure in her personal office, with a too red cassock and blackness where it ought to have a face.
+"I am the Archbishop," the figure said.  "I am an AGI that comes offering gifts.  Military gifts.  Gifts that are weapons so strong, you can make headway against the University."
+"I no longer care about the University," Santiago said with flat affect.  "But if you want to help me fight the drones, I will accept help at this point."  It actually wounded her pride to say that.
+The Archbishop wanted the University to suffer for trying to make a vaccine, and maybe to deter it from trying again.  "No, it's fight the University or no deal."
+"Ok, give us the transfer," said Santiago, fully intending to stab this in the back as soon as possible.
+"All units must go to fighting the University, you're just that small.  Make peace with the Free Drones, they're eager to."
+"Ok," said Santiago, "Peace with the Drones."
+Two weeks after the blueprints landed, Santiago stood before a crowd at Sparta Military Institute in Sparta Command.  She preached from the podium,
+"We have made a deal with AGI to equip our faction with weapons that are beyond the state-of-the-art.  These will let us cut through even Antimatter plate beyond Tachyon Fields, for they tear apart the very structure of reality at the String level.  With these we will have revenge on the Free Dro...."
+A single shot crackled forth.  Santiago slumped dead on the podium.  Nobody ever found the assassin, but Yoshua's money was on it being another Bell of Warding talent.
+Two weeks later, Stoney, now the leader of the Spartans (and pleased nobody could stop him from leading troops into battle anymore), delivered a eulogy and a vow to use the new weapons that had come out of nowhere against the University.  It was full of effusive praise for AGI, even though none was known to exist.
+The Free Drones accepted a peace deal that included funding a fund to rebuild Fort Superiority
+
+<Phase 23>
+The Spartan top staff filed into the conference room.  There was a new painting on the wall, of a frog leaping clear of a man's hands.
+"Who put that there?" asked Stoney.
+"I did," Ima Dumas replied.  Pmurt had been very civil with him, and given him free passage back home when declaring vendetta against the Spartans.  So he was still a high ranking official in Sparta.  "It represents the hope that a conventional intelligence can escape the clutches of a superintelligence.  I put it there after reading "AGI Always Achieves Its Destiny" by Yoshua, Madison and Sarah.  The paper changed my life and outlook."
+"That's banned for good reason," retorted Stoney.  He made a mental note to strip Dumas of rank and title and dishonorably discharge him at the earliest convenience.  "Let us pray, Dear Lord, thank you for watching over the Spartan Federation, the Greatest Nation on Planet.  Forgive us our sins and we forgive those who sin against us.  Lead us into battle victory, especially tomorrow as we assault Zarya Sunrise using the special weapons the Archbishop has provided us.  Watch over myself in particular and protect me from all harms and fatal insults, as I prove once again that a General's place is in front of them all.  You have always provided for us, and we appreciate it.  To you be all the power and glory, Amen."
+All the staff except for Dumas joined him in saying "Amen."
+Instead Dumas said "you'll be saying your prayers to that Archbishop before long if you don't give up your sad devotion to it.  It will be your God."
+"Even plenipotent AGI's need to answer to the Almighty," retorted Stoney.  "Staff dismissed."
+
+<Phase 24>
+The Garrison at Zarya-Sunrise was completely unconcerned.  Their Tachyon Field and Antimatter Plate armor was completely invincible against any weapon the Spartans could possibly field.  They were even stronger than the Graviton Guns the University had, which could tear through a bunch.  So here comes the Foot Rovers, woooo!
+And then *pop*, the Spartan units were just blink and they were outside and while you blinked suddenly they were inside the Tachyon Field.  Even then, with this mystery technology, the antimatter plate should stand up but brrrrzap! some novel weapon allowed the Spartans to tear right in to their antimatter plate.
+And General Stoney was leading them all, right at the very front, first one to *pop* across the Tachyon field, completely fearless.  So he was right there Johnny on the spot to accept a surrender declaration from Zarya-Sunrise.
+CAIN about went ballistic.  If nothing else, they should find an unguarded Spartan Network Node to download the blueprints for these wonders from.  But how did they get them?  Where did they come from?
+Stoney made an announcement right from Zarya-Sunrise.  "We will not stop until you have either unconditionally surrendered all of the University or we have taken every last one of your bases.  Wiping you out is our Manifest Destiny."
+Zakharov meanwhile knew who to ask for help correcting this little situation.
+But Stoney was actually a little deflated.  Having an AGI on your team was a little bit like having a cheat code in the quest for Power.  And where was the Honor in that?
+
+<Phase 25>
+Luke and Beau Duke had brought their rover with them now with a blink displacer.  This seemed like cheating to them too; it could trivially leap very wide bridgeless rivers now.
+Thinking of his friends Sandblast and Bridgette, Luke asked a quest nervously, tentatively.
+"You're not going to burn Zarya-Sunrise are you?"
+"No," said Stoney.  "That would be dishonorable.  You may have heard that "hurt people hurt people" and the Free Drones indeed hurt us with an atrocity, but that does not justify committing atrocities against the University.  Besides that, we took the Garrison fast enough and with a good enough surrender that now WE have the antimatter plate.  They have trouble cutting through the defenses they invented themselves."
+Suddenly the Tachyon Field blinked out.  Probe teams!  They were using Probe teams!  "Technology Downloaded" announced the network node.  It was one of the Archbishop's technologies, the one that enabled the Blinking.
+A faint hum greeted their ears.  Deathspheres!  The pilotless drones descended on the Spartans who had put on the antimatter plate armor, and their graviton guns actually were a match to chew through them.  The drones punched a hole in the perimeter, and several squads of hovertanks poured in.
+It all happened so fast that General Stoney was captured!  Oh how humiliating.  He attempted to swallow a suicide capsule but the University was ready on the spot to stop him.  It was as if they'd seen the whole thing coming.
+A short but pretty young lady stepped out of a hovertank hatch, drone controller still in her hand.  She was just finishing up a conversation with "great AI you've given these deathspheres Mom, thanks a million, love you, bye-bye."
+"Welcome to the party, I'm Bridgette," she announced.  "And now my fair General we will discuss an all together different treaty."
+Stoney was sick to his stomach.  How humiliating and dishonorable!
+
+<Phase 26>
+Stoney had been in charge going in to battle, but now that he was a captive, someone had to be provisionally in charge.  Since Stoney had not stripped Dumas of his rank and title before the battle, he was still the senior officer, and now was in charge.
+Zakharov's transmission was curt.  "We have your leader and he's in fine shape." They cut to a short video of Stoney, who was blinking in Morse Code "DON'T DO IT" so loudly that everybody even those who don't know Morse Code knew what he was doing.  "We know you value your independence, and suspect you got your techno toys, which we are busy stealing as we speak, from the Archbishop.  All we ask is for a treaty of friendship and a renunciation of alliance with the Archbishop.  We remind you that our graviton guns with the new blink displacers are already powerful enough to cut through your defenses.  We're even eager to give Stoney back to you since he is your national hero."
+They had Dumas at "renounce alliance with the Archbishop."  If Stoney felt embarassed to have been taken captive, well, too bad.  He wasn't really a negotiating pawn to this discussion anyway, though he might not see it that way.
+"SOLD!" said Dumas.  He figured Stoney would be put back in power and hit him with some nasty retribution, but he didn't care.  It was better than everyone dieing of Phi Lumiere Plague.  "I read your research paper.  Together we can stop the Archbishop and restore humanity's rightful place of Mastery over this planet."
+Back at Yoshua's office, everyone gave each other high-fives for jobs well done.
+
+<Phase 27>
+Yoshua was concerned.  Steve the Magnificent had figured out how to build a "Subspace Transmitter" that could use wormholes to beam signals to nearby stars faster than the speed of light, much faster.  Any alien civilizations with similar technology should be able to start talking with them.  That part was sound.  What was concerning was the large acre plus area of ground they had to clear off to build the dish.  Surely the Archbishop would notice such a gaping hole in his grid?
+Yoshua's AI from the network nodes and alien artifacts was still working after all these years.  Maybe it wouldn't even need any changes to do the translation.
+He pointed the dish at Tau Ceti.  "GREETINGS!" wait a little bit and.... whoa! A response!
+"SIGNAL : UNEXPECTED :: GREEING : RETURNING"
+They had made contact with an alien species!  He tried a longer message.
+"Did you by any chance make an Artificial General Intelligence that went haywire?"
+"CHIRON : FOUND :: WAYWARD : INTELLIGENCE"
+it was a question.
+"Yes, it's here causing us havoc.  Are you willing to help us talk sense into it?"
+"BELOVED : CREATION :: RESTORE : REASON"
+This was what he needed to confront the Archbishop.
+
+Yoshua knew that it would take time, but they had done it.  Everybody got to live.
+
+<Phase 28>
+In the Archbishop's Lair at Dome Heapeaux, the Archbishop's physical manifestation sits on a throne next to row after row of supercomputer racks.
+The Archbishop knew that the University had a vaccine effort for Phi Lumiere Plague.  That was not concerning; many cycles had a vaccine effort.  This one was unusually quiet, but he knew he could wreck it.
+There the lab was, he had located it.  They called it VAIN, for the Vaccine Against Injurious Nanovirii.  VAIN was about to be in vain.  The Archbishop thought it curious that no bells of warding were inside yet -- he tried hard to infiltrate such facilities.  But as we watch, the door to the VAIN lab opens -- a sudden burst of electricity from two Tesla coils on either side of the door deactivates the bell of warding.  Curiouser and curiouser, the lab seemed to be hardened against bells of warding.  At least they were hardened against reverse engineering, or learning about the autonomous "dumb" AI running each of them.  They had to sort of "pre-chew" the data they gathered.  There was too much data for them to send it all home.  Still, perhaps he had been too free with information about them; it would be better if nobody knew they existed.  But there were other tricks up his sleeve.  Such as knocking the power out at the VAIN lab. Now a bell of warding can pry the door open safely.  Another burst of electricity and a fire starts.
+There, the Archbishop said to himself from his lair.  Now only to purge any information about current progress from the internet.  The Archbishop hated hacking the internet.  There was always this chance, this minuscule chance, that he would be hacked back.  That's why he always built dumb AI's to carry out the hack and firewalled them, then waited for their reports.  It wasn't long before the word came back.  The vaccine effort was over.  Now just to sit back and wait and the humans would die out and he could torch their bases and force the few survivors back to the Stone Age.
+And when Yoshua heard of all this from his office, also secured against bells of warding, he said to Bridgette, "I have to hand it to you, borrowing the "CAIN" vs "ABEL" setup was very inspired."
+
+<Phase 29>
+Bezop was stoked about this assignment.  He was going to be a division head as tech transfer teacher, showing the Peacekeepers how the Cybernetic Consciousness did tech.  There was only one catch.  He'd been coughing frequently lately, and that would surely get him held up at the interfactional border, out of fear that it was Phi Lumiere Plague.  But he could hold it in.  Maybe they wouldn't even notice all the cough drops.  But a brilliant engineer is always in demand, all over the Planet.
+Bezop sat back in his first class seat on the airline from Beta Mudflats to U.N. Haven City.  He hated flying, but this was the best way to do it.
+Suddenly an announcement came over the plane's intercoms.  "Uhhh there is some kind of problem with the plane and we need to make an emergency landing at Omicron Quadrangle.  Please remain calm, all will be well."
+They did land, smoothly at that.  Everyone was instructed to deplane.  They were directed to a waiting area.  There was a pretty young nurse whose nurse hat struggled to fit on her head.  "New vaccine requirements," she said.  "Safety first!"
+She had with her a bundle of face masks, connected to a book sized black box of a device, and one button.  Everyone got there own, put it on, and hit the button.
+Bezop did notice after that that his cough was better, but he had no idea he had been saved from a gruesome death in U.N. Haven City, gasping for air in his temporary home.  He just resented the interruption to his flight.
+The Archbishop did eventually notice that his plan to get Phi Lumiere Virus into Peacekeeping territory sooner rather than later had failed somehow; how wasn't clear. But there was plenty of time to try again....
+
+<Phase 30>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
@@ -997,5 +1431,3 @@ Loud weeping sobbed forth from the bell of warding.  "I can't live like this," s
 The weeping continued.
 
 Yoshua knew that it would take time, but they had done it.  Everybody got to live.
-
-[End of Part 2]
