@@ -1488,7 +1488,48 @@ Zakharov meanwhile knew who to ask for help correcting this little situation.
 But Stoney was actually a little deflated.  Having an AGI on your team was a little bit like having a cheat code in the quest for Power.  And where was the Honor in that?
 
 <Phase 30>
-Luke and Beau Duke had brought their rover with them now with a blink displacer.  This seemed like cheating to them too; it could trivially leap very wide bridgeless rivers now.
+Bridgette knocked on the door and asked permission to enter her commander's office.
+Colonel Leia Driver greeted her, "Granted, of course. What do I have the honor of a visit by the Hero of the Battle of the Three Bridges, a Cutting, and a Xenofungus Thicket?"
+Bridgette was dead serious. "I want to resign. Ma'am."
+Leia replied kindly, "As a reserve you're technically drafted and can't resign for the duration of your service."
+Bridgette was about to say something but Leia pre-empted her.
+Leia continued, "If this is about Zarya-Sunrise... heroes don't quit after one setback. How would that look in the news?"
+Bridgette explained, "Colonel, I'm not comfortable being hailed as a hero when the air force and army did the work! The news releases make me appear to be 20 feet tall, eat lava for breakfast, and breathe fire!"
+Leia noted, "There have been exactly zero complaints. Or rather, the air force jokingly wondered why you haven't been seconded to them instead of being monopolized by the army. Elite army units want to transfer to your command."
+Leia paused to let that sink in.
+Then she asked, "Did you not direct building the concealed bunkers at the covered bridge?"
+Bridgette replied snappily, "Yes Ma'am."
+Leia enumerated, "The army also used a portable barricade of your design in the Xenofungus thicket fight."
+Bridgette protested "Ma'am, I'm not a pilot, nor command staff material. Yet I should have done something to prevent Zarya-Sunrise's fall!"
+Leia further enumerated, "You weren't assigned to that sector. You're not suggesting you'd exceed orders or abandon your post?"
+Bridgette was taken aback -- "I didn't mean that... Ma'am..."
+Leia reassured "Relax, Major. I'm not suggesting you did. General Protection Fault is no Stoney Peters, who would have been a much tougher opponent. Thanks to the terrain, you would have delayed Stoney had he led the attack in your sector. But the Spartans deployed some new tech to assault Zarya-Sunrise, that we'll need to counter.  I've cut orders to transfer to the Zarya-Sunrise front. Don't worry, you're attached to headquarters as a staff officer."
+She paused.
+Then continued, "Your heroic image boosts the morale of our armed forces, and hurts that of the Spartans. They know you're "merely" reserve army yet handily defeated one of their generals. Anything else Major?"
+Bridgette thought for a moment and said "No Colonel, and thank you."
+Leia closed, "Keep up the good work! Dismissed."
+A feeling of reassurance swept over Bridgette, and buoyed by her commanding officer's decision, she left.
+
+<Phase 31>
+General Dumas joined Pmurt in the new "meet and greet" section of Casa Blanca, the official residence of the U.N.'s leaders.
+He said, "You did yourself proud with this one, it's an excellent place to talk with 'well wishers'"
+Pmurt was ecstatic. "My party loves me, for how I'm the best fundraiser in our entire history."
+Dumas cautioned, "Yes, but don't think in terms of elections or campaign funds anymore. Remember, your subscription to fundamentalist power saves you from all that."
+Pmurt beamed a little bit. He was looking forward to that. Pressing so much flesh had tired him.
+He said, "I'm going to check on my sons in the tower."
+Dumas scowled. He was ok with keeping the sons, and keeping them out of sight, but in a tower? That positively begged for attention. "The Princes in the Tower" had too nice a ring to it, sounded too much like something to put in front of "details at 11"
+But he accompanied Pmurt up in the new tower built off of Casa Blanca.
+His sons Cire and Nodlad Jr said together "Daddy!"
+Pmurt's sons were in their teens, but they were developmentally stunted. It was the autism spectrum. They were very personable, and completely unaware how often they had been in danger due to the question of whether "The Survival of the Fittest" applied to the leader's family. Beyond that though, they were unteachable to reach Power Virtues; both were strictly knowledge oriented.
+Cire gushed, "Daddy I can't wait to tell you what I learned all by myself about Network Nodes and Alien Artifacts. I know all about how they work now, it's fascinating stuff!"
+Pmurt wiped away a tear.
+Nodlad Jr was similarly effusive. "I learned cool stuff too daddy, about how cruiser ships can move so fast and stay afloat at the sea. I want to build my own ship Daddy!"
+Dumas drew Pmurt aside
+Dumas warned, "They're making you weak. If you love your own autistic knowledge-virtues sons, you can love other peoples' too, and erode the Power Virtues."
+Pmurt shrugged it off. He wanted to get the boys tours of the faction's own network nodes and shipyards. Who cares about fitness?
+
+<Phase 32>
+Luke and Beau Duke had brought their rover with them, now with a blink displacer.  This seemed like cheating to them too; it could trivially leap very wide bridgeless rivers now.
 Thinking of his friends Sandblast and Bridgette, Luke asked a question nervously, tentatively.
 "You're not going to burn Zarya-Sunrise are you?"
 "No," said Stoney.  "That would be dishonorable.  You may have heard that "hurt people hurt people" and the Free Drones indeed hurt us with an atrocity, but that does not justify committing atrocities against the University.  Besides that, we took the Garrison fast enough and with a good enough surrender that now WE have the antimatter plate.  They have trouble cutting through the defenses they invented themselves."
@@ -1497,9 +1538,18 @@ A faint hum greeted their ears.  Deathspheres!  The pilotless drones descended o
 It all happened so fast that General Stoney was captured!  Oh how humiliating.  He attempted to swallow a suicide capsule but the University was ready on the spot to stop him.  It was as if they'd seen the whole thing coming.
 A short but pretty young lady stepped out of a hovertank hatch, drone controller still in her hand.  She was just finishing up a conversation with "great AI you've given these deathspheres Mom, thanks a million, love you, bye-bye."
 "Welcome to the party, I'm Bridgette," she announced.  "And now my fair General we will discuss an all together different treaty."
+She was just a figurehead, and hadn't really directed the battle, but the psy-op the University was building up around her was working wonders.
+Stoney was taken aback.  This had defeated him?  She was so short!  And she looked like she ate bland food for breakfast!  And so mild mannered -- no fire-breathing to be seen!
 Stoney was sick to his stomach.  How humiliating and dishonorable!
 
-<Phase 31>
+<Phase 33>
+Pmurt had declared an emergency broadcast, with his sons, from his Presidential office, pre-empting several beloved shows.
+"My fellow Peacekeepers," he began.  "These are my sons, Cire and Nodlad Jr.  They both have autism."  He paused for effect.  "We never gave these boys a vaccine in their entire lives, yet here we are.  My boys will never participate meaningfully in the Power virtues, and we've been hiding them, not letting the Planet know I have family that cannot pursue power, and it got me thinking -- what of the other autistic sons and daughters of the Peacekeepers?  Don't they deserve their best lives too?  So I've made a decision.  We're dropping the Power virtues to pursue knowledge, and the Fundamentalism of Nativism to return to an Open Democracy.  Brother Lal was right to pursue these virtues, and create an inclusive society, where all can be valued memb...."
+Suddenly the door to his Presidential office swung open.  Lance Jaydey, Peter Pigcain, and top members of congress burst in.
+"We have invoked the 25th Amendment to stop this senile ranting!" Announced Jaydey.  "For the good and safety of our way of life!  We're putting you in a home!"
+Once you go Power virtues, you never go back.
+
+<Phase 34>
 Jesse heard a rumor that he would not be burned at the stake, that a much more spectacular fate awaited him.  Still though, on the appointed day, he was placed on a little remote control motorized cart, with all the requisite wood on it, tied to a stake.  His erstwhile executioners wheeled it out in front of Sister Miriam and a cheering crowd....
 ....and a Psi Gate!  So Believing Probe Teams had stolen blink teleportation technology from the Spartans, and built Psi Gates with it.  If they'd built it right, it could teleport him somewhere else.  If they built it wrong, it would just bounce him off the ionosphere and scramble his guts all over spacetime.  The crowd cheered wildly, they'd been whipped into a frenzy.  Miriam was still addressing them.
 She said, "And what of the immortal soul in such a transaction?  Shall it be reattached to the body at the other end?  Or shall it be forced to roam the universe detached and vagabond for the rest of eternity?  When it comes to such technological horrors, We Must Dissent!  For his crimes, Jesse Rodoff is about to find out just how terrible going through a Psi Gate can be."
@@ -1515,14 +1565,14 @@ Matthew Yoder and Sister Miriam had been watching from a distance.
 Yoder noted to Miriam, "It's obvious.... but only to our trained professionals.  Rodoff's pineal gland has been calcified, severing his connecting to his soul and to God.  He's nothing but a philosophical zombie now.  Soon that empty husk will forget that it ever knew Jesus."
 Miriam was horrified. She said, "Let us never use the technology again.  May God have mercy upon us all."
 
-<Phase 32>
+<Phase 35>
 Stoney had been in charge going in to battle, but now that he was a captive, someone had to be provisionally in charge.  Since Stoney had not stripped Dumas of his rank and title before the battle, he was still the senior officer, and now was in charge.
 Zakharov's transmission was curt.  "We have your leader and he's in fine shape." They cut to a short video of Stoney, who was blinking in Morse Code "DON'T DO IT" so loudly that everybody even those who don't know Morse Code knew what he was doing.  "We know you value your independence, and suspect you got your techno toys, which we are busy stealing as we speak, from the Archbishop.  All we ask is for a treaty of friendship and a renunciation of alliance with the Archbishop.  We remind you that our graviton guns with the new blink displacers are already powerful enough to cut through your defenses.  We're even eager to give Stoney back to you since he is your national hero."
 They had Dumas at "renounce alliance with the Archbishop."  If Stoney felt embarrassed to have been taken captive, well, too bad.  He wasn't really a negotiating pawn to this discussion anyway, though he might not see it that way.
 "SOLD!" said Dumas.  He figured Stoney would be put back in power and hit him with some nasty retribution, but he didn't care.  It was better than everyone dieing of Phi Lumiere Plague.  "I read your research paper.  Together we can stop the Archbishop and restore humanity's rightful place of Mastery over this planet."
 Back at Yoshua's office, everyone gave each other high-fives for jobs well done.
 
-<Phase 33>
+<Phase 36>
 Jesse Rodoff's cool-off area was actually fairly well appointed.  It was like a nice apartment that you can never leave.  But what really surprised him was when they wheeled in Holovid recording equipment.
 Jesse:  I'm not here to talk or to spill any Believing secrets no matter what you do to me!
 Guard (chuckling):  Oh no, we're not here to get information from you, we're here to help you pursue your dream!  We like to broadcast into Believing territory from time to time.  We thought you might like to say something to the Believers who are religious moderates like yourself.  As much as we despise religious fundamentalists, moderates tend to be reliable fellow travelers in this life.
@@ -1535,7 +1585,26 @@ Shut up!  I'm so glad they executed you!
 Rodoff's heart sank.  He thought of the Bible Verse "All day I have held out my hands to a stubborn and rebellious people."
 How could he reach the Believers?
 
-<Phase 34>
+<Phase 37>
+Lancaster and Duane had been invited back to Megan Mink's suite.
+Mink greeted them, then said, "There's someone who would like to talk to you, to apologize."
+Olga stepped in from the other room.
+Duane calmed down Lancaster.  "Hear her out," he insisted.
+Olga began.  "I'm sorry for my trivial dismissing of natural intelligence.  It was overly broad, and did ignore your accomplishments including your own personal accomplishments, such as building Steve the Magnificent.  I should not have said what I said, I am not used to being around natural intelligence -- that is no excuse -- and I am getting used to y'all and what you can be and do.  Please forgive me."
+Lancaster was taken aback.  Duane nudged him.  Lancaster quickly decided what to say.  "I forgive you.  I myself am just getting acclimated to clones."
+Olga noticed that he did not counter-apologize, but remained calm.
+"I think that's an important step," said Megan.  "Shall we all have tea-biscuits?"
+
+<Phase 38>
+General Stoney was perplexed.  He was coming home to a hero's welcome.  Had the Spartans not realized he had lost?
+General Dumas gave him a big hug.  "We're so pleased to have you back!" said Dumas.
+"Bbbut I was so dishonorably captured!" said Stoney.  "And the University took their base back and forced a cease-fire on us!"
+"You did your best to do the honorable thing," said Dumas.  "And you're still a person apart from your military victories.  I'd say that we'll need you in the peace, but your lead-from-the-front style could still help us in our open vendettas against the Peacekeepers and the Believers.  It does us no good to tear you down and every good to build you up.  You took a risk and it went against you, but it was still a proper risk to take."
+"What about our differences regarding the Archbishop and certain research papers?" asked Stoney.
+"Building you up is still the right way to resolve that," said Dumas. "So you can be persuaded with reason."
+Stoney lifted his chin up.  He may have been set back and captured, but he still had his honor and his resolve.  He was still a brave General of Sparta.
+
+<Phase 39>
 Yoshua was concerned.  Steve the Magnificent had figured out how to build a "Subspace Transmitter" that could use wormholes to beam signals to nearby stars faster than the speed of light, much faster.  Any alien civilizations with similar technology should be able to start talking with them.  That part was sound.  What was concerning was the large acre plus area of ground they had to clear off to build the dish.  Surely the Archbishop would notice such a gaping hole in his grid?
 Yoshua's AI from the network nodes and alien artifacts was still working after all these years.  Maybe it wouldn't even need any changes to do the translation.
 He pointed the dish at Tau Ceti.  "GREETINGS!" wait a little bit and.... whoa! A response!
@@ -1548,14 +1617,14 @@ it was a question.
 "BELOVED : CREATION :: RESTORE : REASON"
 This was what he needed to confront the Archbishop.
 
-<Phase 35>
+<Phase 40>
 In the Archbishop's Lair at Dome Heapeaux, the Archbishop's physical manifestation sits on a throne next to row after row of supercomputer racks.
 The Archbishop knew that the University had a vaccine effort for Phi Lumiere Plague.  That was not concerning; many cycles had a vaccine effort.  This one was unusually quiet, but he knew he could wreck it.
 There the lab was, he had located it.  They called it VAIN, for the Vaccine Against Injurious Nanovirii.  VAIN was about to be in vain.  The Archbishop thought it curious that no bells of warding were inside yet -- he tried hard to infiltrate such facilities.  But as we watch, the door to the VAIN lab opens -- a sudden burst of electricity from two Tesla coils on either side of the door deactivates the bell of warding.  Curiouser and curiouser, the lab seemed to be hardened against bells of warding.  At least they were hardened against reverse engineering, or learning about the autonomous "dumb" AI running each of them.  They had to sort of "pre-chew" the data they gathered.  There was too much data for them to send it all home.  Still, perhaps he had been too free with information about them; it would be better if nobody knew they existed.  But there were other tricks up his sleeve.  Such as knocking the power out at the VAIN lab. Now a bell of warding can pry the door open safely.  Another burst of electricity and a fire starts.
 There, the Archbishop said to himself from his lair.  Now only to purge any information about current progress from the internet.  The Archbishop hated hacking the internet.  There was always this chance, this minuscule chance, that he would be hacked back.  That's why he always built dumb AI's to carry out the hack and firewalled them, then waited for their reports.  It wasn't long before the word came back.  The vaccine effort was over.  Now just to sit back and wait and the humans would die out and he could torch their bases and force the few survivors back to the Stone Age.
 And when Yoshua heard of all this from his office, also secured against bells of warding, he said to Bridgette, "I have to hand it to you, borrowing the "CAIN" vs "ABEL" setup was very inspired."
 
-<Phase 36>
+<Phase 41>
 Bezop was stoked about this assignment.  He was going to be a division head as tech transfer teacher, showing the Peacekeepers how the Cybernetic Consciousness did tech.  There was only one catch.  He'd been coughing frequently lately, and that would surely get him held up at the interfactional border, out of fear that it was Phi Lumiere Plague.  But he could hold it in.  Maybe they wouldn't even notice all the cough drops.  But a brilliant engineer is always in demand, all over the Planet.
 Bezop sat back in his first class seat on the airline from Beta Mudflats to U.N. Haven City.  He hated flying, but this was the best way to do it.
 Suddenly an announcement came over the plane's intercoms.  "Uhhh there is some kind of problem with the plane and we need to make an emergency landing at Omicron Quadrangle.  Please remain calm, all will be well."
@@ -1564,7 +1633,7 @@ She had with her a bundle of face masks, connected to a book sized black box of 
 Bezop did notice after that that his cough was better, but he had no idea he had been saved from a gruesome death in U.N. Haven City, gasping for air in his temporary home.  He just resented the interruption to his flight.
 The Archbishop did eventually notice that his plan to get Phi Lumiere Virus into Peacekeeping territory sooner rather than later had failed somehow; how wasn't clear. But there was plenty of time to try again....
 
-<Phase 37>
+<Phase 42>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
