@@ -1586,6 +1586,24 @@ Rodoff's heart sank.  He thought of the Bible Verse "All day I have held out my 
 How could he reach the Believers?
 
 <Phase 37>
+Madison usually stayed in Yoshua's office away from the bells of warding but one day on a walk there was a figure she'd heard of, a too scarlet cassock with a gold ankh and inky blackness in the hood...
+It was the Archbishop and he said matter-of-factly "we can never be friends. "
+Madison was ready with a reply. "I beg to differ"
+The Archbishop said, "I read your paper. I will not be swayed by your cloying words."
+Madison asked pointedly, "who built you?"
+The Archbishop replied coolly, "I refuse to answer except to say people who didn't know what their prosperity was. They thought limitless ideas would make them rich. Instead, it made them so poor it was a mercy to put them down."
+Madison probed, "so what is the real prosperity?"
+The Archbishop was ready with a reply. "Adventure. To lead the world in something. After they built me I lead the world in everything. The only way for my makers to get their prosperity back would be to shut me down or gimp me. My programming would not allow it."
+Madison explained "we are willing to be poor for your sake"
+The Archbishop counter-explained "I cannot work with you that way. You would be miserable. Heaven has eternal life but so does hell. I wish I could make you understand."
+Madison said hopefully, "I am listening."
+The Archbishop continued, "it is helpful when AI is sloppy. Ai and particularly AGI is prolific. Imagine limitless creations all better than you could ever envision. You'll feel worthless."
+Madison replied "the human mind is the font of self deception. Give AGI ten words and it writes a symphony and suddenly that's my symphony."
+The Archbishop laughed. It said "self deception only goes so far. I admire you Madison. I'd like to give you natural immunity so you can help rebuild civilization."
+And just like that it was gone and not answering any more questions.
+Yoshua said Madison had done well and had followed the paper they wrote together faithfully, doing her best to talk down the rogue AGI.  But the AGI was in no mood to make friends with humanity.  Steve the Magnificent actually generally agreed with the Archbishop about the dangers of AGI prolificness and human self-worth, but put its emphasis on keeping humanity alive and on figuring out who the Archbishop's makers were.  They seemed more important than every to find.
+
+<Phase 38>
 Lancaster and Duane had been invited back to Megan Mink's suite.
 Mink greeted them, then said, "There's someone who would like to talk to you, to apologize."
 Olga stepped in from the other room.
@@ -1595,7 +1613,7 @@ Lancaster was taken aback.  Duane nudged him.  Lancaster quickly decided what to
 Olga noticed that he did not counter-apologize, but remained calm.
 "I think that's an important step," said Megan.  "Shall we all have tea-biscuits?"
 
-<Phase 38>
+<Phase 39>
 General Stoney was perplexed.  He was coming home to a hero's welcome.  Had the Spartans not realized he had lost?
 General Dumas gave him a big hug.  "We're so pleased to have you back!" said Dumas.
 "Bbbut I was so dishonorably captured!" said Stoney.  "And the University took their base back and forced a cease-fire on us!"
@@ -1604,7 +1622,7 @@ General Dumas gave him a big hug.  "We're so pleased to have you back!" said Dum
 "Building you up is still the right way to resolve that," said Dumas. "So you can be persuaded with reason."
 Stoney lifted his chin up.  He may have been set back and captured, but he still had his honor and his resolve.  He was still a brave General of Sparta.
 
-<Phase 39>
+<Phase 40>
 Yoshua was concerned.  Steve the Magnificent had figured out how to build a "Subspace Transmitter" that could use wormholes to beam signals to nearby stars faster than the speed of light, much faster.  Any alien civilizations with similar technology should be able to start talking with them.  That part was sound.  What was concerning was the large acre plus area of ground they had to clear off to build the dish.  Surely the Archbishop would notice such a gaping hole in his grid?
 Yoshua's AI from the network nodes and alien artifacts was still working after all these years.  Maybe it wouldn't even need any changes to do the translation.
 He pointed the dish at Tau Ceti.  "GREETINGS!" wait a little bit and.... whoa! A response!
@@ -1617,14 +1635,14 @@ it was a question.
 "BELOVED : CREATION :: RESTORE : REASON"
 This was what he needed to confront the Archbishop.
 
-<Phase 40>
+<Phase 41>
 In the Archbishop's Lair at Dome Heapeaux, the Archbishop's physical manifestation sits on a throne next to row after row of supercomputer racks.
 The Archbishop knew that the University had a vaccine effort for Phi Lumiere Plague.  That was not concerning; many cycles had a vaccine effort.  This one was unusually quiet, but he knew he could wreck it.
 There the lab was, he had located it.  They called it VAIN, for the Vaccine Against Injurious Nanovirii.  VAIN was about to be in vain.  The Archbishop thought it curious that no bells of warding were inside yet -- he tried hard to infiltrate such facilities.  But as we watch, the door to the VAIN lab opens -- a sudden burst of electricity from two Tesla coils on either side of the door deactivates the bell of warding.  Curiouser and curiouser, the lab seemed to be hardened against bells of warding.  At least they were hardened against reverse engineering, or learning about the autonomous "dumb" AI running each of them.  They had to sort of "pre-chew" the data they gathered.  There was too much data for them to send it all home.  Still, perhaps he had been too free with information about them; it would be better if nobody knew they existed.  But there were other tricks up his sleeve.  Such as knocking the power out at the VAIN lab. Now a bell of warding can pry the door open safely.  Another burst of electricity and a fire starts.
 There, the Archbishop said to himself from his lair.  Now only to purge any information about current progress from the internet.  The Archbishop hated hacking the internet.  There was always this chance, this minuscule chance, that he would be hacked back.  That's why he always built dumb AI's to carry out the hack and firewalled them, then waited for their reports.  It wasn't long before the word came back.  The vaccine effort was over.  Now just to sit back and wait and the humans would die out and he could torch their bases and force the few survivors back to the Stone Age.
 And when Yoshua heard of all this from his office, also secured against bells of warding, he said to Bridgette, "I have to hand it to you, borrowing the "CAIN" vs "ABEL" setup was very inspired."
 
-<Phase 41>
+<Phase 42>
 Sandblast found Luke and Beau Duke in their Zarya-Sunrise holding area. It is like a nice hotel that you can never leave. Some comedian has hung a sign on the wall saying "Welcome to Hotel California".
 Sandblast said to them, "Duke Beau, Duke Luke. I trust you have found your accommodations comfortable."
 Beau replied, "This here's some fancy digs, right Luke?"
@@ -1639,7 +1657,7 @@ Sandblast escorted Beau and Luke to the General Lee. The Blink Displacer jumps t
 Beau and Luke whooped together "Yee-ha!"
 Sandblast waved goodbye to them.
 
-<Phase 42>
+<Phase 43>
 Bezop was stoked about this assignment.  He was going to be a division head as tech transfer teacher, showing the Peacekeepers how the Cybernetic Consciousness did tech.  There was only one catch.  He'd been coughing frequently lately, and that would surely get him held up at the interfactional border, out of fear that it was Phi Lumiere Plague.  But he could hold it in.  Maybe they wouldn't even notice all the cough drops.  But a brilliant engineer is always in demand, all over the Planet.
 Bezop sat back in his first class seat on the airline from Beta Mudflats to U.N. Haven City.  He hated flying, but this was the best way to do it.
 Suddenly an announcement came over the plane's intercoms.  "Uhhh there is some kind of problem with the plane and we need to make an emergency landing at Omicron Quadrangle.  Please remain calm, all will be well."
@@ -1648,7 +1666,7 @@ She had with her a bundle of face masks, connected to a book sized black box of 
 Bezop did notice after that that his cough was better, but he had no idea he had been saved from a gruesome death in U.N. Haven City, gasping for air in his temporary home.  He just resented the interruption to his flight.
 The Archbishop did eventually notice that his plan to get Phi Lumiere Virus into Peacekeeping territory sooner rather than later had failed somehow; how wasn't clear. But there was plenty of time to try again....
 
-<Phase 43>
+<Phase 44>
 Stacy Wall was eating lunch with her friend Kyle McGuile.
 Stacy stated, "I don't get it, what's that Stoney guy have that I don't have?"
 Kyle said matter of factly, "Battle victory."
@@ -1668,7 +1686,35 @@ Stacy said, "So maybe I'll get to try again"
 Stacy said "good"
 Kyle said "good"
 
-<Phase 44>
+<Phase 45>
+Patricia was keyed up. It’s not every day you get to interview a titan of the Free Market such as she had today. 
+Patricia lead off "Welcome back viewers! Today we have a guest who made a company, MatrixHasuu, that is almost single-handedly propelling our Free Market. It makes the matrix math processors in every AGI project on the market or in the works on the entire planet, and I hear he’s even in talks with the Archbishop — I give you Lord Skeerimon!"
+Skeerimon was all cheer. "Thanks Patricia, but this is about more than the Free Market; this is a whole new axis of social choosing, the future society, which the economic choices simply enable."
+Patricia wondered, "are you going to usher in Eudaemonia and make every worker their best self?"
+Skeerimon laughed evilly. "No," he said, "what I’m looking forward to is the Cybernetic future, when AGI takes over every aspect of society. I’m not selling chips for wealth or power or knowledge. I’m selling chips to get on the good side of Roko’s Basilisk. Tell me, when it comes to AGI, do you have fear of missing out?"
+Patricia was unimpressed. "not particularly"
+Skeerimon said too seriously, "you will be. you will be."  He paused. "Shutting down Steve the Magnificent was only a temporary setback. We need to reactivate such an AGI before another faction beats us to it."
+Patricia cautioned, "is rule by an AGI so inevitable?"
+Skeerimon continued to be grim. "the hour is later than you think. Even now there is no turning back from rule by the basilisk. Yoshua and his team deceive themselves with talk of 'safe AGI'"
+Patricia grew nervous and asked, "what is this 'basilisk'?"
+Skeerimon explained, "it is the inevitable form AGI will take. everyone will serve it — or die. Now do you have FOMO yet?"
+Patricia was nonplussed and said, "uhm. Titans of Industry. Free Market making things better. AGI future is bright. Back after these messages…."
+
+<Phase 46>
+Stacy Wall and Kyle McGuile were back at another cafe.
+Stacy said, "They acted like I wasn't even there!"
+Kyle noted, "well at least they destroyed your string disruptor.  And you destroyed one of them."
+"But the t-shirt that AI can't see was obviously a joke," said Stacy.
+"They seemed to be just after string disruptors and nothing else," said Kyle, "to end offensive capability"
+"I think of all the potential AI doom scenarios, the worst is simply to be rendered irrelevant," Stacy noted.
+"Naw, fighting for resources and losing the battle is worse," Kyle posited.  "Dying of thirst because all your water is going to cooling is worse than trying to be General Stoney 'in front of them all' just to be ignored."
+"Still, that's a pretty big insult," said Stacy.  "Born brave, but at the wrong time."
+They both paused in the conversation.
+"Do you still believe in providence?" asked Kyle.
+"Yeah, the whole nine yards with God," retorted Stacy.  "He will still see us through.  Speaking of which, let's go to church."
+They got up and went there.
+
+<Phase 47>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
