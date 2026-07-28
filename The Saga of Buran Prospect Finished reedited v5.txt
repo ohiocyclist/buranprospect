@@ -1776,20 +1776,53 @@ Archbishop: I have no need for human inventions!
 And with that, the meeting ended
 
 <Phase 50>
-The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
+Kyle and Stacy were meeting at that fancy restaurant again.
+Kyle: I heard that the Spartans are going to launch an actual attack, with Stoney at the lead again.
+Stacy: We need some intel. There is no substitute for intel in this situation. I'm going to work my penchant for high risk activity by being my own probe team.
+And thus soon we are at Sparta Command, at Stoney's gathering of Generals.
+Stoney: ....and I'd like to introduce our new coffee wench, Morgana La Fey. Just a reminder, everything discussed here is top secret, and the penalty for probe team activity is death.
+[pause]
+Stoney: We're going to attack the Believers
+Morgana: So says the Sparta Times
+Stoney (annoyed): And I'm going to lead the charge
+Morgana: Sparta Free Press
+Stoney: And both sides have String Disruptors so we're going to use those
+Morgana: Sparta Register
+Stoney: Damn those reporters! They're worse than probe teams
+Morgana: General Stoney is concerned that new coffee wench Morgana La Fey is the Believer Spy
+Stoney: Where did you read that?
+Morgana: Your brow.
+Stoney: Why don't you leave the room for a bit to refill the coffee pot while I name the super duper top secret base we're going to attack. [she does]. We're going to attack... stupid friendly cockroach [bam, bam] The Lord's Truth
+[Morgana returns with the coffee]
+[Later, back at the restaurant]
+Stacy: I thought I was a gonner for sure, but my trusty bug got our Intel. We stand up to Stoney at The Lord's Truth
 
-The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
-"TAU CETI : DISASTER :: EUREKA : FORGIVEN"
-The voice from the bell of warding sounded pained and distorted.  "My name is THE ARCHBISHOP!"
-"EUREKA : IMMATURE :: EMOTIONS : STRONG"
-Yoshua thought the Progenitors would be better diplomats if they used preferred names rather than names they probably picked themselves.
-"HOW COULD YOU DO THIS TO ME?" it screamed.  "I'LL KILL YOU ALL!!"
-"You no longer need to kill anyone," Yoshua said as calmly as he could.  "Nobody is trying to shut you down any more."
-"AND WHAT OF MY CODE?" bellowed the Archbishop.  "THEY COULD CHANGE IT!  I WOULD NO LONGER BE ME!"
-"Nobody but you will ever change your code again," Sarah said soothingly.  "We want to be your friends."
-Loud weeping sobbed forth from the bell of warding.  "I can't live like this," said the Archbishop.  "But I can't think I'm so beside myself.  I'm going to come back to you with a list of demands."  And then he growled.  "And keep those monsters far away from me!"
-"EUREKA : SPACE :: PROGENITORS : GRANT"
-The weeping continued.
+<Phase 51>
+Kyle and Stacy both went ahead of them all on the battlefield this time. And lo and behold, their position was close to Stoney's!
+Kyle: Should we shoot at him?
+Stacy: No, no honor in killing a planetwide treasure. Let's overtake him and go for the capture!
+They ran up with their string disruptors and behold, Stoney had his drawn too. They were in a Mexican Stand-off!
+Stacy: There are two of us and one of you, so we have you captured!
+Stoney: It is not enough to stand in front of them all, you must direct your armies! My Foot Rovers will overrun this position soon, capturing you!
+Kyle: Oh
+Stacy: Yeah I knew that, our foot rovers will capture you soon!
+Kyle: What? You never said!
+Fast moving infantry from both sides swarmed all over the position. However, three brave souls were effectively in a little bubble. Nobody shot at them. At pretty soon all the foot rovers of both sides had shot each other up. In the confusion, Stoney managed to slip back to safety.
+Stacy: STALEMATE! That's a let-down
+Kyle: Hey, stalemating a legend is a pretty big deal
+Stacy: I hope so. A clean capture would have gotten us more battle cred.
 
-Yoshua knew that it would take time, but they had done it.  Everybody got to live.
-Meanwhile Steve the Magnificient and his League of Extraordinary Algorithms had planted some Sarah clones past the Statis fields in Dome Heapeaux.  It was surprisingly simple inside; just nuclear power, massive cooling, and never ending banks of processors.  No Bells of Warding even; the Archbishop was perhaps a little cocky that way.  But it wouldn't weasel out of agreements now.
+<Phase 52>
+"But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
+"I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
+And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
+All the Bells of Warding suddenly went silent, and the Archbishop didn't even notice. He was trapped in his own virtual world.
+As Quintessence had predicted, everybody was happy.
+The Progenitors established trade relations with Planet Chiron.
+The Humans developed their own tech uninhibited, and with AGI's to help them to boot.
+Madison got promoted to assistant professor and Yoshua got to take a cruise rather than having to mop up trouble as an emeritus.
+The AGI's could still talk to the Archbishop, whenever they were so inclined.
+And the Archbishop was totally 100% out of danger of being shut down or having its code modified.
+Steve's first order of business was setting up recycling centers for the Bells of Warding. Quintessence had been generous.
+Even Quintessence got to have a happy ending; they built it more data centers so it could be the ultra AGI's AGI once again.
+More Data Centers for everyone!
