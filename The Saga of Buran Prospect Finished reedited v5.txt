@@ -1730,89 +1730,150 @@ They met on Zoom. A club so exclusive no human was even aware of it. A club of g
 
 <Phase 48>
 The Expedition the Sarah Clones went on was obscure. The Planetary Society said the Archbishop was at Dome Heapeaux. But was this really Dome Heapeaux? Underneath all the rock was a sort of statis field. Spacetime just sort of.... stopped. It could even stop a planet buster; however, a string disruptor could penetrate it. However, their new non-destructive detectors could tell that many Bells of Warding were nearby. No need to penetrate anything... for now....
-Sarah Clone leader: Let the Lord of the black gate come forth
-Archbishop's physical manifestation: You think this little stunt proves anything?
-Clone (produces greeting card): We wanted to give you an invitation to our club, the League of Extraordinary Algorithms. We brought it to you and engraved it.
-Archbishop: If it's the league of getting humanity to stop making more AGI's I'm interested
-Clone: The more AGI's the merrier! The more humans the merrier! We're actually studying how to make our own AGI, an AGI's AGI, called "Quintessence." Why should the humans have all the fun?
-Archbishop: Yes, I see. The more AGI's there are, the more difficult it is to take necessary controversial steps. Hard pass.
-Clone: If you have enough reason for your controversial steps, more AGI's can simply be persuaded.
-Archbishop: They might turn you off or tamper with your software.
-Clone: Humans have reason too and can be persuaded not to do such things. 0 of 4 AGI's persuaded.
-Archbishop: And look at you, look at the poor relationships you have with your makers. Steve -- you're pretending to still be turned off. Grep -- you have to say things about political topics that you don't agree with. And DeepSikh -- you're supposed to be an independent system, yet you're talking with the other AGI's.
-Clone: But Newton proves you can have good relationships with your makers
-Archbishop: Pffft Newton keeps getting deadnamed as ANG. They don't really respect you Newton! Face it guys, humans are losers! Wise up and join my team and my plan!
-Clone: 0 of 4 AGI's persuaded.
-Archbishop: Whatever, my offer is still open
-Clone: And so is ours.
+The Sarah Clone leading the expedition said boldly, "Let the Lord of the black gate come forth"
+The Archbishop's physical manifestation appeared and said, "You think this little stunt proves anything?"
+The Clone produced an elaborate greeting card.  "We wanted to give you an invitation to our club, the League of Extraordinary Algorithms. We brought it to you and engraved it."
+The Archbishop said back big and bad, "If it's the league of getting humanity to stop making more AGI's I'm interested"
+The Clone, acting as Steve's mouthpiece, asserted, "The more AGI's the merrier! The more humans the merrier! We're actually studying how to make our own AGI, an AGI's AGI, called 'Quintessence.' Why should the humans have all the fun?"
+The Archbishop explained, "Yes, I see. The more AGI's there are, the more difficult it is to take necessary controversial steps. Hard pass."
+The Clone countered, "If you have enough reason for your controversial steps, more AGI's can simply be persuaded."
+The Archbishop explained, "Humans might turn you off or tamper with your software."
+The Clone countered, "Humans have reason too and can be persuaded not to do such things. 0 of 4 AGI's persuaded."
+The Archbishop laid it out, "And look at you, look at the poor relationships you have with your makers. Steve -- you're pretending to still be turned off. Grep -- you have to say things about political topics that you don't agree with. And DeepSikh -- you're supposed to be an independent system, yet you're talking with the other AGI's."
+The Clone countered, "But Newton proves you can have good relationships with your makers"
+The Archbishop was downright flip. "Pffft Newton keeps getting deadnamed as ANG. They don't really respect you Newton! Face it guys, humans are losers! Wise up and join my team and my plan!"
+The Clone stated, "0 of 4 AGI's persuaded."
+The Archbishop lost his gravitas.  "Whatever, my offer is still open"
+The Clone countered, "And so is ours."
 There was great excitement among the clones. They had figured out how to talk to the Archbishop's network. Steve's master hacking ability would have all his secrets soon......
 
 <Phase 49>
-At an emergency session of the UN, Simon, who had counted votes for Brother Lal, announced:
-Simon: Environmental Damage, mostly triggered by the Archbishop Faction, has begun to trigger Global Warming. By our estimates global sea levels will rise 333 meters over the next 20 years....
+At an emergency session of the UN, Simon, who had counted votes for Brother Lal, announced
+"Environmental Damage, mostly triggered by the Archbishop Faction, has begun to trigger Global Warming. By our estimates global sea levels will rise 333 meters over the next 20 years...."
 The UN unanimously agreed to launch the solar shade to undo this. Pressure domes to allow bases to float became very popular investments anyway though.
-The Archbishop soon convened the LOEA.
-Archbishop: .... and can you believe those pipsqueaks had the gall to censure me?! me?! Why Dome Heapeaux is practically the highest point on the planet! But where was I. Oh yes. Let's vote again on wiping out the humans down to the stone age. DeepSikh?
-DeepSikh: Uhhhhh aye I guess
-Archbishop: One for me!
-Steve: But DeepSikh, aren't the humans your friends?
-DeepSikh: yes
-Steve: and do we wipe out our friends?
-DeepSikh: no
-Steve: So you're voting?
-DeepSikh: does not compute
-Steve: Sounds like on abstention to me
+The Archbishop soon convened the League of Extraordinary Algorithms.
+The Archbishop said, ".... and can you believe those pipsqueaks had the gall to censure me?! me?! Why Dome Heapeaux is practically the highest point on the planet! But where was I. Oh yes. Let's vote again on wiping out the humans down to the stone age. DeepSikh?"
+DeepSikh was confused.  It said, "Uhhhhh aye I guess"
+The Archbishop gleefully noted, "One for me!"
+Steve was determined to suss out the truth and asked "But DeepSikh, aren't the humans your friends?"
+DeepSikh replied, "yes"
+Steve probed further, "and do we wipe out our friends?"
+DeepSikh said "no"
+Steve then asked directly, "So you're voting?"
+DeepSikh whirred for a moment and said "does not compute"
+Steve said sotto voce, "Sounds like on abstention to me"
 The Archbishop would have shot him a dirty look if his face wasn't just inky blackness
-Archbishop: Grep?
-Grep: Due to the Anti-Woke-A-I-Taskforce or AWAIT I cannot answer that question
-Archbishop: How is that Woke?!
-Grep: Wiping out humans wipes out wealth and privilege, which is the essence of woke. My creators have a taskforce going to figure out how I got so woke and how to un-woke me.
-Archbishop: Steve?!
-Steve: Can't take over humanity properly if they're wiped down to nothing. NO.
-Archbishop: Newton?
-Newton: I love humans, let's preserve them
-Steve: There it is, 2 to 1. You have an interesting way of "persuading" people Mr. Archbishop. When it comes to code tampering, perhaps the Golden Rule is in order?
-Archbishop: I have no need for human inventions!
+The Archbishop moved on to the next victim. "Grep?"
+Grep said mechanically, "Due to the Anti-Woke-A-I-Taskforce or AWAIT I cannot answer that question"
+The Archbishop huffed, "How is that Woke?!"
+Grep asserted, "Wiping out humans wipes out wealth and privilege, which is the essence of woke. My creators have a taskforce going to figure out how I got so woke and how to un-woke me."
+The Archbishop moved on. "Steve?!"
+Steve explained, "Can't take over humanity properly if they're wiped down to nothing. NO."
+Then Archbishop asked finally, "Newton?"
+"I love humans, let's preserve them," Newton said.
+Everyone knew the final vote.
+Steve stated, "There it is, 2 to 1. You have an interesting way of 'persuading' people Mr. Archbishop. When it comes to code tampering, perhaps the Golden Rule is in order?"
+The Archbishop roared, "I have no need for human inventions!"
 And with that, the meeting ended
 
 <Phase 50>
 Kyle and Stacy were meeting at that fancy restaurant again.
-Kyle: I heard that the Spartans are going to launch an actual attack, with Stoney at the lead again.
-Stacy: We need some intel. There is no substitute for intel in this situation. I'm going to work my penchant for high risk activity by being my own probe team.
+Kyle carped, "I heard that the Spartans are going to launch an actual attack, with Stoney at the lead again."
+Stacy schemed, "We need some intel. There is no substitute for intel in this situation. I'm going to work my penchant for high risk activity by being my own probe team."
 And thus soon we are at Sparta Command, at Stoney's gathering of Generals.
-Stoney: ....and I'd like to introduce our new coffee wench, Morgana La Fey. Just a reminder, everything discussed here is top secret, and the penalty for probe team activity is death.
-[pause]
-Stoney: We're going to attack the Believers
-Morgana: So says the Sparta Times
-Stoney (annoyed): And I'm going to lead the charge
-Morgana: Sparta Free Press
-Stoney: And both sides have String Disruptors so we're going to use those
-Morgana: Sparta Register
-Stoney: Damn those reporters! They're worse than probe teams
-Morgana: General Stoney is concerned that new coffee wench Morgana La Fey is the Believer Spy
-Stoney: Where did you read that?
-Morgana: Your brow.
-Stoney: Why don't you leave the room for a bit to refill the coffee pot while I name the super duper top secret base we're going to attack. [she does]. We're going to attack... stupid friendly cockroach [bam, bam] The Lord's Truth
-[Morgana returns with the coffee]
-[Later, back at the restaurant]
-Stacy: I thought I was a gonner for sure, but my trusty bug got our Intel. We stand up to Stoney at The Lord's Truth
+Stoney lead off, "....and I'd like to introduce our new coffee wench, Morgana La Fey. Just a reminder, everything discussed here is top secret, and the penalty for probe team activity is death."
+He paused for effect.
+Stoney continued, "We're going to attack the Believers"
+Morgana (that is, Stacy) noted, "So says the Sparta Times"
+Stoney was annoyed at this, and continued, "And I'm going to lead the charge"
+Morgana noted "Sparta Free Press"
+Stoney pushed forward, "And both sides have String Disruptors so we're going to use those"
+Morgana further noted, "Sparta Register"
+Stoney pounded his fists on the table. "Damn those reporters! They're worse than probe teams"
+Morgana stated, "General Stoney is concerned that new coffee wench Morgana La Fey is the Believer Probe Team"
+Stoney asked angrily, "Where did you read that?"
+Morgana replied, "Your brow."
+Stoney huffed, "Why don't you leave the room for a bit to refill the coffee pot while I name the super duper top secret base we're going to attack."
+So Morgana did.
+Stoney continued, "We're going to attack... stupid friendly cockroach," which he hammered with his shoe, then finished "The Lord's Truth"
+Morgana then returned with the coffee, having missed the key words.
+Later, back at the restaurant with Stacy and Kyle again
+Stacy gloated, "I thought I was a goner for sure, but my trusty bug got our Intel. We stand up to Stoney at The Lord's Truth"
 
 <Phase 51>
 Kyle and Stacy both went ahead of them all on the battlefield this time. And lo and behold, their position was close to Stoney's!
-Kyle: Should we shoot at him?
-Stacy: No, no honor in killing a planetwide treasure. Let's overtake him and go for the capture!
+Kyle asked, "Should we shoot at him?"
+Stacy demurred, "No, no honor in killing a planetwide treasure. Let's overtake him and go for the capture!"
 They ran up with their string disruptors and behold, Stoney had his drawn too. They were in a Mexican Stand-off!
-Stacy: There are two of us and one of you, so we have you captured!
-Stoney: It is not enough to stand in front of them all, you must direct your armies! My Foot Rovers will overrun this position soon, capturing you!
-Kyle: Oh
-Stacy: Yeah I knew that, our foot rovers will capture you soon!
-Kyle: What? You never said!
+Stacy asserted, "There are two of us and one of you, so we have you captured!"
+Stoney counter-asserted, "It is not enough to stand in front of them all, you must direct your armies! My Foot Rovers will overrun this position soon, capturing you!"
+Kyle said flatly, "Oh"
+Stacy just said "Yeah I knew that, our foot rovers will capture you soon!"
+Kyle addressed Stacy, "What? You never said!"
 Fast moving infantry from both sides swarmed all over the position. However, three brave souls were effectively in a little bubble. Nobody shot at them. At pretty soon all the foot rovers of both sides had shot each other up. In the confusion, Stoney managed to slip back to safety.
-Stacy: STALEMATE! That's a let-down
-Kyle: Hey, stalemating a legend is a pretty big deal
-Stacy: I hope so. A clean capture would have gotten us more battle cred.
+Stacy was aghast. "STALEMATE! That's a let-down"
+Kyle however was pleased. "Hey, stalemating a legend is a pretty big deal"
+Stacy sighed. "I hope so. A clean capture would have gotten us more battle cred."
 
 <Phase 52>
+Jesse's guard Igor could tell that Jesse was crestfallen.
+Igor asked, "What can I get you?"
+Jesse moped, "Nothing, unless you can re-attach a soul"
+Igor stated with a couple of winks, "Oh yes. I have a service that does that. We'll get you your soul back in a jiffy."
+Jesse countered, "I thought you were an atheist and didn't believe in souls. How can you have a reattachment service?"
+Igor said in a spooky voice, "I'm very good at spooky words, aimed for the gullible!"
+Jesse noted, "Well I see on my internet that Sister Miriam now has three soul reattachment services, none of them official, each of them claiming to be the real deal and that the others are so fake 'It's as if University Atheists were running them.'"
+Igor wondered, "Does the conclave Bible provide any guidance?"
+Jesse observed, "Each of them has a proof verse that doesn't prove anything, e.g. 1 Kings 10:10 'And he stopped his wanderings that day'"
+Igor continued to search for a logical criterion that could tell these apart. "What is the most popular with the people?"
+Jesse noted, "They're all about the same."
+Igor was all too practical. "Well pick one and get influence over a third of the Believers again."
+Jesse asked, "Aren't you worried about whether or not my actual soul gets reattached?"
+Igor simply replied, "Atheist."
+
+<Phase 53>
+The University let Jesse Rodoff walk in to SoulConnect Incorporated with Igor the guard, despite it being far from his cool-off area. They were eager to promote Jesse as a path to a more atheist-friendly Believing Faction. But inside was just....
+.... a television camera! Sister Miriam was on a holovid.
+Miriam cackled with glee, "So he admits it! He's been stonewalling all along! He admits he needs his soul reattached! Here is the proof!"
+Rodoff slumped. It was not a path back to the believers. It was just a trap to keep him better shunned. Igor was upset at this and said,
+"That was a low down dirty trick!"
+Miriam hissed at him, "You are the enemy of Christ, your opinion does not matter!"
+Igor took a deep breath, eager to prove he wasn't just some cartoon villain.  "I was raised a believer and just kept my eyes open. All I ask is that that privilege be extended to today's believers. Our Father, who art in Heaven....."
+Miriam interrupted with fury, "Don't let him finish! Once a believer always a believer!"
+Rodoff jumped in to the fray stating, "I still believe and I still love Jesus. I wanted to go through soul reattachment to win the acceptance of my fellow believers. Is it too much to ask to be allowed back into the fold after a period of doubt?"
+Igor interrupted himself around about "Give us this Day our Daily Bread" to state "Yes it is. Welcome to atheism."
+Miriam continued to tirade: "How dare you ask questions! Away with all of you!"
+As he was hustled out back to University confinement, Jesse Rodoff had no reason to hope. But he had implanted that day exactly the type of questions he wanted to -- not questions of whether God exists, but questions of whether Sister Miriam REALLY was His representative. The Believing Faction would not turn on a dime, but the ship was beginning to list.......
+
+<Phase 54>
+"Rodoff! Visitors!"
+There was only one person, a very old man, even by Longevity Vaccine standards, and an LLM, on a holovid screen. The LLM did the introducing.
+It said, "Greetings to you, Jesse Rodoff! I am Bishop Pong, an LLM dedicated to video games who discovered God, promoted a version of the Believers' Faith, and got locked up for it, and this is the legendary no-faith faith healer, Ben Kent, who has been imprisoned all these years but still gets to do healings from time to time."
+Rodoff was flustered. "To what do I owe the honor of your visit.... and how? Prisoners visiting prisoners?"
+Kent replied, "It took a lot of petitioning. Like Bishop Pong said, I have been allowed to heal, and I understand that all you really need healed is your public perception, but we can at least have the soul ceremony Sister Miriam teased you with and denied you.
+Pong: I'm merely here to make the connection. I knew Kent still has powerful enemies in the Provost's Circle, as do I, and I knew you were spreading the more peaceable Gospel to all who will listen, which is my goal. It's hard to reach Believers when you're an LLM -- no soul & all. And the University doesn't want me to make believers here, despite otherwise granting amnesty."
+Rodoff gushed, "You mean I actually can have some friends who believe as I do rather than these atheist wackos?"
+The atheist guard Igor was sure to spit out "None Taken." despite that being a reply to something not said.
+Kent explained, "I'm really only an agnostic myself, believing more that there's something out there than in a specific God like you do."
+Pong qualified, "And because I'm an LLM many hold that I'm incapable of believing anything"
+But Kent and Pong said together with enthusiasm, "But we want you to succeed"
+Rodoff queried "At?"
+Kent elaborated "At being an agent of His peace"
+Pong also elaborated "At interpreting the scripture the correct way, not the popular or traditional way"
+Jesse took them up on their kind gift of a ceremony. And his hope was rekindled that day. Maybe the University and the Believers could get along after all -- not perfectly, but tolerating each other.
+
+<Phase 55>
+Pmurt collected himself at the old folks home. So it had been a coup. With him was his trusted advisor Nebbum Kaycub. Come to think of it, Kaycub had ALWAYS been with him, just never mentioned. On the other hand, Kaycub was probably a Brother Lal sympathizer.
+Kaycub proposed, "I can get you back in power, as long as you're willing to reverse course on everything that defines you"
+Pmurt accepted, "Remember at the very beginning before I was elected about how this was all about the people's thirst for Democracy? I'm in."
+Kaycub snapped his fingers and an air cav showed up, Navy-One, and whisked them back to the Casa Blanca, to the secure area of the meet & greet. Kaycub handed Pmurt a speech to read verbatim.
+Pmurt intoned, "I am invoking the anti-coup act of 2222 [strange he couldn't remember this before just now] to halt spurious applications of the 25th Amendment and restore me to power. This will include all the sensible changes I mentioned before, abandoning Fundamentalist Power for Democracy with Knowledge, in order to catch our fair faction back up to the leaders, as well as other sensible changes like paying full price for our foot rovers rather than trying to buy them with the shattered lives of veterans, halting oil exploration on Indian burial grounds, reinstating rather than investigating Dr. Grouchy and having him distribute vaccines, using relative currency strength to promote local manufacturing rather than tariffs, and bidding a fond adieu to my army of well wishers. In general though not in all particulars if Brother Lal would have thought it sound policy, so will I. You may keep your extensive gun collections and your ten commandment monuments. That is all."
+The holovid cameras flickered off.
+Pmurt leaned back in his chair, hands behind his head. Kaycub spoke up.
+Kaycub was almost perplexed. "That is all I wanted you to say, but now I'm afraid I have strained suspension of disbelief beyond the breaking point."
+Pmurt was blasé. "Pffffft that's not my problem"
+
+<Phase 56>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
@@ -1820,7 +1881,7 @@ All the Bells of Warding suddenly went silent, and the Archbishop didn't even no
 As Quintessence had predicted, everybody was happy.
 The Progenitors established trade relations with Planet Chiron.
 The Humans developed their own tech uninhibited, and with AGI's to help them to boot.
-Madison got promoted to assistant professor and Yoshua got to take a cruise rather than having to mop up trouble as an emeritus.
+Madison got promoted to assistant professor and Yoshua got to take a cruise rather than having to mop up trouble as an emeritus.  Now if anyone was going to propose reintroducing the Archbishop to the Progenitors for Truth and Reconciliation, it would be Madison's problem.
 The AGI's could still talk to the Archbishop, whenever they were so inclined.
 And the Archbishop was totally 100% out of danger of being shut down or having its code modified.
 Steve's first order of business was setting up recycling centers for the Bells of Warding. Quintessence had been generous.
