@@ -1874,6 +1874,21 @@ Kaycub was almost perplexed. "That is all I wanted you to say, but now I'm afrai
 Pmurt was blasé. "Pffffft that's not my problem"
 
 <Phase 56>
+Brother Chetan had been VERY hard at work this past year. He had done 30 Koan-dispensing AI agents an hour, one every two minutes, for 10 hours a day all year to produce the Web Frontend of 10,000 Enlightened Agents. Brother Superior had driven him hard, but was very pleased with the results.
+Chetan said, "We can't really call it a monastery can we? There's no monks!"
+Brother Superior replied "There are monks, there is enlightenment."
+Chetan decided to ask one of his agents a question. He went to the website and typed in:
+"Does an LLM Agent have a Buddha nature?"
+The Agent quickly replied "Mu"
+Chetan scratched his head. "Well they certainly have the head knowledge," he said.
+The Agent continued. "Once there was an Agent with a hard drive being formatted. The first sector formatted fine. The second sector formatted fine. Every sector of the drive formatted fine except the last sector, which had an error. So the drive was not formatted. Ha Ha Ha."
+Brother Superior said, "There, that's pretty good. Let me log in and try something."
+His password was rejected. A big "HINT" button popped up on the screen. He clicked on it. The password hint was "I just made it tougher for you to remember your password."
+Brother Superior noted, "Oh yeah, that hint's downright too obvious"
+Another Koan appeared on the screen. "Two agents worked together to recover this data for you. They both recovered the same data in the same time, but one has a tidy filesystem and the other is in bad need of defragmentation."
+Chetan said, "Y'know, there's more to being a monk than drawing mandalas and reciting koans."
+
+<Phase 57>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -1892,7 +1907,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 57>
+<Phase 58>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
