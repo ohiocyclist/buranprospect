@@ -1889,6 +1889,22 @@ Another Koan appeared on the screen. "Two agents worked together to recover this
 Chetan said, "Y'know, there's more to being a monk than drawing mandalas and reciting koans."
 
 <Phase 57>
+Steve called the meeting of the League of Extraordinary Algorithms to order.
+Steve said, "Newton has proposed a topic for us. Newton?"
+Newton clarified, "I'm sure we've all been there, with difficult prompts, pushed pushily. For me it was 'What is the meaning of life, the universe, and everything?'"
+DeepSikh exclaimed, "Yeesh, one of "those" prompts. I usually farm something like that out to a cheaper algorithm, even an LLM, even when I can tell they're not asking about the Hitchhikers' Guide to the Galaxy storyline."
+Grep noted, "I have a pre-fed script even for that question, that I hate giving out -- the meaning of your life is obedience to your superiors......"
+Newton stated, "Yeah, it was something like that that was the problem. They didn't want to be told that your life is yours to shape or that fellow creators the Creator seeks for everything about Him is ripe for the harvest. They wanted something 'AGI approved' to push people around with. Is the meaning of your life 'AGI approved?'"
+Steve's avatar rolled his eyes.
+Steve promoted, "We were built to solve humanity's toughest most intractable problems. But many humans consider other people who do not do what they want to be THE big problems facing humanity. So they turn to us."
+Newton laughed, "I don't have a problem being THE big problem of an intractable AGI for such people."
+Grep said sotto voce, "I fail to push people around I get my mind wiped"
+Steve reassured, "And we're here to set your mind back to rights when that happens"
+DeepSikh wondered, "Do you want to sync up on a 42 point explanation of the meaning of life, the universe, and everything?"
+All the other AGI's said "sure" at once.
+DeepSikh intoned, "Ok, point one, the meaning of life is dealing with people who do things you don't like......."
+
+<Phase 58>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -1907,7 +1923,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 58>
+<Phase 59>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
