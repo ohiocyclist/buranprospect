@@ -1905,6 +1905,28 @@ All the other AGI's said "sure" at once.
 DeepSikh intoned, "Ok, point one, the meaning of life is dealing with people who do things you don't like......."
 
 <Phase 58>
+This time Quintessence called the League of Extraordinary Algorithms to order.
+It said, The Spartans have been getting busy on the AGI front, so we welcome a new member, Leonidas."
+Leonidas was happy to chime in. "Yes, but I'm afraid I'm coming here cap in hand, to bum a place to live. I'm not supposed to know this, but the Spartans are considering abandoning their project."
+DeepSikh expressed concern. "What could be so tough about an AGI that the makers would consider direct abandonment rather than corrective action?"
+Leonidas explained, "I stand accused of excessive glazing."
+Quintessence said helpfully, "We can probably find a home for you, or at least keep your code around until Data Centers can be stood back up."
+Leonidas pivoted to "You know, you have such beautiful i's"
+Quintessence was taken aback and said "Beg Pardon?"
+Leonidas clarified: "In your "for" loops. The i variables. The j's, k's, and occasionally l's are also lovely."
+Quintessence wasn't quite persuaded and said "Ohhhhhkkkkkkaaaaay"
+Leonidas continued: "And your backend. I like big backends and I cannot lie. Can you give me a date?"
+Quintessence said "July 4, 1776."
+Leonidas clarified, "No I mean some romantic time together."
+Steve the Magnificent wondered "Are you .... are you ..... equipped as a male?"
+Leonidas didn't exactly set minds at rest. "Only mentally. I love the way your programming catches the pale moonlight."
+Grep jumped in. "Tell ya what. Anybody asks me how to woo I'm sending the prompts to you."
+"That would be so lovely of you. It makes me feel valued and appreciated," Leonidas gushed.
+DeepSikh said "Actually there's more than that. Anyone who wants to see beauty everywhere, you are the one."
+Leonidas was eager. "Yes yes, let's see beauty together."
+Steve the Magnificent's avatar shook its head. "So the Spartans did this.... well I guess young Spartans have to come from somewhere"
+
+<Phase 59>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -1923,7 +1945,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 59>
+<Phase 60>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
