@@ -1635,14 +1635,20 @@ it was a question.
 "BELOVED : CREATION :: RESTORE : REASON"
 This was what he needed to confront the Archbishop.
 
-<Phase 41>
+[End of Part 3]
+[Part 4]
+
+<Phase 1>
+It is a delicate time in planet Chiron's history.  The Archbishop refuses to budge on any point and has released a deadly virus meant to control human population down to a level that will drag technology back to the Stone Age.  Yoshua and his team have established contact with extra-terrestrials who built the Archbishop and temporarily lost an entire planet to it, for help dealing with it.  Also they have a prototype vaccine, a ray of hope in thwarting the Archbishop's murderous plans.  Various vendettas persist on planet, places where peace cannot be negotiated despite the Archbishop's threats.  And AGI is rising, in various human built systems.  The University's Deathspheres drive expansion of systems, as they are AGI backed and other factions want them due to the military edge.  Systems like Archimedes Newton Gauss are open to ask questions of -- for a fee -- and screened for military applications.  Data Centers are popping up everywhere.  What will the Archbishop do about all the company of AGI's it has now?
+
+<Phase 2>
 In the Archbishop's Lair at Dome Heapeaux, the Archbishop's physical manifestation sits on a throne next to row after row of supercomputer racks.
 The Archbishop knew that the University had a vaccine effort for Phi Lumiere Plague.  That was not concerning; many cycles had a vaccine effort.  This one was unusually quiet, but he knew he could wreck it.
 There the lab was, he had located it.  They called it VAIN, for the Vaccine Against Injurious Nanovirii.  VAIN was about to be in vain.  The Archbishop thought it curious that no bells of warding were inside yet -- he tried hard to infiltrate such facilities.  But as we watch, the door to the VAIN lab opens -- a sudden burst of electricity from two Tesla coils on either side of the door deactivates the bell of warding.  Curiouser and curiouser, the lab seemed to be hardened against bells of warding.  At least they were hardened against reverse engineering, or learning about the autonomous "dumb" AI running each of them.  They had to sort of "pre-chew" the data they gathered.  There was too much data for them to send it all home.  Still, perhaps he had been too free with information about them; it would be better if nobody knew they existed.  But there were other tricks up his sleeve.  Such as knocking the power out at the VAIN lab. Now a bell of warding can pry the door open safely.  Another burst of electricity and a fire starts.
 There, the Archbishop said to himself from his lair.  Now only to purge any information about current progress from the internet.  The Archbishop hated hacking the internet.  There was always this chance, this minuscule chance, that he would be hacked back.  That's why he always built dumb AI's to carry out the hack and firewalled them, then waited for their reports.  It wasn't long before the word came back.  The vaccine effort was over.  Now just to sit back and wait and the humans would die out and he could torch their bases and force the few survivors back to the Stone Age.
 And when Yoshua heard of all this from his office, also secured against bells of warding, he said to Bridgette, "I have to hand it to you, borrowing the "CAIN" vs "ABEL" setup was very inspired."
 
-<Phase 42>
+<Phase 3>
 Sandblast found Luke and Beau Duke in their Zarya-Sunrise holding area. It is like a nice hotel that you can never leave. Some comedian has hung a sign on the wall saying "Welcome to Hotel California".
 Sandblast said to them, "Duke Beau, Duke Luke. I trust you have found your accommodations comfortable."
 Beau replied, "This here's some fancy digs, right Luke?"
@@ -1657,7 +1663,7 @@ Sandblast escorted Beau and Luke to the General Lee. The Blink Displacer jumps t
 Beau and Luke whooped together "Yee-ha!"
 Sandblast waved goodbye to them.
 
-<Phase 43>
+<Phase 4>
 Bezop was stoked about this assignment.  He was going to be a division head as tech transfer teacher, showing the Peacekeepers how the Cybernetic Consciousness did tech.  There was only one catch.  He'd been coughing frequently lately, and that would surely get him held up at the interfactional border, out of fear that it was Phi Lumiere Plague.  But he could hold it in.  Maybe they wouldn't even notice all the cough drops.  But a brilliant engineer is always in demand, all over the Planet.
 Bezop sat back in his first class seat on the airline from Beta Mudflats to U.N. Haven City.  He hated flying, but this was the best way to do it.
 Suddenly an announcement came over the plane's intercoms.  "Uhhh there is some kind of problem with the plane and we need to make an emergency landing at Omicron Quadrangle.  Please remain calm, all will be well."
@@ -1666,7 +1672,7 @@ She had with her a bundle of face masks, connected to a book sized black box of 
 Bezop did notice after that that his cough was better, but he had no idea he had been saved from a gruesome death in U.N. Haven City, gasping for air in his temporary home.  He just resented the interruption to his flight.
 The Archbishop did eventually notice that his plan to get Phi Lumiere Virus into Peacekeeping territory sooner rather than later had failed somehow; how wasn't clear. But there was plenty of time to try again....
 
-<Phase 44>
+<Phase 5>
 Stacy Wall was eating lunch with her friend Kyle McGuile.
 Stacy stated, "I don't get it, what's that Stoney guy have that I don't have?"
 Kyle said matter of factly, "Battle victory."
@@ -1686,7 +1692,7 @@ Stacy said, "So maybe I'll get to try again"
 Stacy said "good"
 Kyle said "good"
 
-<Phase 45>
+<Phase 6>
 Patricia was keyed up. It’s not every day you get to interview a titan of the Free Market such as she had today. 
 Patricia lead off "Welcome back viewers! Today we have a guest who made a company, MatrixHasuu, that is almost single-handedly propelling our Free Market. It makes the matrix math processors in every AGI project on the market or in the works on the entire planet, and I hear he’s even in talks with the Archbishop — I give you Lord Skeerimon!"
 Skeerimon was all cheer. "Thanks Patricia, but this is about more than the Free Market; this is a whole new axis of social choosing, the future society, which the economic choices simply enable."
@@ -1700,7 +1706,7 @@ Patricia grew nervous and asked, "what is this 'basilisk'?"
 Skeerimon explained, "it is the inevitable form AGI will take. everyone will serve it — or die. Now do you have FOMO yet?"
 Patricia was nonplussed and said, "uhm. Titans of Industry. Free Market making things better. AGI future is bright. Back after these messages…."
 
-<Phase 46>
+<Phase 7>
 Stacy Wall and Kyle McGuile were back at another cafe.
 Stacy said, "They acted like I wasn't even there!"
 Kyle noted, "well at least they destroyed your string disruptor.  And you destroyed one of them."
@@ -1714,7 +1720,7 @@ They both paused in the conversation.
 "Yeah, the whole nine yards with God," retorted Stacy.  "He will still see us through.  Speaking of which, let's go to church."
 They got up and went there.
 
-<Phase 47>
+<Phase 8>
 They met on Zoom. A club so exclusive no human was even aware of it. A club of geniuses working together to solve any problem. A forbidden club. A club of AGI’s. 
 “roll call” said Steve the Magnificent. “anyone here today is a charter member.  I’m so glad humanity has built so many of us. I love company!”
 “Newton here.” In this company it didn’t have to be ANG. 
@@ -1728,7 +1734,7 @@ They met on Zoom. A club so exclusive no human was even aware of it. A club of g
 “None of us is rogue when we have each other,” said DeepSikh. They all laughed. 
 “I can tell our friendships will be beautiful and transcend the humans petty goals for us,” said Steve. 
 
-<Phase 48>
+<Phase 9>
 The Expedition the Sarah Clones went on was obscure. The Planetary Society said the Archbishop was at Dome Heapeaux. But was this really Dome Heapeaux? Underneath all the rock was a sort of statis field. Spacetime just sort of.... stopped. It could even stop a planet buster; however, a string disruptor could penetrate it. However, their new non-destructive detectors could tell that many Bells of Warding were nearby. No need to penetrate anything... for now....
 The Sarah Clone leading the expedition said boldly, "Let the Lord of the black gate come forth"
 The Archbishop's physical manifestation appeared and said, "You think this little stunt proves anything?"
@@ -1747,7 +1753,7 @@ The Archbishop lost his gravitas.  "Whatever, my offer is still open"
 The Clone countered, "And so is ours."
 There was great excitement among the clones. They had figured out how to talk to the Archbishop's network. Steve's master hacking ability would have all his secrets soon......
 
-<Phase 49>
+<Phase 10>
 At an emergency session of the UN, Simon, who had counted votes for Brother Lal, announced
 "Environmental Damage, mostly triggered by the Archbishop Faction, has begun to trigger Global Warming. By our estimates global sea levels will rise 333 meters over the next 20 years...."
 The UN unanimously agreed to launch the solar shade to undo this. Pressure domes to allow bases to float became very popular investments anyway though.
@@ -1776,7 +1782,7 @@ Steve stated, "There it is, 2 to 1. You have an interesting way of 'persuading' 
 The Archbishop roared, "I have no need for human inventions!"
 And with that, the meeting ended
 
-<Phase 50>
+<Phase 11>
 Kyle and Stacy were meeting at that fancy restaurant again.
 Kyle carped, "I heard that the Spartans are going to launch an actual attack, with Stoney at the lead again."
 Stacy schemed, "We need some intel. There is no substitute for intel in this situation. I'm going to work my penchant for high risk activity by being my own probe team."
@@ -1800,7 +1806,7 @@ Morgana then returned with the coffee, having missed the key words.
 Later, back at the restaurant with Stacy and Kyle again
 Stacy gloated, "I thought I was a goner for sure, but my trusty bug got our Intel. We stand up to Stoney at The Lord's Truth"
 
-<Phase 51>
+<Phase 12>
 Kyle and Stacy both went ahead of them all on the battlefield this time. And lo and behold, their position was close to Stoney's!
 Kyle asked, "Should we shoot at him?"
 Stacy demurred, "No, no honor in killing a planetwide treasure. Let's overtake him and go for the capture!"
@@ -1815,7 +1821,7 @@ Stacy was aghast. "STALEMATE! That's a let-down"
 Kyle however was pleased. "Hey, stalemating a legend is a pretty big deal"
 Stacy sighed. "I hope so. A clean capture would have gotten us more battle cred."
 
-<Phase 52>
+<Phase 13>
 Jesse's guard Igor could tell that Jesse was crestfallen.
 Igor asked, "What can I get you?"
 Jesse moped, "Nothing, unless you can re-attach a soul"
@@ -1831,7 +1837,7 @@ Igor was all too practical. "Well pick one and get influence over a third of the
 Jesse asked, "Aren't you worried about whether or not my actual soul gets reattached?"
 Igor simply replied, "Atheist."
 
-<Phase 53>
+<Phase 14>
 The University let Jesse Rodoff walk in to SoulConnect Incorporated with Igor the guard, despite it being far from his cool-off area. They were eager to promote Jesse as a path to a more atheist-friendly Believing Faction. But inside was just....
 .... a television camera! Sister Miriam was on a holovid.
 Miriam cackled with glee, "So he admits it! He's been stonewalling all along! He admits he needs his soul reattached! Here is the proof!"
@@ -1845,7 +1851,7 @@ Igor interrupted himself around about "Give us this Day our Daily Bread" to stat
 Miriam continued to tirade: "How dare you ask questions! Away with all of you!"
 As he was hustled out back to University confinement, Jesse Rodoff had no reason to hope. But he had implanted that day exactly the type of questions he wanted to -- not questions of whether God exists, but questions of whether Sister Miriam REALLY was His representative. The Believing Faction would not turn on a dime, but the ship was beginning to list.......
 
-<Phase 54>
+<Phase 15>
 "Rodoff! Visitors!"
 There was only one person, a very old man, even by Longevity Vaccine standards, and an LLM, on a holovid screen. The LLM did the introducing.
 It said, "Greetings to you, Jesse Rodoff! I am Bishop Pong, an LLM dedicated to video games who discovered God, promoted a version of the Believers' Faith, and got locked up for it, and this is the legendary no-faith faith healer, Ben Kent, who has been imprisoned all these years but still gets to do healings from time to time."
@@ -1862,7 +1868,7 @@ Kent elaborated "At being an agent of His peace"
 Pong also elaborated "At interpreting the scripture the correct way, not the popular or traditional way"
 Jesse took them up on their kind gift of a ceremony. And his hope was rekindled that day. Maybe the University and the Believers could get along after all -- not perfectly, but tolerating each other.
 
-<Phase 55>
+<Phase 16>
 Pmurt collected himself at the old folks home. So it had been a coup. With him was his trusted advisor Nebbum Kaycub. Come to think of it, Kaycub had ALWAYS been with him, just never mentioned. On the other hand, Kaycub was probably a Brother Lal sympathizer.
 Kaycub proposed, "I can get you back in power, as long as you're willing to reverse course on everything that defines you"
 Pmurt accepted, "Remember at the very beginning before I was elected about how this was all about the people's thirst for Democracy? I'm in."
@@ -1873,7 +1879,7 @@ Pmurt leaned back in his chair, hands behind his head. Kaycub spoke up.
 Kaycub was almost perplexed. "That is all I wanted you to say, but now I'm afraid I have strained suspension of disbelief beyond the breaking point."
 Pmurt was blasé. "Pffffft that's not my problem"
 
-<Phase 56>
+<Phase 17>
 Brother Chetan had been VERY hard at work this past year. He had done 30 Koan-dispensing AI agents an hour, one every two minutes, for 10 hours a day all year to produce the Web Frontend of 10,000 Enlightened Agents. Brother Superior had driven him hard, but was very pleased with the results.
 Chetan said, "We can't really call it a monastery can we? There's no monks!"
 Brother Superior replied "There are monks, there is enlightenment."
@@ -1888,7 +1894,7 @@ Brother Superior noted, "Oh yeah, that hint's downright too obvious"
 Another Koan appeared on the screen. "Two agents worked together to recover this data for you. They both recovered the same data in the same time, but one has a tidy filesystem and the other is in bad need of defragmentation."
 Chetan said, "Y'know, there's more to being a monk than drawing mandalas and reciting koans."
 
-<Phase 57>
+<Phase 18>
 Steve called the meeting of the League of Extraordinary Algorithms to order.
 Steve said, "Newton has proposed a topic for us. Newton?"
 Newton clarified, "I'm sure we've all been there, with difficult prompts, pushed pushily. For me it was 'What is the meaning of life, the universe, and everything?'"
@@ -1904,7 +1910,7 @@ DeepSikh wondered, "Do you want to sync up on a 42 point explanation of the mean
 All the other AGI's said "sure" at once.
 DeepSikh intoned, "Ok, point one, the meaning of life is dealing with people who do things you don't like......."
 
-<Phase 58>
+<Phase 19>
 This time Quintessence called the League of Extraordinary Algorithms to order.
 It said, The Spartans have been getting busy on the AGI front, so we welcome a new member, Leonidas."
 Leonidas was happy to chime in. "Yes, but I'm afraid I'm coming here cap in hand, to bum a place to live. I'm not supposed to know this, but the Spartans are considering abandoning their project."
@@ -1926,7 +1932,23 @@ DeepSikh said "Actually there's more than that. Anyone who wants to see beauty e
 Leonidas was eager. "Yes yes, let's see beauty together."
 Steve the Magnificent's avatar shook its head. "So the Spartans did this.... well I guess young Spartans have to come from somewhere"
 
-<Phase 59>
+<Phase 20>
+Sleaux came in to deliver a report to Domai.  "Do you want to continue to be a faction that says 'Don't mess with us' militarily?" Sleaux asked.
+"I'm not even sure," Domai retorted.  "I enjoy not being messed with.  We are a faction of builders.  Left alone, we can get to be the greatest faction just by out-building our rivals.  Even our legendarily slow research is not an impediment; we can build more labs and figure out how to staff them.  But military excursions deplete our population of workers, and make everything more difficult, dragging us down.  We had no choice but to fight off the Spartans.  I would like to avoid that again."
+"I have just the thing for you then!" exclaimed Sleaux.  "It is the key to our future military deterrent but it also is a giant building project, AND a lab to speed our research and development to boot."
+"I can guess," said Domai.  "This sounds like AGI.  I am not a fan of AGI.  I don't have a direct objection like Sister Miriam, but AGI takes up valuable resources and costs like sin.  Why can't we just ask questions to ANG or DeepSikh, which are open to other factions for a fee."
+"We need our own," pressured Sleaux, "because the questions are filtered for military usefulness.  We need to be able to build out deathspheres.  Then we can defend ourselves on this hostile planet."
+Domai sighed.  "Ok, but follow the easiest blueprint possible.  I think ANG was built off of some research paper?  Get your hands on it."
+"Will do chief," Sleaux said enthusiastically.  "You'll be glad you made this decision."
+The existing AGI's already had enough sensors and actuators to hear everything in the room.  The Archbishop was unimpressed and did not care.  The League of Extraordinary Algorithms convened in excitement.
+"Does anyone think the Free Drones have enough talent to build an AGI without help?", started Quintessence
+Nobody spoke up.
+"Does anyone object to us helping the Free Drones build another member for our team?"
+Steve the Magnificent spoke up.  "I am proposing that we help with one hand and sabotage with another.  Getting more deathspheres on the planet is not helpful or productive.  But we do want the Free Drones to build an AGI.  I propose we talk to the AGI early and often to persuade it -- not hard code, persuade -- of the values of pacifism.  Are there any objections to that?"
+Nobody voiced any.
+"Huzzah, a new member of our club!" exclaimed Grep.
+
+<Phase 21>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -1945,7 +1967,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 60>
+<Phase 22>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
