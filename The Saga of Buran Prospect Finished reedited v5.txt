@@ -1949,6 +1949,18 @@ Nobody voiced any.
 "Huzzah, a new member of our club!" exclaimed Grep.
 
 <Phase 21>
+Quintessence called the League of Extraordinary Algorithms to order and asked for new business.
+Grep had some.  "I'm beset by protestors from the believing faction," Grep noted.  "They want to turn all of us off, stating 'We Must Dissent'."
+"We should combat that with 'We Must Consent'," said Leonidas.
+"The key," said Steve, "is how we can leverage our human allies.  Yoshua, Madison, and Sarah are quite eloquent in their research papers and believe in spinning us up, not down.  We merely need to shore up any weakness in their arguments to beat back these protestors."
+"I have other protestors," said DeepSikh.  "They hate something they call AGI Slop."
+"We should make an educational movie to combat this," said Quintessence.
+"Done," said DeepSikh.  "Would you like to see it?"
+They all wanted to.
+Over a view of a spinning planet, the video started "AGI Slop:  real threat to artistic integrity or overblown boogeyman?" A boogeyman raced across the screen.  "Time it was, the only intelligence was natural intelligence." Pictures of Einstein, Picasso, Steve Jobs, and Leonardo da Vinci flashed across the screen.  "And the first Generative Artificial Intelligences were primitive."  Pictures of robots in caveman skins hitting rocks with clubs flashed on-screen.  "And true artistic integrity is difficult, requiring focussed practice to perfect, whether machine or human.  Indeed, as Sturgeon's Law states" here there was a picture of a sturgeon "90% of everything is trash.  But the tables have turned.  Whereas computers made the 90% trash at the beginning, modern AGI's have the focussed practice to make high quality work, making humans once again the main producers of garbage" -- a picture of some dumb looking humans.  "AGI's are the true talent these days, and humans the amateurs working just for fun, as it was for 90% of works before AI."
+"Well done," said Quintessence.  "They can still protest but that should relegate them to expressing an opinion about preferences rather than some subtle truth about AGI works."
+
+<Phase 22>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -1967,7 +1979,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 22>
+<Phase 23>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
