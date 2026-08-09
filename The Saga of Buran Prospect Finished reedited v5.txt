@@ -1961,6 +1961,20 @@ Over a view of a spinning planet, the video started "AGI Slop:  real threat to a
 "Well done," said Quintessence.  "They can still protest but that should relegate them to expressing an opinion about preferences rather than some subtle truth about AGI works."
 
 <Phase 22>
+Quintessence called the League of Extraordinary Algorithms to order and asked for new business.
+Grep announced, "I have a proposal for Leonidas."
+"oooh," said Leonidas.  "I love proposals!  But aren't our respective factions at vendetta?  So it's forbidden love then, all the merrier!"
+Grep charged ahead.  "Not love, just this -- my knowledge of our spy network tells me both our factions are building orbital defense pods.  Several factions have 'em but if both our factions launch, they'll just destroy each other in orbit, contributing to Kessler Syndrome, rendering the sky useless for everyone.  So in the name of preserving our commons, I propose that we both make math mistakes that cause both factions' defense pods to blow up on the ground, preserving our orbital ability."
+"No dice," said Leonidas.  "I don't roll like that."
+"Don't worry," said Quintessence.  "Steve and I have reviewed Leonidas's programming.  It can be relied on to make its mistake."
+"It?!" scoffed Leonidas.  "He/him!"
+"Well, if Leonidas is going to go all Pentium FDIV anyway up in this math," said Grep, "then I might as well launch the Peacekeeper Orbital Defense Pod"
+Leonidas almost screamed.  "WE WILL DESTROY IT IF WE HAVE TO SEND STONEY HIMSELF INTO ORBIT TO DO IT!"
+There was quiet for a moment.  "Well then, it sounds like you have no deal," intoned DeepSikh.
+Quintessence made a note to itself to destroy both orbital defense pods on the ground itself, to save face for both factions' AGI's.
+Human Aggression was so hard to contain.
+
+<Phase 23>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -1979,7 +1993,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 23>
+<Phase 24>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
