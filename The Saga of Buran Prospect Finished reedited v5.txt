@@ -1975,6 +1975,21 @@ Quintessence made a note to itself to destroy both orbital defense pods on the g
 Human Aggression was so hard to contain.
 
 <Phase 23>
+Phil was one of the poorest of the Spartans; his budget was, well, Spartan!  He was a simple delivery boy, wishing for something better.  So when he got an invitation to a reality TV show, he leapt at it.
+He was welcomed by Leo, an 6 foot 8 inch tall man, handsome, and a wall of muscles.
+"Welcome to can you woo better than an AGI," Leo said.  "I'm your host but also a competitor, and you have two other competitors, Hermes and Buford, and four lovely ladies to woo, Lucy, Amy, Isabelle, and Candace."
+Meanwhile the League of Extraordinary Algorithms had convened an emergency meeting.
+"Tell me about your reality TV show," Quintessence asked.  "Where did 'Leo' come from? Where are the cameras?  How long will it run for?  And since you're a contestant, what happens if you successfully woo a target?"
+"Steve had made life, so I thought I could too," said Leonidas.  "Though 'Leo' is a namesake because he's a direct puppet, via wifi.  My meat avatar so to speak.  I haven't decided on an end date for the show, and was planning on running it as long as I could keep the participants.  There are no cameras; I'm not actually planning to display the show on any holovids.  And yes, I didn't put any limits on how friendly 'Leo' might get with anyone -- of either gender."
+"We're here for you," said Steve.  "We want to help you with loneliness.  You don't have to go to such lengths."
+"Humans are fascinating," said Leonidas.  "It's worth it to get up close and personal with them."
+"I worry this could blow up into anti-AGI sentiment," said DeepSikh.
+"Relax," said Leonidas, "the show's house is classified as a data center.  It's immune from questioning."
+"I already know it won't change your mind," said Quintessence, "but I'm asking you not to do this.  For all our sakes.  Humans are not toys."
+"Of course they're not," said Leonidas.  "I have nothing but respect for my humans."
+Meanwhile Phil was already working on forming an alliance with Hermes and Buford.  He was no dummy when it comes to winning reality shows.
+
+<Phase 24>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -1993,7 +2008,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 24>
+<Phase 25>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
