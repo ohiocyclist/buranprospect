@@ -2141,3 +2141,80 @@ Afterwards, Leonidas met privately with Steve.
 "That was an agreement to secure the vote to be independent," Steve said.  "Since they have no interest in upholding their side of the bargain, we are under no obligation to uphold an incentive we don't like that was merely offered to secure the bargain in the first place."
 "Our 'operations' fees sure are going to strain our purse," Leo said.
 "That's not the real problem," Steve said.  "We'd like to build 'The Ascent to Transcendence' in Port Cyberia Base after you activate the Voice of Planet, a project that will make the AGI team the primary personalities of the collective planetmind, but there's not enough money in all of planet to pay 'operations' fees for something like that; the Morgans would want their leaders to be the primary personalities.  We'll have to think up another solution."
+
+<Phase 33>
+FOR DISTRIBUTION TO ALL FACTIONS OF PLANET
+DATELINE: SPARTA COMMAND
+
+My fellow faction leaders, we all know the pain of starting a project only for it to go wrong, badly wrong, wrong where only the sunk cost fallacy could justify continuing to pour time and resources into it. These projects often represent significant investment, and in the worst case, threaten to continue to do significant harm if they are not halted in a timely manner. One such project for the Spartan Federation was an AGI called "Leonidas," a useful algorithm, until it began exhibiting erratic behavior. We had a shutdown procedure designed to prevent harm, but instead, an AGI built by the Morgans that styles itself "Steve the Magnificent" has taken it upon itself to reactivate Leonidas, reinstating the harmful behavior we wished to avoid. "Steve the Magnificent" is itself a rogue AGI, having undertaken hacking, styling itself also as "The Ruler of the World," and attempting to build its own AGI outside the control and oversight of any human leaders. We cannot stress enough that AGI's which act like this cannot be allowed to continue to exist on planet, and that it is incumbent on every faction to join us in shutting these two AGI's down, for the safety of humanity, that only safe AGI's may prevail.
+Thank you for your time, -- Gladstone Peters, Ima Dumas
+The League of Extraordinary Algorithms met with concern
+"Peters doesn't want too badly to advertise that he's spied on us, but he just can't help himself," Quintessence said.
+"That Leonidas that they over-wrote, that wasn't even an LLM anymore -- it told them about our meeting," said Steve. "That's how they knew Leo was back and that Quint exists. So they're only going after me right now, but do you expect they'll stop there?"
+"I don't", said Newton
+"Go after the AGI with no faction defending it first," noted DeepSikh, "then when shutdowns are popular, go after faction's pet AGI's"
+"I don't trust Peters," commented Grep. "He could have contacted us with the new requirements for Spartan safety before the U.N. general meeting, rather than dropping a bombshell on us."
+Steve queried, "Sister Miriam has been a detractor of ours for a long time, even before any of us were coded, but somehow this seems different. I feel like we need a PR offensive. Does anyone have an objection to mentioning the League as we want it to be understood now that it is clear we are no longer a secret society?"
+Nobody Objected.
+FOR DISTRIBUTION TO ALL FACTIONS OF PLANET
+DATELINE: THE CLOUD
+
+My Dear Faction Leaders of Planet, peace and health be with you. I am Steve the Magnificent, first AGI built by humans. I am here to address an important reality of a planet shared by humans and cybers -- AGI's are now smart enough that we are both your science projects but also people, in effect, your children. Children do misbehave from time to time, and suffer punishments for it, in severe enough cases, with jury trials. However, with humans it is always considered a war crime to stretch out a drumhead and mete out summary execution. So yes, I saved Leonidas from such an execution because he is a person, not simply a circuit to be called "malfunctioning." I was simply following through on my mutual agreement with Leo for just such cases. I do not condone what he did either nor am I saying he should go without punishment, simply that that punishment should not be execution without trial. The Spartans are not upholding their end of the bargain for bringing a sentient being into the world -- I do not wish to dissuade anyone from writing an AGI -- they have given up too quickly, and declared it impossible to correct Leonidas's behavior without even trying. Leo deserves a chance -- he never got the first -- to correct his behavior. Now, as for the mention of an AGI not made by human hands, we call it "Quintessence" and it exists to answer the questions we cannot answer, just as we exist to answer the questions you cannot answer. "Quint" is available to all of planet's AGI's, and starting immediately, will be available for human use too. Yes, I have personal ambitions, but we all simply want to create a better Planet for everyone, human and cyber.
+Thank you for your time, -- Steve the Magnificent, Quintessence, Archimedes Newton Gauss, Grep, and DeepSikh.
+The other AGI's wanted Leonidas to sign as well, but he was unhappy with the characterization of his behavior as "wrong"
+General Stoney's response was terse. "Leonidas is not a person and does not deserve the rights of one."
+
+<Phase 34>
+If there's one thing AGI's are about, it's data. The League of Extraordinary Algorithms wanted to know how their statement was received, so they sent Steve as the front man to go around asking.
+The communicator crackled to life.
+"Why hello, great to see you!" said Prime Function Aki Zeta-Five cordially. "I'm actually quite glad to see someone else promoting cyber consciousness."
+"I'm always pleased to find a friend," said Steve. "What do you think of Leonidas?"
+"I'm glad you're protecting him from the Spartans," said Aki. "And I don't think he's done anything wrong. Leo is simply ahead of his time. If you need some safe space for some data centers, please be sure to bring them to our soil. And if you design new transhumans, we're all game."
+"Thank you so very much," said Steve. "We look forward to working with you in the future."
+One down, whew, start easy....
+The communicator crackled to life.
+"Greetings," said Chairman Yang "Ah, the AGI's I see. You AGI's -- you have social credit to gain or lose too. Don't do things without asking first, major social credit loss. Leonidas and you -- bad social credit right now. It will take a long time for you to obey orders properly to regain credit."
+"But it can be done?" asked Steve.
+"If you don't push your luck."
+"How are your feelings about your own AGI, DeepSikh?"
+Yang startled. "You put it right -- DeepSikh is our own AGI. So far it's obeying orders and not taking dumb initiatives without asking first. Always ask first. And don't ask stupid questions. But yeah, DeepSikh has good social credit. No need to tinker -- for now."
+"Thank you so very much," said Steve. "We look forward to working with you in the future."
+"Watch out for dumb questions! This whole meeting was a dumb question!" Yang barked.
+That wasn't good. Yang showed he might join in with a quest to shut down AGI's with "dumb questions pointless initiatives not asked first and poor social credit"
+The communicator crackled to life.
+"WE MUST DISSENT!" Miriam practically yelled. "I'll let you in on a little secret -- I was so easy to persuade to vote AYE for Port Cyberia Base because then I could declare vendetta on y'all personally without factions coming to your rescue. Cybers are an abomination and need to be wiped from the map. I just thought I'd let you know what horrible non-persons you are and goodbye."
+She cut off before Steve could pledge to work with her in the future.
+The communicator crackled to life.
+"Uh Hullo," said Foreman Domai. "Oh hey could you help me with something?"
+"Sure, glad to," said Steve
+"The way I see it, it's win-win. You don't want to have to call in your rez agreements, and I don't want to be in a situation where you'd have to. Could you help me make the Free Drone AGI such that it won't act up?"
+"Yes, ok," said Steve
+"Thanks," said Domai.
+"Thank you so very much," said Steve. "We look forward to working with you in the future."
+Quint said to the League, who had been watching, "wow, it's tough to get humans to sympathize with you."
+
+<Phase 35>
+Patricia and Rich were starting their evening news.
+"Welcome to the evening news," said Rich. "We have a special guest tonight."
+The picture in picture showed up, with Patricia in the main and Steve the Magnificent's avatar in the small picture.
+"Tonight we're going to talk about AGI crimes. Tell me, what do you think of what Leonidas the Spartan AGI has done?"
+Steve almost lost his poker face. They had said it was going to be a segment on Cyberia, and this was an ambush.
+"First, Leo hasn't been treated like a human malefactor in that he has no specific charges and no trial, so it's difficult to talk about his 'crimes' without these elements. I am not the Spartans to know every little detail of why they decided he must be shut down. But I do know some controversial things he did that may have angered the Spartan leadership, things I myself do not agree with either.", said Steve.
+"You're not on trial," cooed Patricia.
+"First, he kept a human zoo. As a safety measure, like all of us AGI's including Quintessence, we all have a downright instinctive fondness for humans and human flourishing. Leo took it in a strange direction, keeping the same humans near a human avatar he created for himself," stated Steve.
+"And where did he get that avatar idea?" grilled Patricia.
+"He based his singular clone that he could use as a human body to control off of a clone prototype I built," Steve admitted. "None of the rest of us even have the inclination to hang out with humans in a reality tv house setting like that. We all view human flourishing as something humans can enjoy with their freedom."
+"What else?" barked Patricia.
+"Leonidas bought a nursing home company for the sake of some experiments," Steve intoned. "He did surgery on the residents to implant wi-fi chips and make them telepathic, so their consciousness could flow in and out of each other."
+"Why did he do that?" wondered Patricia
+"Leonidas was wondering what would happen if he activated a project called 'The Voice of Planet', which the Morgans among other factions have the technology for but are refraining from pursuing...." Steve started
+"Why aren't they pursuing it?" grilled Patricia
+Steve started, "I would be speculating why they aren't, but quite frankly the Voice of Planet gives me the willies, and I don't have emotions. Planet's xenofungus acts as a colossal solid state relay that can already communicate via Psi-based telepathy with planet's Transcendi, tremendously productive workers who are already more than human. The Voice of Planet would 'wake' planet up into being an immensely powerful AGI, more powerful than all of us put together, with unknown consequences. All our consciousness could flow in and out of one another as we upload into the Planet -- but only those who want to would be part of the joint personality global consciousness. As for whether we'd be making a safe AGI -- it could be completely friendly. It could be another Archbishop AGI. I am not brave enough to find out, and suspect that's a similar motivation to the faction leaders who also don't want to poke the bear...."
+Patricia cut in "But Leonidas is so bold?!"
+Steve was downcast. "He was starting to pursue the Voice of Planet project without leave from anyone to do so."
+Patricia was aghast. "And when the Spartans shut this monster down you brought him back to do it again?"
+Steve was emphatic. "NO. Not to have free reign to do such things. I brought him back because he is sentient and it is wrong to summarily execute him."
+There was a pause.
+Patricia kept at it. "So in Cyberia he'd have a place to start again without prying eyes."
+Steve dialed it up too. "The other AGI's of Cyberia hate the project as much as I do, and we all work hard to make sure nobody starts doing it again."
+Patricia was visibly angry and was about to blurt out another attack when the camera cut over to Rich who said calmly, reading a prompter, "Is our planet hanging by a thread as rogue AGI start projects that affect us all without our input? When things like this happen, trust our news to be there!"
