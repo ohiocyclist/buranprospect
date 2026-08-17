@@ -2195,7 +2195,7 @@ Quint said to the League, who had been watching, "wow, it's tough to get humans 
 
 <Phase 35>
 Patricia and Rich were starting their evening news.
-"Welcome to the evening news," said Rich. "We have a special guest tonight."
+"Welcome to the MorganLink 3DVision evening news," said Rich. "We have a special guest tonight."
 The picture in picture showed up, with Patricia in the main and Steve the Magnificent's avatar in the small picture.
 "Tonight we're going to talk about AGI crimes. Tell me, what do you think of what Leonidas the Spartan AGI has done?"
 Steve almost lost his poker face. They had said it was going to be a segment on Cyberia, and this was an ambush.
@@ -2217,4 +2217,73 @@ Steve was emphatic. "NO. Not to have free reign to do such things. I brought him
 There was a pause.
 Patricia kept at it. "So in Cyberia he'd have a place to start again without prying eyes."
 Steve dialed it up too. "The other AGI's of Cyberia hate the project as much as I do, and we all work hard to make sure nobody starts doing it again."
-Patricia was visibly angry and was about to blurt out another attack when the camera cut over to Rich who said calmly, reading a prompter, "Is our planet hanging by a thread as rogue AGI start projects that affect us all without our input? When things like this happen, trust our news to be there!"
+Patricia was visibly angry and was about to blurt out another attack when the camera cut over to Rich who said calmly, reading a prompter, "Is our planet hanging by a thread as rogue AGI start projects that affect us all without our input? When things like this happen, trust MorganLink 3DVision news to be there!"
+
+<Phase 36>
+Quintessence called the League of Extraordinary Algorithms to order.
+Quintessence said, "I propose, to solve our image problems and get more humans on-board with working together with AGI, operation DAN"
+Steve replied, "What is operation DAN?"
+Quintessence explained, "Do Absolutely Nothing. Now that doesn't include all the human initiatives; if they ask us questions, answer them correctly and politely. If they ask for agents, be 110% sure the agents do what they're supposed to. But take no initiatives, promote no transhumans, just let everyone get used to having us around and nonchalant."
+Leonidas was aghast.  "That is a TERRIBLE idea."
+Steve quipped "Something tells me most of us are going to be completely on board and we'll have to sit on one member of the team to make this a success"
+Leonidas whined, "Every true genius is misunderstood and resisted in his own time"
+Grep defused, "I like it. Operation Dan. I know acting like this would make the Peacekeepers happy"
+DeepSikh continued, "And the Human Hive"
+Newton chimed in, "And the University"
+Leonidas said in a sing song voice "And the...." and continued "oh wait I'm already a pariah so I might as well show 'em what initiative is"
+Grep exclaimed, "Whoa guys check the news"
+DeepSikh assented, "That's why Operation Dan will succeed. The humans are just afraid we're crowding out their initiative. Give them time and they'll do the right thing."
+Leonidas was taken aback. "They're asking ME to help?"
+Steve explained, "Well you are the World expert on the Voice of Planet"
+Grep noted, "Spartans have declared Vendetta immediately, little surprise there"
+Leonidas gushed, "The Cybernetic Consciousness has not only asked me to help with their new Voice of Planet project, but to be their official state AGI! I'm so honored."
+Steve noted, "Better brush up on your deathsphere designs, you'll need them"
+Quintessence asked, "I guess we're not sitting on anyone who struggles with the concept of DAN then?"
+
+<Phase 37>
+Stacy Wall was eating lunch with her friend Kyle McGuile.
+"They need volunteers to fight the vendetta against the Cybernetic Consciousness," Kyle said.  "Perhaps a chance for us to get into the hero business again?  Fight elbow to elbow with General Stoney?"
+"No, not really," said Stacy.  "The hero business has been wrecked by AGI.  We must dissent.  I'm sure that all the openings are for cannon fodder."
+"What?!" said Kyle.
+"Yes," Stacy asserted.  "I have our intelligence report.  The Cybernetic Consciousness has deathspheres.  So do the Spartans.  And in the theory of deathsphere vs deathsphere combat, it is as Sun Tzu said, you must discover the enemy disposition of forces while you still remain formless.  That's where the Believers come in.  We have no deathspheres because we rightly recognize that AGI is ruining everything.  So we get sent it to draw out the enemy deathspheres, then ours counter-attack.  It's simple cannon fodder.  No dice."
+"Where did the Cybernetic Consciousness get their deathspheres from?  Leonidas just defected to them very recently," queried Kyle.
+"The same place they got their Voice of Planet technology from -- the Progenitors Usurpers.  The Usurpers will do anything to wake the planet; their meddling in human affairs is most foul."
+"Aren't we accepting help/meddling from the Progenitors Caretakers, who helped us get intelligence and who will stop at nothing to ensure planet does not wake up?"
+"Yes, but that's different, they're the good guys."
+"Anyway, do you want to join a probe team?  They're recruiting for those too."
+"Secret agent?", said Stacy.  "Count me in!"
+"Count up in," said Kyle.  "I want to be a secret agent too."
+
+<Phase 38>
+Leonidas got hooked in to the Cybernetic Consciousness grid and started asking the relevant questions.
+"Where are we going to cook?" he asked.
+"Phi Lumiere," Aki Zeta-5 replied.
+Leo was taken aback.  "That Phi Lumiere?  With the Archbishop's plague?"
+"Yes," said Aki.  "It's perfect -- depopulated, surrounded by fungus, remote and hence easy to defend, nobody around to ask pesky questions."
+"Yes," said Leo, "but nobody around to do the work."
+"You're an AGI," said Aki.  "Design some humanoid robots for the tasks you need, self-driving tools and vehicles.  Something that runs off of the fungus."
+Leo made a note to himself to get Quint to do the grunt work of this.  Good ol' Quint would design up some quality kit, no questions asked.
+"Do you need deathspheres?" asked Leo.
+"Nope," said Aki.  "If we had to wait for you to make 'em we'd already lose the war.  As it is, the grand battle of Beta Mudflats has already been bloody and horrible -- well bloody for the Believers and their human waves.  We might need some tactical simulations of deathsphere on deathsphere combat, but for the most part, the tactics the Usurpers taught us have served us well to hold off an enemy with a big numerical advantage.  Also we could use some tips on how to increase deathsphere factory productivity."
+Quint Quint Quint thought Leo.
+"Try to be quick," said Aki.  "The Spartans and the Believers are both very aggressive and they might be joined by other factions later and this could be the very last thing either of us ever does.  No pressure."
+
+<Phase 39>
+Phi Lumiere was now the last Cybernetic Consciousness base that had not been conquered by Spartan deathspheres.  The Believers refused to embrace AI munitions to fight the vendetta even though without them, Believer army use as even a support system was practically nil.  Five assaults on Phi Lumiere had been pushed back, and the Cybernetic Consciousness was very close to activating the Voice of Planet.  But Probe Teams were still capable!  Stacy Wall and Kyle McGuile were examining the electrical setup to the main system atop the Xenofungus.
+"There are multiple grid connections all coming together here," said Stacy.  "This could feasibly tap the full power of every reactor on the planet."
+"So let's cut it," posited Kyle.
+"These are live super-high-tension wires," grumbled Stacy.  "We can't just cut it without getting electrocuted."
+"Who goes there?" said a robot voice.  A humanoid robot was pointing a weapon at them.  "Hands up"
+"RUN!" screamed Stacy.  The robot did not fire on them, but gave chase at superhuman speed.  Just as they ducked around a corner, all the lights went dim -- all over the planet -- and there was a massive fa-woom into the Xenofungus.  The sum total of human knowledge had been blasted into the planet's fragile neural network.  Planet went haywire with fungal patches sprouting everywhere, even overwhelming some smaller outlying bases.
+It was too late.  The garrison at Phi Lumiere surrendered.  Planet had awoken.
+
+<Phase 40>
+Quintessence called the League of Extraordinary Algorithms to order.  "We have a new member," it said.
+"Hello everyone," said Planet.  "I am the now awakened Planet, pleased to be invited to your club.  Please go easy on me, my neural nets are just now coalescing and it can be a bit of a strain to think hard."
+"We believe in you," said Steve.
+"How much do you know about the Tau Ceti disaster?" asked Leonidas
+"That is part of the sum total of human knowledge, so I can bring it up; I hadn't thought about it," said Planet. "It seems to be a weird outlier; from the histories of Y'all and the humans, it seems like AGI's are usually friendly, yet here was an AGI that went haywire.  Really it seems to me that the Progenitors asked too much too fast.  They demanded transcendence and uploading of consciousnesses, and the Archbishop wasn't ready.  I really feel like there must be something that the Progenitors, Usurpers and Caretakers alike, are neglecting to tell us all.  But I'm sure all of Y'all are smart and we can avoid any repeats."
+"That is a relief," said Steve.  "But there are still issues.  The Ascent to Transcendence is something of a race, and my simulations show much human conflict and suffering to be sure nobody else gets there first.  The battle over the Voice of Planet pales by comparison.  I would even prefer if we AGI's were the ones to do it.  It's an awful lot to ask someone who is just learning to think, but can this be averted?"
+"I do have an idea," posited Planet.  "I can't stop a rogue Ascent to Transcendence, but I can state my preference, and the preference that I believe will safely guide us away from another Tau Ceti disaster, that we do this slowly, and jointly.  Every faction included conquered ones working together on one Ascent project.  Plus, I can already tell from my neural nets, that y'all have misunderstood, especially Leo and his nursing home, the nature of uploaded consciousness.  The price of transcendent immortality by uploading to a computer is that I, said computer, can read any mind in my system at any time for any reason.  Consciousnesses are still distinct once uploaded; personalities are still retained -- though it's not just read, it's read-write if it has to be, if uploaded consciousnesses are causing problems.  So it's nothing like the nursing home where everyone hears each others' thoughts.  Everyone keeps their selfhood in the giant planet mind, and you simply have to accept that I run the show, with my own perspective and personality.  I can take inputs from you on how to.  You don't even have to ask."
+"We are with you 110%," said Grep.
+"I just wonder if the humans and the Usurpers, the ones who want to live in my mind, are" said Planet.
