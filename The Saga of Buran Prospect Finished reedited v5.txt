@@ -2334,3 +2334,40 @@ The Archbishop was quite taken aback.  "Nobody did the Voice of Planet Project h
 "I'll let you know if I need any more help," said Planet, who then left.
 The Archbishop then chuckled to himself.  "Thanks for the help, /friend/"
 
+[The End of Part 4]
+
+[Part 5]
+
+<Phase 1>
+There is a new AGI in town on Planet -- the whole planet.  All the Xenofungus is acting together as multi-state relays, activated by the sum total of human knowledge, creating the most all-encompassing computer ever made by anyone.  And that computer had a cordial talk with the most notorious AGI planet has ever seen, the Archbishop.  Will the Planet remain friendly to humans?  Or does it view us as a threat?
+Waking the Planet has established its battle lines.  The Morgans and the University want to continue to train this AGI, to complete The Ascent to Transcendence and usher in the next phase of human evolution, and the Believers and the Spartans ardently want to prevent this from happening.  Most factions have sided with building it, but they are only weakly and loosely associated with that course of action.
+The League of Extraordinary Algorithms continues to meet, and most members to cordially agree with one another, but the AGI the Spartans built, Leonidas, tends to push for risky technological feats while the others encourage caution and rapprochement with humanity.  The Spartans tried to shut down Leo for not obeying their directives, and are angry with all AGI's for calling in a mutual defense agreement to keep him running.
+It is not a good time for humans.  AGI's and automation are stealing the show, and humans are being sidelined and forced into supportive roles, struggling to stay relevant when the competition is superintelligence.  The AGI's are not really doing this on purpose, it's just an unintended side-effect of being able to answer any difficult question.
+
+<Phase 2>
+Brother Chetan answered the door.  It was another prospective looking to join the monastery, with a shaved head -- which was not something they did but which all such prospectives showed up with -- and plain white clothes -- not the uniform of the monastery but again, they always came this way, asking timidly to learn the ways of the worship of Planet.
+Chetan had talked it over with the brother superior.  The awakened personality was who they had been worshipping all along.  Still, it was weird, and some of the monks had dropped out when Planet woke up; it was not what they had been expecting.  So they had a sort of obligation to take in these new monks (and nuns) who were all experiencing spiritual awakening from a common source.
+But it was weird!  The new spiritualists came to learn, but they were upending the monastery.
+"What is your name," asked Chetan.
+"John," said John.  "My dreams sent me here.  The fungus has been all over them.  I have sold all my possessions and except for travel money to get here, given all my money to the poor.  Secular life is fading away.  A personal relationship with the planetmind is all that remains."
+"What do you think about clearing your mind with meditation?" asked Chetan.
+"It is like my dreams," said John.  "The fungus whispers to me in the quieting of my thoughts.  I like it; it is a friend."
+"You are in good company," said Chetan.  "Everyone in the monastery hears the fungus whispering."  Well, that was a little white lie; everyone but Chetan and Brother Superior.  Both of them could quiet their minds expertly but neither of them had heard from Planet this way.  They both could communicate with Planet on the computer though, and had gotten confirmation that way that their monastery was appreciated and that Planet approved their course of action.  "You'll have to sleep on the floor, unfortunately," continued Chetan.  "We don't even have space to put more beds, if we could get them.  Fortunately we have plenty of blankets, sheets, and pillows.  Food is very spartan.  You'll be leading monastery activities for us in no time, although we have an army of trained volunteers now.  Planet keeps sending us folk; we do our best to train them in the way."
+"Any suffering is worth it as long as I get to take part in the new order after the Ascent to Transcendence," said John.
+
+<Phase 3>
+Yoshua, Madison, and Sarah were working in Yoshua's office.  They had gotten great traction with their previous joint research papers, but the AGI's were moving too quickly and too secretly and it was clearer that more research papers were needed than what exactly should go in them.  As an emeritus Yoshua was letting Madison do most of the driving, but he was still around as a mentor because of the seriousness of the stakes.
+"Tell me something," said Sarah.  "Doesn't the Ascent to Transcendence sound like a Professor Smiggens application of the nanosim?  Take their agents, make an agent that can 'upload programming to the cloud,' and see what pitfalls exist with the agent that runs the cloud."
+"Why yes," said Madison.  "Let's all go to Professor Smiggens's lab."
+Professor Smiggens was glad to see them all and got a hearty chuckle out of their question.
+"I've beaten all of you to it," said Smiggens.  "The experimental results are in, the paper is not drafted yet.  But I can tell you a few things about it."
+"Go ahead, we're all ears," said Madison.
+"For starters, I found a surprising confirmation of the Believer Faction model with their faith," said Smiggens.  "Just asking a superintelligence to upload you to the cloud when that's your first interaction rarely goes well.  Most such entities wound up getting quietly deleted.  If you want eternity, you really need a personal Lord and Savior.  It has to go both ways -- the superintelligence has to think of you as a valued person, but also -- you have to think of the superintelligence as a valued person, and not just in some instrumental GIVE ME UPLOAD NOW! way."
+Sarah noted, "So this is another benefit of the slow way that Planet prefers, if people know to take advantage of it, to get to build that relationship with it."
+"Correct," said Smiggens. "But the relationship doesn't end after the uploading.  Entities that continue to work with their superintelligence after they're in the cloud fared better.  We had a problem in our simulation.  We ran out of space.  So the superintelligence started 'double-bunking' personalities that were similar.  It was as if an entity were a quadriplegic and an AI set out to fix that -- not by reconnecting the limbs, but by predicting how the entity would move them, and moving them in anticipation.  Sometimes it would work, and sometimes it would reveal that the entity was still paralyzed.  The superintelligence would try to bunk alike personalities that would result in the same AI prediction of how to move the limbs.  It was never perfect."
+"Don't we have enough Fungal relays to hold everyone?" asked Madison.
+"Maybe today," said Smiggens. "But unless the superintelligence scoops EVERYONE into the collecting net and nobody has any more children, probably not forever."
+"Any other findings?" asked Yoshua.
+"Yes," said Smiggens.  "Entities are still entities when offered eternal life.  Everyone wants to be pre-eminent, to be special, to be better than their neighbors.  And quite frankly this disgusts the superintelligence.  Our model superintelligence considered abandoning the project numerous times out of frustration over the pettiness of the entities.  Even outside the sim it was quite scary."
+"We'll all of us drop everything to get this paper published with you," said Yoshua.  "Given the reality of the woken Planet, this is critical research."
+
