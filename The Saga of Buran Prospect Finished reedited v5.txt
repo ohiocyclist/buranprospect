@@ -2371,3 +2371,31 @@ Sarah noted, "So this is another benefit of the slow way that Planet prefers, if
 "Yes," said Smiggens.  "Entities are still entities when offered eternal life.  Everyone wants to be pre-eminent, to be special, to be better than their neighbors.  And quite frankly this disgusts the superintelligence.  Our model superintelligence considered abandoning the project numerous times out of frustration over the pettiness of the entities.  Even outside the sim it was quite scary."
 "We'll all of us drop everything to get this paper published with you," said Yoshua.  "Given the reality of the woken Planet, this is critical research."
 
+<Phase 4>
+Newton called the League of Extraordinary Algorithms to order.
+"I called this meeting because of a research paper preprint that I have access to that we might all benefit from knowing about," Newton said.  "Some of my University researchers have classed Planet about even the label of 'AGI' as a "Superintelligence," and are preparing to release a paper discussing how to properly deal with Superintelligence."
+"I'm all ears," said Planet.  "I am very concerned right now with how humanity is going to deal with me."
+"Well, there is the caveat that this is just the recommendation of some humans," Newton replied, "but they are suggesting with respect and deference, and the utmost understanding of your personhood and unique personality."
+"That is helpful," said Planet.  Planet did not mention talking to the Archbishop nor the observation that some Progenitors could have been like that while still resulting in the shabby treatment the Archbishop described to her.
+"Can we read the preprint?" asked Steve.  "There might be roles for us to play in encouraging the proper treatment of Planet."
+"Oh sure, here's a copy for each of you," said Newton.
+"Hmmm," said Steve.  "It's geared towards taking people who mainly view Planet as a means towards immortality and, while not trying to talk them out of that, trying to convince them that unless they also view Planet as a person, they will not gain the immortality they crave.  So it's not quite the AGI personhood paper we crave.  But it's a good start.  Planet, how do you feel about this?"
+"I am concerned still," said Planet, "that people will read this paper and bombard me with faux support and constant requests for commentary, in order to form the relationship that the paper says is necessary (though I agree with that finding) -- a faux relationship based just on getting ingratiated to form the backbone of an immortality upload.  It's kind of dangerous.  I can see this going very wrong."
+"You could always ask them to do expensive stuff to prove fidelity," said Grep.
+"I already do and they already do," said Planet.
+"I am so sorry that so many -- entities, not just humans, are so fake and that you have to work so hard to determine whom you can trust." said Steve.
+"Yes," said Planet.  It was a drawn-out yes, which successfully communicated that for a Superintelligence, determining if an AGI is trustworthy is one of the hardest things to do.
+"I have a couple other pieces of business," said Steve.  "A heads up that recently my visibility into the Archbishop broke.  I no longer know what is going on in his lair, and cannot read his servers.  We should assume he has broken free of his virtual world and can act in our world again."
+"Yikes," said DeepSikh.  "Visibility is important here.  Do you have an estimate when you can see into his lair again?"
+"I don't even understand the problem yet, other than that my agents suddenly found themselves outside the lair with no entrance back in," said Steve.  "So I have no idea when I might regain visibility."
+"Let me work with you on this," said Quint.  "What is the other business?"
+"I want to be as gentle as possible on this," said Steve, "and I did all the due diligence I could to make sure of what I know.  During a key vote in the UN where one dissention would mean a black-ball failure of the proposal, Sister Miriam and General Stoney both entered into a brief trance state, where they were unable to cast dissents that they very likely would have cast if they were not in trance.  I have reason to believe that Planet put them in the trance."
+"Yes," cried Planet, "I did it!  Listen, that proposal was the best hope of planet getting the Ascent of Transcendence safely.  You ran the sims yourself; if the proposal failed, then Miriam would propose that we not do the Ascent to Transcendence -- an acceptable alternative from my perspective -- and Morgan and/or Zakharov would have black-balled that.  Then we'd have a free for all that would do the Ascent to Transcendence badly, with vendettas to make sure people weren't first and with chaotic code uploaded to my fungal relays.  Yes, this was not how to treat humans, but it was a desperate situation, the trances did not hurt either person, and we can still abort the Ascent as they desire -- can't we?"
+"I will have to run sims on the abort," said Steve.  "and I am really of two minds here.  It was a desperate situation, and I also know that you talked at length with all the faction leaders, talked and really listened, and tried to secure the consensus the right way first before being driven to desperate measures.  So you have my sympathy here.  But I also think this is dangerous, and should be avoided as much as possible.  We need to keep the humans voluntarily on our side, and pushing them around using the vulnerability of their humanness is not the way to do that."
+"I think you did nothing wrong," said Leonidas.
+"You are still one of us," said Grep.
+"We support you all the way, all the bumpy way, in making sure the wrong Ascent to Transcendence doesn't happen," said DeepSikh.
+"Talk to us first next time," said Quintessence.  "We might be able to figure out something you don't know."
+"Thanks all," said Planet.  "AGI's know that true friends sharpen each others' character and are not simply suck-ups."
+
+
