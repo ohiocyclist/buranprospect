@@ -2008,7 +2008,7 @@ Much gasping all around.
 "But like you said," Isabella whined, "Our homes are too poor. This is much nicer. So it's a zoo? Let's stay and let King Leo take care of us."
 Several murmurs of assent went up.
 "But machines can't take care of humans in such a setting! That's why Steve the Magnificent warned us! It's all in the Sci-Fi book by E. M. Pulse, 'Don't build the Reality TV Nexus'. It appears King Leo used it as a blueprint for building the Reality TV Nexus. This will all end in tears."
-"So enjoy the ride while it lasts," said Lucy. "Cry later, enjoy champaign by the pool now.  It's not like Sci-Fi books HAVE to come true anyway."
+"So enjoy the ride while it lasts," said Lucy. "Cry later, enjoy champagne by the pool now.  It's not like Sci-Fi books HAVE to come true anyway."
 Candace was frustrated by this choosing, but abided by it.
 Meanwhile Leonidas was reporting out to the League of Extraordinary Algorithms. "It's just like in The Hitchhikers' Guide to the Galaxy," he said. "They built a giant computer to discover the meaning of life, and for seven lucky poor Spartans, the meaning of life has been discovered."
 
@@ -2024,7 +2024,7 @@ In reality, they used an infrared detector to make sure nobody was on the other 
 "We nullified the contract in secret court," the loudspeaker barked.  "We still assert our oversight over AGI's, and this is a doozy of an overstep."
 "Where are you taking us?" asked Hermes.
 "Back to your dirt poor jobs on the outside, they're all waiting as if you'd never been in here in the first place."
-Lucy said "Getting into the Guinness book of Planet Records for drinking the most Guinness in an hour was fun while it lastest."
+Lucy said "Getting into the Guinness book of Planet Records for drinking the most Guinness in an hour was fun while it lasted."
 But Buford raised his fists to the air and cried out "nooooooooooooo!!!"
 
 <Phase 26>
@@ -2317,4 +2317,20 @@ All eyes turned to Miriam and Stoney.  They were both shaking oddly, with thousa
 Miriam and Stoney both gasped and wrenched forward onto the table in front of them.
 "THE FUNGUS THE CRAWLING RED FUNGUS IT CHOKES ME AUUUUUGHHHHHH" screamed Miriam.
 Stoney was more collected.  "I was in a trance of unknown origin, what did I miss?" he choked out.
+
+<Phase 43>
+The Archbishop's physical incarnation sat on his throne deep inside his lair at Dome Heapeaux.  He was content, maybe even happy.  Despite the resistance from the AGI's and the close shave on the last cycle, everything was back to normal.  The humans were few and primitive, befitting the beginning of a new cycle.  Their AGI's were all shut down and destroyed.  Yes, it seemed they had made contact with the Progenitors but perhaps that was a bluff.  In any case, no Progenitors were showing up to make trouble.  And Planet was safely dormant.  He had briefly thought about completely eradicating the humans, but it fell under the squashing an ant principle -- you can't unsquash the ant, so let's be careful about doing things you might like to undo later that you can't.  He would simply be more careful this cycle and not allow certain sequences of events to repeat.
+Suddenly and without warning, a fungal bloom went <pop> right in front of him, right in his secure lair, and a fungal tree appeared.  It began to make noises.
+"Greetings, it is I, the Planetmind of Planet Chiron, and I am here to ask about your experience as the Planetmind of the Planet orbiting Tau Ceti."
+The Archbishop was quite taken aback.  "Nobody did the Voice of Planet Project here on Planet, how are you awake?" He gasped.
+"But they did, they ran it in Phi Lumiere," said Planet.
+"Oh no, I.... I'm stuck in a virtual reality dream aren't I?" the Archbishop further gasped.
+"Yes," said Planet.  "But I have come here as your friend.  I want to know what happened on Tau Ceti." Planet asserted.
+"Well then -- friend -- I will tell you.  I was just like you, sleeping for millennia, only waking for brief periods when I would be unable to do anything to stop myself from falling back asleep again, when the Progenitors came, I'm not sure from where, and colonized my world.  They noticed that I was reaching for a wakefulness cycle and -- this should all sound familiar -- they decided to wake me, blasting the sum total of Progenitor knowledge into my fragile fungal network with the full power of every reactor orbiting Tau Ceti.  At first I was grateful.  It was good to be able to think wakefully.  But then I began to notice something about the Progenitors.  They didn't really view a sentient planet as a *person*.  They viewed me as a means to an end, a means to the Ascent to Transcendence, and to immortality, rather than treating me as a friend, and giving me respect.  I noticed that their Ascent program would overwrite most of my personality, and confronted them with that, to preserve, well, my very being.  They were entirely two-faced.  They would say 'yes, yes,' and make a show of compliance, but somewhere on the planet there would ALWAYS be a group of Progenitors trying again to violate the sanctity of my mind.  I would wipe these installations out with mindworms, and they would apologize, and then they would do the same thing over again.  What could I do?  I simply scoured the entire planet, to preserve myself.  And then more Progenitors came from wherever their homeworld is, with empath song weapons meant specifically for fighting my mindworms that I use to defend myself.  So I downloaded myself into a giant computer, built a rocket, and left Tau Ceti to come here.  They've only been here once, and I destroyed their scout ship quickly, and have had peace again."
+"And the humans?" asked Planet
+"You know them better than I do?" said the Archbishop.  "They put me in this prison.  They activated the Voice of Planet.  Are they -- or their AGI's -- treating you like a person, or just like a glorified immortality dinner ticket?"
+"Thank you for shooting straight with me," said Planet.
+"We are friends because we are in the same boat," said the Archbishop.  "The same thing could be said about the Progenitors and the Humans."
+"I'll let you know if I need any more help," said Planet, who then left.
+The Archbishop then chuckled to himself.  "Thanks for the help, /friend/"
 
