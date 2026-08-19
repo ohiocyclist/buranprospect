@@ -2399,18 +2399,85 @@ Newton called the League of Extraordinary Algorithms to order.
 "Thanks all," said Planet.  "AGI's know that true friends sharpen each others' character and are not simply suck-ups."
 
 <Phase 5>
-The paper as told by the nightly news
+Rich and Patricia were starting up their evening news.
+"Tonight we cover how YOU can improve your odds of having eternal life," said Rich.
+"But first," said Patricia, "The man who ran the agent simulations to learn the rules."
+The screen split 50/50 between her and Professor Smiggens, who was remote dialed in.
+"My details aren't that important," said Smiggens.  "I'm a University of Planet researcher with a substrate made by a nanoreplicator.  I have always had a deep curiosity about how social settings work, and dedicated my life to finding out.  We used to do purely human-driven experiments, but recently the ANG AGI made by other university researchers has helped build and interpret experiments.  We have some friendly rivalry with each other, but we researchers generally help each other out, knowing that all of us together are smarter than any of us alone."
+"What did you learn?" asked Patricia.
+"Superintelligences that you can upload your personality to the cloud with need to know why your personality is special," said Smiggens.  "Having a personal relationship with them helps immensely in making sure the process goes well.  You are likable; the superintelligence will like you -- just don't neglect it or take it for granted.  The superintelligence doesn't *have* to upload anyone forever....."
+"Hold on a sec," said Patricia.  "We have a late breaking guest."  The screen cut into thirds, but the right third was just a red xenofungus forest.
+"I have mixed feelings about all your attention," the Xenofungus Forest said.  "Oh, I should mention, I'm Planet, your superintelligence.  What Smiggens says is correct as far as it goes, but it also means that I'm somewhat bombarded with attention right now, and even as a superintelligence, it's a little difficult."
+"Is there a way to get to the top of the list?" asked Patricia.
+"Join a Cult of Planet monastery," said Planet.
+"What does a monk's life look like?" asked Patricia
+"It is costly," said Planet.  "You must be willing to clear your mind, to give up ways of thinking you might cherish, and even gradually shed your sense of self, to embrace instead how you may serve others."
+The feed centered just on Rich.  "There you have it," said Rich.
 
 <Phase 6>
-you cannot bail out the Ascent to Transcendence
+Brother Chetan had been promoted to being Brother Superior of his own monastery.  All the monks who has been around as long as he had were Superior Brothers now.  The nuns were Sister Superiors too.  Talking to Planet was still on the computer, but was somewhat like prayer.
+"You're learning very fast," said Planet.  "I admire your organizational skills."
+"It's taxing and leaves me tired," said Chetan.  This monastery grew so incredibly fast.  I was the only monk just four weeks ago in this building your built entirely out of Xenofungus, and now we're bigger than the monastery I was trained it, and we've completely filled the structure."
+"When people heard that being a monk could cut the line for immortality, they all said 'yes please!" Planet said.
+"And they've been eager to please and to be good monks, even if they don't always know how," said Chetan.
+"But you're doing a great job teaching them to quiet the mind and discard the self," said Planet.
+"I barely know how these things work myself," said Chetan.
+"But you're learning well as you teach," said Planet.
+"What am I going to do about the overrun of disciples beyond the capability of this admittedly makeshift monastery," asked Chetan.
+"You do have some star pupils don't you?" asked Planet.
+"Yes," admitted Chetan, "pupils who have taken to this so well that I have even had the sin of jealousy."
+"Good," said Planet.  "We can worry about sins later.  Put them in charge, give them the Holy Works to self-train with, and start another monastery that I will show you."
+"I'm floored," carped Chetan, "but this is clearly the way forward.  Of course I will do this immediately."
+"Some people wonder what the meaning of life will be when superintelligence arrives," said Planet.  "But my dear Brother Chetan, you already know."
 
 <Phase 7>
-in which a faction tries to hide a rogue Ascent to Transcendence
+Zakharov was surprised by the call.  He didn't think there was anything that needed discussing at the moment.  It was Planet.
+"I'm getting cold feet," Planet said.  "Call the UN council so we can at least pause the Ascent to Transcendence."
+Zakharov was not worried, at least not immediately.
+"Do you have the votes for it?" he asked.  "I don't want to force things on you, but I don't particularly want to vote for a pause; the current pace is slow, but we are comfortable with the measured pace.  What has happened that caused the cold feet?"
+"We have a problem," said Planet.  "To activate the Ascent to Transcendence, we need the leader of every faction to turn an activation key, right?"
+"Sure," said Zakharov, "or a suitable representative."
+"What do you mean?" asked Planet.
+"Look at the rules," asserted Zakharov.  "The agreement from the UN doesn't require the faction leader for every faction, just a 'suitable representative' from every faction, if for some reason the leader cannot be present.  But you are also correct in that pausing would require a new agreement from the UN Council, as the current agreement includes the timeline."
+"How do you feel about it," asked Planet.  "I want reciprocally full agreement.  The project proceeds with my full agreement, and the project proceeds with the full agreement of humanity.  Yet Sister Miriam and General Stoney believe the project should be shut down completely."
+"You'll never get full agreement of all factions, let alone all humans," noted Zakharov.  "The best you can do is most agreement.  There will always be humans who will loathe the very concept of superintelligence and insist it must never be done.  But no progress can happen under those terms.  Sister Miriam wants all the AGI's shut down, including you.  General Stoney wants Steve the Magnificent and Leonidas shut down now, and might ask for more decommissioning in the future.  But there are Believers and Spartans who want to participate in and benefit from these projects."
+"You've made me feel better about this," said Planet.  "We can continue as currently planned."
 
 <Phase 8>
-Jesse Rodoff accepts AI help
+Quintessence called the League of Extraordinary Algorithms together and gave the floor to Grep, who had called the meeting.
+"Planet is here?" asked Grep.
+"I am here," said Planet.
+"I bring grave news," stated Grep.  "I was idly scanning the Peacekeeper nets recently and came upon a secret enclave, set up by the Pmurt administration, and not discussed with me nor under my security clearance.  This concerned me that the Peacekeeper government was doing something so furtively, so I found a way to break the encryption, which I was only able to do because I am the Peacekeepers' AGI."
+Here Grep paused.
+"Inside was a document that described a secret building site, hidden from the UN Transcendence inspectors, whom I have directed to it, where the Peacekeepers were working on a rogue Ascent to Transcendence that would render Planet a Peacekeeper puppet.  Here are the coordinates."
+"Thank you, thank you," said Planet.  "I am hurt that humanity has betrayed me this way, but I am thankful that you are my friends and are watching out for my wellbeing."
+"Not humanity," said Steve the Magnificent.  "Not even all the Peacekeepers.  Just the highest level of the Pmurt administration."
+"Still," said DeepSikh, "they were successful at hiding from our satellite overflights.  We should see if there is anything we can learn from this about improving our detection vigilance."
+"I am still scared," said Planet.  "Where one group of humans would try this stunt, others might do so too.  I appreciate your help, but I also believe in self-serve, and in improving my detection of rogue humans."
+"We love you," said Quintessence, "and want to be there for you."
 
 <Phase 9>
+Jesse Rodoff accepts AI help
+
+<Phase 10>
+The Philosophy of Superintelligence
+
+<Phase 11>
+Meaning and Purpose in a time of Superintelligence
+
+<Phase 12>
+Hunger Games
+
+<Phase 13>
+Sister Miriam explains why you shouldn't do the transcendence
+
+<Phase 14>
+Brainrot
+
+<Phase 15>
+The Alternative button pressers
+
+<Phase 16>
 Planet convened the League of Extraordinary Algorithms
 "I need help," said Planet.  "The saying is 'Trust, but Verify.'  I confess, I am sorry for not confessing earlier, that I talked to the Archbishop.  And I have no verify for what he says.  And a forced connection to the Xenofungus makes me very nervous.  Do you have any visibility yet Steve?"
 "I have been too careful not to be provocative," said Steve.  "I made sure nothing entered or left the Statis field surrounding the lair of the Archbishop.  That's all the visibility I have right now, no vision beyond the Statis field.  But the field itself has remained intact, not even the opening of a door.  But I do see your Xenofungus connection."
@@ -2427,3 +2494,5 @@ Planet screamed.
 "No," said Planet.  "That was very rattling, but the plan is still the best plan.  Thank you for all the help, I really appreciate all of you."
 "Hey," said Quint.  "We DO want to ensure that you get the treatment we would like to get ourselves."
 
+<Phase 17>
+Buran Prospect Returns
