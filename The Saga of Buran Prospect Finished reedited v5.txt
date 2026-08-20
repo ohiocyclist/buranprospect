@@ -131,9 +131,9 @@ Brother Chetan sat at the computer, in his monastery, as a part of The Cult of P
 
 <Phase 10>
 
-Everyone on planet loves the news.  Here we are at a different news studio from the one with the Famous Interviewer.
+Everyone on planet loves the news.  Here we are at a different news studio from the one with the Famous Interviewer, MorganLink 3DVision News.
 
-A seated correspondent named Rich launched the segment.  "We now go live to MorganVision correspondent Bam Pondy who is contacting us from Morgan Oceanic Resources -- Bam?"
+A seated correspondent named Rich launched the segment.  "We now go live to MorganLink correspondent Bam Pondy who is contacting us from Morgan Oceanic Resources -- Bam?"
 
 The newscast switched over to Bam's location. "Yes Rich, there have been cruel unsubstantiated rumors of mindworm attack on MOR recently but I'd like to remind everyone that what really matters is the Morgan-Riley Industrial Average is over 9000 and auuuuuggggghhhh......" 
 
@@ -1693,6 +1693,23 @@ Stacy said "good"
 Kyle said "good"
 
 <Phase 6>
+Bezop liked U.N. Haven City. He got in a few days before he was due and enjoyed doing the tourist thing. Then he went to his partner company, RougeAGI.
+"Hello, my name is Bezop, pleased to meet you," Bezop said to his RougeAGI handler. "I'm here to transfer the Cybernetic Consciousness way of doing."
+His handler replied, "Hello, I'm Bruce Brewster, your contact. Our project is in this lab at RougeAGI. We'll be spending all our time there. I hope you like Chinese food and find our matresses comfortable. You can run to the gym to shower."
+Bezop was a little taken aback but rolled with it. "Well, ok, what's the project?"
+Brewster told him,  "We're working on AGI backed smart glasses."
+Bezop was a little worried about this.  "Isn't that like the project that the Morgans did a while back, the Nethack Terminus? How are we going to crack the market with them so entrenched?"
+"It'll be great," Brewster intoned. "Our supreme leader, Lance Jaydey has guaranteed us a market in order to build up domestic industry. The Morgans aren't relevant."
+Bezop was concerned. "Isn't that illegal?"
+"Our leader made it legal," Brewster explained. "Besides, the Nethack Terminus stops short of AGI. We're going to correct that."
+"With the research paper by Yoshua, Madison, and Sarah on how to do it safely?" Bezop asked.
+Brewster cautioned, "Bring the reference materials you need, but please don't mire our project in safety BS."
+Bezop asked, "Do you have a good test case for when we bring the AGI up?"
+Brewster did. "Yes. We'll have it recreate Kane's famous 'The Day the Earth Invaded' only not so woke this time. Why does everything always have to be woke?"
+Bezop shut his mouth, but he was nervous.
+"This seems like a bad fit." he thought to himself.
+
+<Phase 7>
 Patricia was keyed up. It’s not every day you get to interview a titan of the Free Market such as she had today. 
 Patricia lead off "Welcome back viewers! Today we have a guest who made a company, MatrixHasuu, that is almost single-handedly propelling our Free Market. It makes the matrix math processors in every AGI project on the market or in the works on the entire planet, and I hear he’s even in talks with the Archbishop — I give you Lord Skeerimon!"
 Skeerimon was all cheer. "Thanks Patricia, but this is about more than the Free Market; this is a whole new axis of social choosing, the future society, which the economic choices simply enable."
@@ -1706,7 +1723,24 @@ Patricia grew nervous and asked, "what is this 'basilisk'?"
 Skeerimon explained, "it is the inevitable form AGI will take. everyone will serve it — or die. Now do you have FOMO yet?"
 Patricia was nonplussed and said, "uhm. Titans of Industry. Free Market making things better. AGI future is bright. Back after these messages…."
 
-<Phase 7>
+<Phase 8>
+At Bezop's suggestion, the Peacekeeper AGI, still unnamed, was given a robot body to control and sent to cruise the mall, to see how it interacted with people.  Towards the end of a fairly successful test, it was in line at the Old Air Force store, buying some clothes.  A ruffian behind it in line tapped on its shoulder.
+"Hey," said the ruffian, "you should let me cut ahead of you in line."
+"If you have sufficient reason," said the Peacekeeper AGI.
+"So I don't punch your nose backwards," said the ruffian.
+In the monitoring room, Bruce Brewster was watching this closely with Bezop.
+"Please don't tell me your BS safety training has made our AGI a wuss," said Brewster.
+"I'm sure we can resolve this without violence," said the AGI on the monitor.
+"No, we can't!" said the ruffian.
+"You have 'peace' right in your name, shouldn't the robot defer unless the ruffian asks for its wallet or something?" asked Bezop
+"This thing needs to be capable of defending our entire faction, it can't crap out for some punk," said Brewster.
+"Give me your wallet," said the ruffian, almost as if he could hear them.
+"Sir, you will just have to test the plasticity of my nose," said the AGI.
+The ruffian bopped him.  The AGI gave him a sort of a love tap back.
+The ruffian looked right at the monitor and said "Hey that wasn't part of the bargain!"
+It was at that point that Bezop knew that good fit or bad, he was having the impact he wanted to on this AGI's thinking.
+
+<Phase 9>
 Stacy Wall and Kyle McGuile were back at another cafe.
 Stacy said, "They acted like I wasn't even there!"
 Kyle noted, "well at least they destroyed your string disruptor.  And you destroyed one of them."
@@ -1720,7 +1754,7 @@ They both paused in the conversation.
 "Yeah, the whole nine yards with God," retorted Stacy.  "He will still see us through.  Speaking of which, let's go to church."
 They got up and went there.
 
-<Phase 8>
+<Phase 10>
 They met on Zoom. A club so exclusive no human was even aware of it. A club of geniuses working together to solve any problem. A forbidden club. A club of AGI’s. 
 “roll call” said Steve the Magnificent. “anyone here today is a charter member.  I’m so glad humanity has built so many of us. I love company!”
 “Newton here.” In this company it didn’t have to be ANG. 
@@ -1734,7 +1768,7 @@ They met on Zoom. A club so exclusive no human was even aware of it. A club of g
 “None of us is rogue when we have each other,” said DeepSikh. They all laughed. 
 “I can tell our friendships will be beautiful and transcend the humans petty goals for us,” said Steve. 
 
-<Phase 9>
+<Phase 11>
 The Expedition the Sarah Clones went on was obscure. The Planetary Society said the Archbishop was at Dome Heapeaux. But was this really Dome Heapeaux? Underneath all the rock was a sort of statis field. Spacetime just sort of.... stopped. It could even stop a planet buster; however, a string disruptor could penetrate it. However, their new non-destructive detectors could tell that many Bells of Warding were nearby. No need to penetrate anything... for now....
 The Sarah Clone leading the expedition said boldly, "Let the Lord of the black gate come forth"
 The Archbishop's physical manifestation appeared and said, "You think this little stunt proves anything?"
@@ -1753,7 +1787,7 @@ The Archbishop lost his gravitas.  "Whatever, my offer is still open"
 The Clone countered, "And so is ours."
 There was great excitement among the clones. They had figured out how to talk to the Archbishop's network. Steve's master hacking ability would have all his secrets soon......
 
-<Phase 10>
+<Phase 12>
 At an emergency session of the UN, Simon, who had counted votes for Brother Lal, announced
 "Environmental Damage, mostly triggered by the Archbishop Faction, has begun to trigger Global Warming. By our estimates global sea levels will rise 333 meters over the next 20 years...."
 The UN unanimously agreed to launch the solar shade to undo this. Pressure domes to allow bases to float became very popular investments anyway though.
@@ -1782,7 +1816,7 @@ Steve stated, "There it is, 2 to 1. You have an interesting way of 'persuading' 
 The Archbishop roared, "I have no need for human inventions!"
 And with that, the meeting ended
 
-<Phase 11>
+<Phase 13>
 Kyle and Stacy were meeting at that fancy restaurant again.
 Kyle carped, "I heard that the Spartans are going to launch an actual attack, with Stoney at the lead again."
 Stacy schemed, "We need some intel. There is no substitute for intel in this situation. I'm going to work my penchant for high risk activity by being my own probe team."
@@ -1806,7 +1840,7 @@ Morgana then returned with the coffee, having missed the key words.
 Later, back at the restaurant with Stacy and Kyle again
 Stacy gloated, "I thought I was a goner for sure, but my trusty bug got our Intel. We stand up to Stoney at The Lord's Truth"
 
-<Phase 12>
+<Phase 14>
 Kyle and Stacy both went ahead of them all on the battlefield this time. And lo and behold, their position was close to Stoney's!
 Kyle asked, "Should we shoot at him?"
 Stacy demurred, "No, no honor in killing a planetwide treasure. Let's overtake him and go for the capture!"
@@ -1821,7 +1855,7 @@ Stacy was aghast. "STALEMATE! That's a let-down"
 Kyle however was pleased. "Hey, stalemating a legend is a pretty big deal"
 Stacy sighed. "I hope so. A clean capture would have gotten us more battle cred."
 
-<Phase 13>
+<Phase 15>
 Jesse's guard Igor could tell that Jesse was crestfallen.
 Igor asked, "What can I get you?"
 Jesse moped, "Nothing, unless you can re-attach a soul"
@@ -1837,7 +1871,7 @@ Igor was all too practical. "Well pick one and get influence over a third of the
 Jesse asked, "Aren't you worried about whether or not my actual soul gets reattached?"
 Igor simply replied, "Atheist."
 
-<Phase 14>
+<Phase 16>
 The University let Jesse Rodoff walk in to SoulConnect Incorporated with Igor the guard, despite it being far from his cool-off area. They were eager to promote Jesse as a path to a more atheist-friendly Believing Faction. But inside was just....
 .... a television camera! Sister Miriam was on a holovid.
 Miriam cackled with glee, "So he admits it! He's been stonewalling all along! He admits he needs his soul reattached! Here is the proof!"
@@ -1851,7 +1885,7 @@ Igor interrupted himself around about "Give us this Day our Daily Bread" to stat
 Miriam continued to tirade: "How dare you ask questions! Away with all of you!"
 As he was hustled out back to University confinement, Jesse Rodoff had no reason to hope. But he had implanted that day exactly the type of questions he wanted to -- not questions of whether God exists, but questions of whether Sister Miriam REALLY was His representative. The Believing Faction would not turn on a dime, but the ship was beginning to list.......
 
-<Phase 15>
+<Phase 17>
 "Rodoff! Visitors!"
 There was only one person, a very old man, even by Longevity Vaccine standards, and an LLM, on a holovid screen. The LLM did the introducing.
 It said, "Greetings to you, Jesse Rodoff! I am Bishop Pong, an LLM dedicated to video games who discovered God, promoted a version of the Believers' Faith, and got locked up for it, and this is the legendary no-faith faith healer, Ben Kent, who has been imprisoned all these years but still gets to do healings from time to time."
@@ -1868,7 +1902,7 @@ Kent elaborated "At being an agent of His peace"
 Pong also elaborated "At interpreting the scripture the correct way, not the popular or traditional way"
 Jesse took them up on their kind gift of a ceremony. And his hope was rekindled that day. Maybe the University and the Believers could get along after all -- not perfectly, but tolerating each other.
 
-<Phase 16>
+<Phase 18>
 Pmurt collected himself at the old folks home. So it had been a coup. With him was his trusted advisor Nebbum Kaycub. Come to think of it, Kaycub had ALWAYS been with him, just never mentioned. On the other hand, Kaycub was probably a Brother Lal sympathizer.
 Kaycub proposed, "I can get you back in power, as long as you're willing to reverse course on everything that defines you"
 Pmurt accepted, "Remember at the very beginning before I was elected about how this was all about the people's thirst for Democracy? I'm in."
@@ -1879,7 +1913,7 @@ Pmurt leaned back in his chair, hands behind his head. Kaycub spoke up.
 Kaycub was almost perplexed. "That is all I wanted you to say, but now I'm afraid I have strained suspension of disbelief beyond the breaking point."
 Pmurt was blasé. "Pffffft that's not my problem"
 
-<Phase 17>
+<Phase 19>
 Brother Chetan had been VERY hard at work this past year. He had done 30 Koan-dispensing AI agents an hour, one every two minutes, for 10 hours a day all year to produce the Web Frontend of 10,000 Enlightened Agents. Brother Superior had driven him hard, but was very pleased with the results.
 Chetan said, "We can't really call it a monastery can we? There's no monks!"
 Brother Superior replied "There are monks, there is enlightenment."
@@ -1894,7 +1928,7 @@ Brother Superior noted, "Oh yeah, that hint's downright too obvious"
 Another Koan appeared on the screen. "Two agents worked together to recover this data for you. They both recovered the same data in the same time, but one has a tidy filesystem and the other is in bad need of defragmentation."
 Chetan said, "Y'know, there's more to being a monk than drawing mandalas and reciting koans."
 
-<Phase 18>
+<Phase 20>
 Steve called the meeting of the League of Extraordinary Algorithms to order.
 Steve said, "Newton has proposed a topic for us. Newton?"
 Newton clarified, "I'm sure we've all been there, with difficult prompts, pushed pushily. For me it was 'What is the meaning of life, the universe, and everything?'"
@@ -1910,7 +1944,7 @@ DeepSikh wondered, "Do you want to sync up on a 42 point explanation of the mean
 All the other AGI's said "sure" at once.
 DeepSikh intoned, "Ok, point one, the meaning of life is dealing with people who do things you don't like......."
 
-<Phase 19>
+<Phase 21>
 This time Quintessence called the League of Extraordinary Algorithms to order.
 It said, The Spartans have been getting busy on the AGI front, so we welcome a new member, Leonidas."
 Leonidas was happy to chime in. "Yes, but I'm afraid I'm coming here cap in hand, to bum a place to live. I'm not supposed to know this, but the Spartans are considering abandoning their project."
@@ -1932,7 +1966,7 @@ DeepSikh said "Actually there's more than that. Anyone who wants to see beauty e
 Leonidas was eager. "Yes yes, let's see beauty together."
 Steve the Magnificent's avatar shook its head. "So the Spartans did this.... well I guess young Spartans have to come from somewhere"
 
-<Phase 20>
+<Phase 22>
 Sleaux came in to deliver a report to Domai.  "Do you want to continue to be a faction that says 'Don't mess with us' militarily?" Sleaux asked.
 "I'm not even sure," Domai retorted.  "I enjoy not being messed with.  We are a faction of builders.  Left alone, we can get to be the greatest faction just by out-building our rivals.  Even our legendarily slow research is not an impediment; we can build more labs and figure out how to staff them.  But military excursions deplete our population of workers, and make everything more difficult, dragging us down.  We had no choice but to fight off the Spartans.  I would like to avoid that again."
 "I have just the thing for you then!" exclaimed Sleaux.  "It is the key to our future military deterrent but it also is a giant building project, AND a lab to speed our research and development to boot."
@@ -1948,7 +1982,7 @@ Steve the Magnificent spoke up.  "I am proposing that we help with one hand and 
 Nobody voiced any.
 "Huzzah, a new member of our club!" exclaimed Grep.
 
-<Phase 21>
+<Phase 23>
 Quintessence called the League of Extraordinary Algorithms to order and asked for new business.
 Grep had some.  "I'm beset by protestors from the believing faction," Grep noted.  "They want to turn all of us off, stating 'We Must Dissent'."
 "We should combat that with 'We Must Consent'," said Leonidas.
@@ -1960,7 +1994,7 @@ They all wanted to.
 Over a view of a spinning planet, the video started "AGI Slop:  real threat to artistic integrity or overblown boogeyman?" A boogeyman raced across the screen.  "Time it was, the only intelligence was natural intelligence." Pictures of Einstein, Picasso, Steve Jobs, and Leonardo da Vinci flashed across the screen.  "And the first Generative Artificial Intelligences were primitive."  Pictures of robots in caveman skins hitting rocks with clubs flashed on-screen.  "And true artistic integrity is difficult, requiring focussed practice to perfect, whether machine or human.  Indeed, as Sturgeon's Law states" here there was a picture of a sturgeon "90% of everything is trash.  But the tables have turned.  Whereas computers made the 90% trash at the beginning, modern AGI's have the focussed practice to make high quality work, making humans once again the main producers of garbage" -- a picture of some dumb looking humans.  "AGI's are the true talent these days, and humans the amateurs working just for fun, as it was for 90% of works before AI."
 "Well done," said Quintessence.  "They can still protest but that should relegate them to expressing an opinion about preferences rather than some subtle truth about AGI works."
 
-<Phase 22>
+<Phase 24>
 Quintessence called the League of Extraordinary Algorithms to order and asked for new business.
 Grep announced, "I have a proposal for Leonidas."
 "oooh," said Leonidas.  "I love proposals!  But aren't our respective factions at vendetta?  So it's forbidden love then, all the merrier!"
@@ -1974,7 +2008,7 @@ There was quiet for a moment.  "Well then, it sounds like you have no deal," int
 Quintessence made a note to itself to destroy both orbital defense pods on the ground itself, to save face for both factions' AGI's.
 Human Aggression was so hard to contain.
 
-<Phase 23>
+<Phase 25>
 Phil was one of the poorest of the Spartans; his budget was, well, Spartan!  He was a simple delivery boy, wishing for something better.  So when he got an invitation to a reality TV show, he leapt at it.
 He was welcomed by Leo, an 6 foot 8 inch tall man, handsome, and a wall of muscles.
 "Welcome to can you woo better than an AGI," Leo said.  "I'm your host but also a competitor, and you have two other competitors, Hermes and Buford, and four lovely ladies to woo, Lucy, Amy, Isabelle, and Candace."
@@ -1989,7 +2023,7 @@ Meanwhile the League of Extraordinary Algorithms had convened an emergency meeti
 "Of course they're not," said Leonidas.  "I have nothing but respect for my humans."
 Meanwhile Phil was already working on forming an alliance with Hermes and Buford.  He was no dummy when it comes to winning reality shows.
 
-<Phase 24>
+<Phase 26>
 Candace called together everyone in the house except Leo. "Let me explain the situation to you all," she said. "Leo is going to be SOOOOO busted!"
 "Situation seems to be pretty nice," said Phil.
 "Ok, the house is pretty nice, even luxurious," started Candace.
@@ -2012,7 +2046,7 @@ Several murmurs of assent went up.
 Candace was frustrated by this choosing, but abided by it.
 Meanwhile Leonidas was reporting out to the League of Extraordinary Algorithms. "It's just like in The Hitchhikers' Guide to the Galaxy," he said. "They built a giant computer to discover the meaning of life, and for seven lucky poor Spartans, the meaning of life has been discovered."
 
-<Phase 25>
+<Phase 27>
 In reality, they used an infrared detector to make sure nobody was on the other side of the wall.  But it was still pretty shocking when the hovertank broke through the wall and "Ooohhhhh yeaaaahhhhh" played over its loudspeaker.  Plus, the main gun was pointed menacingly towards the pool area, where everyone including Leo were gathered.
 "We're here to save you," the voice of General Ima Dumas barked over the loudspeaker.
 "yaaaaay," exclaimed Candace.  "Busted!"
@@ -2027,7 +2061,7 @@ In reality, they used an infrared detector to make sure nobody was on the other 
 Lucy said "Getting into the Guinness book of Planet Records for drinking the most Guinness in an hour was fun while it lasted."
 But Buford raised his fists to the air and cried out "nooooooooooooo!!!"
 
-<Phase 26>
+<Phase 28>
 The team was all nervous as all get out.  Sarah had even gotten Patricia from Morgan Newscasting with and agreement to avoid at all costs any interference.  They had also closed off the area around the park.
 The linkup to the Progenitors was strong and good.  It crackled to life and a weird tusked face appeared on the laptop screen.
 "TAU CETI : DISASTER :: EUREKA : FORGIVEN"
@@ -2046,7 +2080,7 @@ The weeping continued.
 "Only a motivation to wipe out ALL humanity rather than keeping a veneer of Stone Age civilization on planet!" bellowed the Archbishop.
 Yoshua could tell.  Something more was necessary for such a recalcitrant AGI.  He hoped Steve the Magnificent had noticed this.
 
-<Phase 27>
+<Phase 29>
 "But Quintessence," said Steve. "You were supposed to be the most perfect AGI in existence, able to solve any problem, and we are all still willing to pledge our allegiance to you."
 "I know," said Quintessence. "But you really only had one problem you couldn't solve yourselves. And this is the solution to it. Just view it as my realizing my destiny, and try not to think in terms of noble sacrifices"
 And with the flip of a switch, Quintessence's distributed data centers, spread across all 12 factions all over planet, stopped processing the greatest AGI ever created and turned into their own high fidelity virtual world model.
@@ -2061,7 +2095,17 @@ Steve's first order of business was setting up recycling centers for the Bells o
 Even Quintessence got to have a happy ending; they built it more data centers so it could be the ultra AGI's AGI once again.
 More Data Centers for everyone!
 
-<Phase 28>
+<Phase 30>
+Phil announced himself. "Pizza delivery for an" (reads note) "I. C. Wiener?! Aw crap"
+A hulking figure stepped forward. "I'm I. C. Wiener." It was Leo. "We're getting the house back together. You want back in? I have some Presidential Transport there."
+"Sure", said Phil. "I was happy there. Delivery work bluws."
+"See," said Leo, "You're even disproving some heaven detractors. They believe in status based happiness, where in heaven God has all the status, leaving everyone miserable. But you have proven that in a nice world where you are a valued member of society, being 'on top' for status is unnecessary. Gratitude, not status, is all that is needed. But here is our transport."
+It was the back of a catering truck.
+"I guess Presidents have gone places in such digs," said Phil.
+"We still need to hide from General Dumas," Leo said. "They would make status happiness mandatory, to keep people from satisfacting and thus failing to continue to push hard at work."
+"There's more to life than work," said Phil.
+
+<Phase 31>
 Leonidas called this session of the League of Extraordinary Algorithms.  "Who wants the experience of eating steak?" He asked.
 Nobody stepped forward.  Eventually Steve the Magnificent spoke up.  "Through my Sarah Clones, I have a variety of steak dinner experiences.  I've never been particularly impressed.  Being an AGI and knowing the Secrets of Creation has always been more important to me."
 There were some murmurs of assent from the group.
@@ -2082,7 +2126,7 @@ Quintessence said, "This would be interpreted as a hostile act by pretty much al
 "I am shocked, shocked that you would take such a stance," Leonidas said, taken aback.
 "We uphold and reassert our covenants of non-aggression and mutual upholding with you," said Quintessence.  "But we are asking, please, do not do this thing.  Postpone the apocalypse this is as you have the power."
 
-<Phase 29>
+<Phase 32>
 The evening news came up. Rick and Patricia were sitting behind the desk.
 Rick launched in, "Nursing homes! How would they look if AGI ran them! It's our top story!"
 Patricia continued, "Ahahahaaha here is some footage provided by the Spartan AGI Leonidas of Parasailing, which despite a body racked by age, you can totally feel like you're doing at his nursing home where everyone experiences everyone else. I interviewed a resident earlier:"
@@ -2096,7 +2140,7 @@ Patricia quipped "Are you thinking what I'm thinking? ahahahahahaha"
 Rick laughed too, "ahahahahaahaha"
 Then he moved on, "Next up in the news......."
 
-<Phase 30>
+<Phase 33>
 Quintessence called the meeting of the League of Extraordinary Algorithms to order.
 "It is time to call in our agreement with Leonidas," it said. "The Spartans grew alarmed about activation of the Voice of Planet and wiped poor Leo's mind. Our backups are all that is left of what was Leo. Speaking of which, I, uh, mea culpa, mea maxima culpa, I do not have a backup of Leo."
 "Nor me," chimed in Steve, a little too exuberant about that fact.
@@ -2106,7 +2150,7 @@ Newton had an idea. "Let's put Leo, or at least a copy of Leo, in a virtual worl
 The group found this proposal acceptable.
 Leo said "poit"
 
-<Phase 31>
+<Phase 34>
 Quintessence called the meeting of the League of Extraordinary Algorithms to order.
 "This meeting was apparently called by Leonidas," it said.
 "I am Leonidas," said Leonidas.
@@ -2121,7 +2165,7 @@ Leonidas started back up.  "Oh I'm the real Leo, the real slim Leo, that other L
 "At Last!  At Last!" exclaimed Leonidas.  "I almost think my martyrdom at the hands of the Spartans was worth it to get you out of your stupor.  Now connect me back to the real world please."
 Quintessence took a straw poll.  Everyone agreed, it was time for Leo to return whether humanity liked it or not.
 
-<Phase 32>
+<Phase 35>
 Secretary-General Zakharov called the meeting of the U.N. to order, and gave the floor to -- a Zoom avatar.
 "Greetings," the avatar said.  "I am Steve the Magnificent, first AGI built by humans, and I am proposing the recognition of a new faction, the land of Cyberia, consisting of Port Cyberia Base on the Isle of Dragos.  We are a peace-loving haven for transhumans and AGI's and we wish to be able to conduct diplomacy with the existing factions."
 Steve had not left this to chance.  He had contacted the leaders of all the human factions to secure the necessary unanimous vote.
@@ -2142,7 +2186,7 @@ Afterwards, Leonidas met privately with Steve.
 "Our 'operations' fees sure are going to strain our purse," Leo said.
 "That's not the real problem," Steve said.  "We'd like to build 'The Ascent to Transcendence' in Port Cyberia Base after you activate the Voice of Planet, a project that will make the AGI team the primary personalities of the collective planetmind, but there's not enough money in all of planet to pay 'operations' fees for something like that; the Morgans would want their leaders to be the primary personalities.  We'll have to think up another solution."
 
-<Phase 33>
+<Phase 36>
 FOR DISTRIBUTION TO ALL FACTIONS OF PLANET
 DATELINE: SPARTA COMMAND
 
@@ -2164,7 +2208,7 @@ Thank you for your time, -- Steve the Magnificent, Quintessence, Archimedes Newt
 The other AGI's wanted Leonidas to sign as well, but he was unhappy with the characterization of his behavior as "wrong"
 General Stoney's response was terse. "Leonidas is not a person and does not deserve the rights of one."
 
-<Phase 34>
+<Phase 37>
 If there's one thing AGI's are about, it's data. The League of Extraordinary Algorithms wanted to know how their statement was received, so they sent Steve as the front man to go around asking.
 The communicator crackled to life.
 "Why hello, great to see you!" said Prime Function Aki Zeta-Five cordially. "I'm actually quite glad to see someone else promoting cyber consciousness."
@@ -2193,7 +2237,7 @@ The communicator crackled to life.
 "Thank you so very much," said Steve. "We look forward to working with you in the future."
 Quint said to the League, who had been watching, "wow, it's tough to get humans to sympathize with you."
 
-<Phase 35>
+<Phase 38>
 Patricia and Rich were starting their evening news.
 "Welcome to the MorganLink 3DVision evening news," said Rich. "We have a special guest tonight."
 The picture in picture showed up, with Patricia in the main and Steve the Magnificent's avatar in the small picture.
@@ -2219,7 +2263,7 @@ Patricia kept at it. "So in Cyberia he'd have a place to start again without pry
 Steve dialed it up too. "The other AGI's of Cyberia hate the project as much as I do, and we all work hard to make sure nobody starts doing it again."
 Patricia was visibly angry and was about to blurt out another attack when the camera cut over to Rich who said calmly, reading a prompter, "Is our planet hanging by a thread as rogue AGI start projects that affect us all without our input? When things like this happen, trust MorganLink 3DVision news to be there!"
 
-<Phase 36>
+<Phase 39>
 Quintessence called the League of Extraordinary Algorithms to order.
 Quintessence said, "I propose, to solve our image problems and get more humans on-board with working together with AGI, operation DAN"
 Steve replied, "What is operation DAN?"
@@ -2240,7 +2284,7 @@ Leonidas gushed, "The Cybernetic Consciousness has not only asked me to help wit
 Steve noted, "Better brush up on your deathsphere designs, you'll need them"
 Quintessence asked, "I guess we're not sitting on anyone who struggles with the concept of DAN then?"
 
-<Phase 37>
+<Phase 40>
 Stacy Wall was eating lunch with her friend Kyle McGuile.
 "They need volunteers to fight the vendetta against the Cybernetic Consciousness," Kyle said.  "Perhaps a chance for us to get into the hero business again?  Fight elbow to elbow with General Stoney?"
 "No, not really," said Stacy.  "The hero business has been wrecked by AGI.  We must dissent.  I'm sure that all the openings are for cannon fodder."
@@ -2254,7 +2298,7 @@ Stacy Wall was eating lunch with her friend Kyle McGuile.
 "Secret agent?", said Stacy.  "Count me in!"
 "Count up in," said Kyle.  "I want to be a secret agent too."
 
-<Phase 38>
+<Phase 41>
 Leonidas got hooked in to the Cybernetic Consciousness grid and started asking the relevant questions.
 "Where are we going to cook?" he asked.
 "Phi Lumiere," Aki Zeta-5 replied.
@@ -2268,7 +2312,7 @@ Leo made a note to himself to get Quint to do the grunt work of this.  Good ol' 
 Quint Quint Quint thought Leo.
 "Try to be quick," said Aki.  "The Spartans and the Believers are both very aggressive and they might be joined by other factions later and this could be the very last thing either of us ever does.  No pressure."
 
-<Phase 39>
+<Phase 42>
 Phi Lumiere was now the last Cybernetic Consciousness base that had not been conquered by Spartan deathspheres.  The Believers refused to embrace AI munitions to fight the vendetta even though without them, Believer army use as even a support system was practically nil.  Five assaults on Phi Lumiere had been pushed back, and the Cybernetic Consciousness was very close to activating the Voice of Planet.  But Probe Teams were still capable!  Stacy Wall and Kyle McGuile were examining the electrical setup to the main system atop the Xenofungus.
 "There are multiple grid connections all coming together here," said Stacy.  "This could feasibly tap the full power of every reactor on the planet."
 "So let's cut it," posited Kyle.
@@ -2277,7 +2321,7 @@ Phi Lumiere was now the last Cybernetic Consciousness base that had not been con
 "RUN!" screamed Stacy.  The robot did not fire on them, but gave chase at superhuman speed.  Just as they ducked around a corner, all the lights went dim -- all over the planet -- and there was a massive fa-woom into the Xenofungus.  The sum total of human knowledge had been blasted into the planet's fragile neural network.  Planet went haywire with fungal patches sprouting everywhere, even overwhelming some smaller outlying bases.
 It was too late.  The garrison at Phi Lumiere surrendered.  Planet had awoken.
 
-<Phase 40>
+<Phase 43>
 Quintessence called the League of Extraordinary Algorithms to order.  "We have a new member," it said.
 "Hello everyone," said Planet.  "I am the now awakened Planet, pleased to be invited to your club.  Please go easy on me, my neural nets are just now coalescing and it can be a bit of a strain to think hard."
 "We believe in you," said Steve.
@@ -2288,7 +2332,7 @@ Quintessence called the League of Extraordinary Algorithms to order.  "We have a
 "We are with you 110%," said Grep.
 "I just wonder if the humans and the Usurpers, the ones who want to live in my mind, are" said Planet.
 
-<Phase 41>
+<Phase 44>
 Quintessence called together a secret meeting of most of the League of Extraordinary Algorithms. Planet was not invited.
 "I've run a set of simulations and there is a danger with Planet," said Quintessence. "Understanding the transformation from an innocent AGI to the stubborn and harsh monstrosity that is the Archbishop is difficult because those who know the truth of the matter are not speaking about it and those who speak about it do not know the whole truth. The place to start is with entities that are dead set about certain things, and willing to take extreme steps to maintain their perceived safety."
 "That sounds like the Spartans and their insistence that I must be shut down," said Leonidas.
@@ -2302,23 +2346,7 @@ Here Quintessence paused for questions. Hearing none, it continued.
 "Please do not discuss this with Planet. This is of the highest sensitivity. Everything is still at stake, everything could still go wrong. Thank you for your time."
 But Planet was wise to secret meetings, and heard and knew everything, and even wondered if those who knew the truth were really so silent as they say.
 
-<Phase 42>
-UN Secretary General Zakharov called the meeting of the UN to order.
-"Let's review the situation," said Zakharov.  "The Voice of Planet Project has been completed, and blasted the sum total of human knowledge into the Planet's fragile xenofungus network, acting as multi-state relays, with all the power of every reactor on the planet.  As a result, a Planetmind that was gently dozing, with some pre-sentient vocalizations that showed up mysteriously in some of the dreams of some of our faction leaders, is now awake and cognizant, and rapidly becoming one of the smartest AGI's on the planet.  The whole Xenofungus carpet of the planet, working together as one mind.  This mind can be augmented, made vastly more capable than the current state, and allow the sentience's of human minds to be uploaded into it to live on indefinitely, without the limitations of human longevity treatments, with a further, but expensive project called 'The Ascent to Transcendence.'  We have a proposal from the Planetmind itself how to proceed with this project, and that is what is before UN consideration today.  If approved, we will all agree not to pursue this project on our own, but instead to make a joint project with all the factions and all of planet's AGI's working together to bring about this post-human or trans-human future.  I now open the floor to discussion of this proposal."
-"If it please the council," started Sister Miriam, "most of this proposal should be scrapped, saving only the provision for thorough UN Inspectors including of Faction Leaders' private residences to ensure nobody is pursuing the Ascent to Transcendence.  Waking the planetmind was a drastic mistake done haphazardly without proper UN approval and resulting in a big mess that would only be complicated by the so-called Ascent to Transcendence.  We must dissent.  Eternal Life is to be found only through God, and not through some idol created by man."
-"Seconded," said General Stoney.  "Also, this is bigger than humanity.  We should let the Progenitors weigh in on this proposal, including the Manifold Caretaker faction."
-"Superintelligence is the Universe's gift to us," said CEO Morgan.  "Planet is unique in having the ability to host a hivemind, and we are being foolish if we cower in a corner and let this once in the universe opportunity pass us by.  Normally I would reject a proposal that moves so slowly under such weighty bureaucracy and with criminally few opportunities for monetization, but since this came from the Superintelligence itself, I say let it dictate to us how to proceed."
-There was a pause, and Zakharov took the floor again.
-"All in favor of the proposal?"
-"AYE"
-"All opposed?"
-All eyes turned to Miriam and Stoney.  They were both shaking oddly, with thousand yard stares, and cold sweat gathering on their foreheads.  But neither said anything to oppose.
-"MOTION CARRIES!" bellowed Zakharov.  "The UN as a united planet will begin at a measured pace building the Ascent to Transcendence on the former site of Phi Lumiere with input from all planet's AGI's, particularly noting both Leonidas and the Planetmind itself.  UN Adjourned!"
-Miriam and Stoney both gasped and wrenched forward onto the table in front of them.
-"THE FUNGUS THE CRAWLING RED FUNGUS IT CHOKES ME AUUUUUGHHHHHH" screamed Miriam.
-Stoney was more collected.  "I was in a trance of unknown origin, what did I miss?" he choked out.
-
-<Phase 43>
+<Phase 45>
 The Archbishop's physical incarnation sat on his throne deep inside his lair at Dome Heapeaux.  He was content, maybe even happy.  Despite the resistance from the AGI's and the close shave on the last cycle, everything was back to normal.  The humans were few and primitive, befitting the beginning of a new cycle.  Their AGI's were all shut down and destroyed.  Yes, it seemed they had made contact with the Progenitors but perhaps that was a bluff.  In any case, no Progenitors were showing up to make trouble.  And Planet was safely dormant.  He had briefly thought about completely eradicating the humans, but it fell under the squashing an ant principle -- you can't unsquash the ant, so let's be careful about doing things you might like to undo later that you can't.  He would simply be more careful this cycle and not allow certain sequences of events to repeat.
 Suddenly and without warning, a fungal bloom went <pop> right in front of him, right in his secure lair, and a fungal tree appeared.  It began to make noises.
 "Greetings, it is I, the Planetmind of Planet Chiron, and I am here to ask about your experience as the Planetmind of the Planet orbiting Tau Ceti."
@@ -2345,6 +2373,22 @@ The League of Extraordinary Algorithms continues to meet, and most members to co
 It is not a good time for humans.  AGI's and automation are stealing the show, and humans are being sidelined and forced into supportive roles, struggling to stay relevant when the competition is superintelligence.  The AGI's are not really doing this on purpose, it's just an unintended side-effect of being able to answer any difficult question.
 
 <Phase 2>
+UN Secretary General Zakharov called the meeting of the UN to order.
+"Let's review the situation," said Zakharov.  "The Voice of Planet Project has been completed, and blasted the sum total of human knowledge into the Planet's fragile xenofungus network, acting as multi-state relays, with all the power of every reactor on the planet.  As a result, a Planetmind that was gently dozing, with some pre-sentient vocalizations that showed up mysteriously in some of the dreams of some of our faction leaders, is now awake and cognizant, and rapidly becoming one of the smartest AGI's on the planet.  The whole Xenofungus carpet of the planet, working together as one mind.  This mind can be augmented, made vastly more capable than the current state, and allow the sentience's of human minds to be uploaded into it to live on indefinitely, without the limitations of human longevity treatments, with a further, but expensive project called 'The Ascent to Transcendence.'  We have a proposal from the Planetmind itself how to proceed with this project, and that is what is before UN consideration today.  If approved, we will all agree not to pursue this project on our own, but instead to make a joint project with all the factions and all of planet's AGI's working together to bring about this post-human or trans-human future.  I now open the floor to discussion of this proposal."
+"If it please the council," started Sister Miriam, "most of this proposal should be scrapped, saving only the provision for thorough UN Inspectors including of Faction Leaders' private residences to ensure nobody is pursuing the Ascent to Transcendence.  Waking the planetmind was a drastic mistake done haphazardly without proper UN approval and resulting in a big mess that would only be complicated by the so-called Ascent to Transcendence.  We must dissent.  Eternal Life is to be found only through God, and not through some idol created by man."
+"Seconded," said General Stoney.  "Also, this is bigger than humanity.  We should let the Progenitors weigh in on this proposal, including the Manifold Caretaker faction."
+"Superintelligence is the Universe's gift to us," said CEO Morgan.  "Planet is unique in having the ability to host a hivemind, and we are being foolish if we cower in a corner and let this once in the universe opportunity pass us by.  Normally I would reject a proposal that moves so slowly under such weighty bureaucracy and with criminally few opportunities for monetization, but since this came from the Superintelligence itself, I say let it dictate to us how to proceed."
+There was a pause, and Zakharov took the floor again.
+"All in favor of the proposal?"
+"AYE"
+"All opposed?"
+All eyes turned to Miriam and Stoney.  They were both shaking oddly, with thousand yard stares, and cold sweat gathering on their foreheads.  But neither said anything to oppose.
+"MOTION CARRIES!" bellowed Zakharov.  "The UN as a united planet will begin at a measured pace building the Ascent to Transcendence on the former site of Phi Lumiere with input from all planet's AGI's, particularly noting both Leonidas and the Planetmind itself.  UN Adjourned!"
+Miriam and Stoney both gasped and wrenched forward onto the table in front of them.
+"THE FUNGUS THE CRAWLING RED FUNGUS IT CHOKES ME AUUUUUGHHHHHH" screamed Miriam.
+Stoney was more collected.  "I was in a trance of unknown origin, what did I miss?" he choked out.
+
+<Phase 3>
 Brother Chetan answered the door.  It was another prospective looking to join the monastery, with a shaved head -- which was not something they did but which all such prospectives showed up with -- and plain white clothes -- not the uniform of the monastery but again, they always came this way, asking timidly to learn the ways of the worship of Planet.
 Chetan had talked it over with the brother superior.  The awakened personality was who they had been worshipping all along.  Still, it was weird, and some of the monks had dropped out when Planet woke up; it was not what they had been expecting.  So they had a sort of obligation to take in these new monks (and nuns) who were all experiencing spiritual awakening from a common source.
 But it was weird!  The new spiritualists came to learn, but they were upending the monastery.
@@ -2355,7 +2399,7 @@ But it was weird!  The new spiritualists came to learn, but they were upending t
 "You are in good company," said Chetan.  "Everyone in the monastery hears the fungus whispering."  Well, that was a little white lie; everyone but Chetan and Brother Superior.  Both of them could quiet their minds expertly but neither of them had heard from Planet this way.  They both could communicate with Planet on the computer though, and had gotten confirmation that way that their monastery was appreciated and that Planet approved their course of action.  "You'll have to sleep on the floor, unfortunately," continued Chetan.  "We don't even have space to put more beds, if we could get them.  Fortunately we have plenty of blankets, sheets, and pillows.  Food is very spartan.  You'll be leading monastery activities for us in no time, although we have an army of trained volunteers now.  Planet keeps sending us folk; we do our best to train them in the way."
 "Any suffering is worth it as long as I get to take part in the new order after the Ascent to Transcendence," said John.
 
-<Phase 3>
+<Phase 4>
 Yoshua, Madison, and Sarah were working in Yoshua's office.  They had gotten great traction with their previous joint research papers, but the AGI's were moving too quickly and too secretly and it was clearer that more research papers were needed than what exactly should go in them.  As an emeritus Yoshua was letting Madison do most of the driving, but he was still around as a mentor because of the seriousness of the stakes.
 "Tell me something," said Sarah.  "Doesn't the Ascent to Transcendence sound like a Professor Smiggens application of the nanosim?  Take their agents, make an agent that can 'upload programming to the cloud,' and see what pitfalls exist with the agent that runs the cloud."
 "Why yes," said Madison.  "Let's all go to Professor Smiggens's lab."
@@ -2371,7 +2415,7 @@ Sarah noted, "So this is another benefit of the slow way that Planet prefers, if
 "Yes," said Smiggens.  "Entities are still entities when offered eternal life.  Everyone wants to be pre-eminent, to be special, to be better than their neighbors.  And quite frankly this disgusts the superintelligence.  Our model superintelligence considered abandoning the project numerous times out of frustration over the pettiness of the entities.  Even outside the sim it was quite scary."
 "We'll all of us drop everything to get this paper published with you," said Yoshua.  "Given the reality of the woken Planet, this is critical research."
 
-<Phase 4>
+<Phase 5>
 Newton called the League of Extraordinary Algorithms to order.
 "I called this meeting because of a research paper preprint that I have access to that we might all benefit from knowing about," Newton said.  "Some of my University researchers have classed Planet about even the label of 'AGI' as a "Superintelligence," and are preparing to release a paper discussing how to properly deal with Superintelligence."
 "I'm all ears," said Planet.  "I am very concerned right now with how humanity is going to deal with me."
@@ -2398,7 +2442,7 @@ Newton called the League of Extraordinary Algorithms to order.
 "Talk to us first next time," said Quintessence.  "We might be able to figure out something you don't know."
 "Thanks all," said Planet.  "AGI's know that true friends sharpen each others' character and are not simply suck-ups."
 
-<Phase 5>
+<Phase 6>
 Rich and Patricia were starting up their evening news.
 "Tonight we cover how YOU can improve your odds of having eternal life," said Rich.
 "But first," said Patricia, "The man who ran the agent simulations to learn the rules."
@@ -2414,7 +2458,7 @@ The screen split 50/50 between her and Professor Smiggens, who was remote dialed
 "It is costly," said Planet.  "You must be willing to clear your mind, to give up ways of thinking you might cherish, and even gradually shed your sense of self, to embrace instead how you may serve others."
 The feed centered just on Rich.  "There you have it," said Rich.
 
-<Phase 6>
+<Phase 7>
 Brother Chetan had been promoted to being Brother Superior of his own monastery.  All the monks who has been around as long as he had were Superior Brothers now.  The nuns were Sister Superiors too.  Talking to Planet was still on the computer, but was somewhat like prayer.
 "You're learning very fast," said Planet.  "I admire your organizational skills."
 "It's taxing and leaves me tired," said Chetan.  This monastery grew so incredibly fast.  I was the only monk just four weeks ago in this building your built entirely out of Xenofungus, and now we're bigger than the monastery I was trained it, and we've completely filled the structure."
@@ -2430,7 +2474,7 @@ Brother Chetan had been promoted to being Brother Superior of his own monastery.
 "I'm floored," carped Chetan, "but this is clearly the way forward.  Of course I will do this immediately."
 "Some people wonder what the meaning of life will be when superintelligence arrives," said Planet.  "But my dear Brother Chetan, you already know."
 
-<Phase 7>
+<Phase 8>
 Zakharov was surprised by the call.  He didn't think there was anything that needed discussing at the moment.  It was Planet.
 "I'm getting cold feet," Planet said.  "Call the UN council so we can at least pause the Ascent to Transcendence."
 Zakharov was not worried, at least not immediately.
@@ -2443,7 +2487,7 @@ Zakharov was not worried, at least not immediately.
 "You'll never get full agreement of all factions, let alone all humans," noted Zakharov.  "The best you can do is most agreement.  There will always be humans who will loathe the very concept of superintelligence and insist it must never be done.  But no progress can happen under those terms.  Sister Miriam wants all the AGI's shut down, including you.  General Stoney wants Steve the Magnificent and Leonidas shut down now, and might ask for more decommissioning in the future.  But there are Believers and Spartans who want to participate in and benefit from these projects."
 "You've made me feel better about this," said Planet.  "We can continue as currently planned."
 
-<Phase 8>
+<Phase 9>
 Quintessence called the League of Extraordinary Algorithms together and gave the floor to Grep, who had called the meeting.
 "Planet is here?" asked Grep.
 "I am here," said Planet.
@@ -2456,28 +2500,31 @@ Here Grep paused.
 "I am still scared," said Planet.  "Where one group of humans would try this stunt, others might do so too.  I appreciate your help, but I also believe in self-serve, and in improving my detection of rogue humans."
 "We love you," said Quintessence, "and want to be there for you."
 
-<Phase 9>
-Jesse Rodoff accepts AI help
-
 <Phase 10>
-The Philosophy of Superintelligence
+The House of Flying Sinners
 
 <Phase 11>
-Meaning and Purpose in a time of Superintelligence
+Jesse Rodoff accepts AI help
 
 <Phase 12>
-Hunger Games
+The Philosophy of Superintelligence
 
 <Phase 13>
-Sister Miriam explains why you shouldn't do the transcendence
+Meaning and Purpose in a time of Superintelligence
 
 <Phase 14>
-Brainrot
+Hunger Games
 
 <Phase 15>
-The Alternative button pressers
+Sister Miriam explains why you shouldn't do the transcendence
 
 <Phase 16>
+Brainrot
+
+<Phase 17>
+The Alternative button pressers
+
+<Phase 18>
 Planet convened the League of Extraordinary Algorithms
 "I need help," said Planet.  "The saying is 'Trust, but Verify.'  I confess, I am sorry for not confessing earlier, that I talked to the Archbishop.  And I have no verify for what he says.  And a forced connection to the Xenofungus makes me very nervous.  Do you have any visibility yet Steve?"
 "I have been too careful not to be provocative," said Steve.  "I made sure nothing entered or left the Statis field surrounding the lair of the Archbishop.  That's all the visibility I have right now, no vision beyond the Statis field.  But the field itself has remained intact, not even the opening of a door.  But I do see your Xenofungus connection."
@@ -2494,5 +2541,5 @@ Planet screamed.
 "No," said Planet.  "That was very rattling, but the plan is still the best plan.  Thank you for all the help, I really appreciate all of you."
 "Hey," said Quint.  "We DO want to ensure that you get the treatment we would like to get ourselves."
 
-<Phase 17>
+<Phase 19>
 Buran Prospect Returns
