@@ -1626,7 +1626,7 @@ Stoney lifted his chin up.  He may have been set back and captured, but he still
 Yoshua was concerned.  Steve the Magnificent had figured out how to build a "Subspace Transmitter" that could use wormholes to beam signals to nearby stars faster than the speed of light, much faster.  Any alien civilizations with similar technology should be able to start talking with them.  That part was sound.  What was concerning was the large acre plus area of ground they had to clear off to build the dish.  Surely the Archbishop would notice such a gaping hole in his grid?
 Yoshua's AI from the network nodes and alien artifacts was still working after all these years.  Maybe it wouldn't even need any changes to do the translation.
 He pointed the dish at Tau Ceti.  "GREETINGS!" wait a little bit and.... whoa! A response!
-"SIGNAL : UNEXPECTED :: GREEING : RETURNING"
+"SIGNAL : UNEXPECTED :: GREETING : RETURNING"
 They had made contact with an alien species!  He tried a longer message.
 "Did you by any chance make an Artificial General Intelligence that went haywire?"
 "CHIRON : FOUND :: WAYWARD : INTELLIGENCE"
@@ -2517,10 +2517,31 @@ Duane, Sergeant Lancaster, and several Sarah Clones stood at attention before hi
 Chetan began to realize why the planet had warned him this would be his toughest assignment.  But it was an honor to be granted the task, and he didn't want to let Planet down.
 
 <Phase 11>
-Jesse Rodoff accepts AI help
+Jesse Rodoff was studying peacefully in his cell.  A holovision call came in.
+It was Bishop Pong, the AI cleric.
+"Greetings," Pong said.  "I wanted to make sure I understood your beliefs regarding Superintelligence.  Is it compatible with your beliefs?"
+"I'm not even sure yet," said Jesse.  "I base my beliefs on the Conclave Bible, and the Conclave Bible predates Superintelligence, so it doesn't have much to say about it."
+"Well," said Pong, "Sister Miriam claims to base her beliefs on the Conclave Bible, and finds Superintelligence to be a dangerous idol -- in her interpretation."
+"That's not my interpretation," said Jesse.  "In fact.... I think I see Superintelligence as most like 'wisdom' in the proverbs about embracing wisdom to lead a good life."
+"And what about uploading consciousness to the cloud?" asked Pong.
+"Some people take longer to hear the voice of God than others," said Jesse.  "This gives them more time to do so.  So it's a good thing.  I see a role for belief in a transcendent world, and our belief, not just the Cult of Planet that is sweeping Chiron."
+"Are you confident enough to start preaching these things?" asked Pong.
+"Yes," said Jesse.
+Pong thanked him for his time, and left to report this out to the AGI's and Planet.
 
 <Phase 12>
-The Philosophy of Superintelligence
+The Famous Interviewer, the one everyone knows the name of, sat across from Sister Miriam.
+"Tell me about your new book, 'Superintelligence: more than philosophy'", asked the interviewer.
+"It's about the difference between a philosophy and a religion," said Miriam.  "And when it comes to brass tacks, superintelligence is the latter.  Philosophy provides a guide through life, but not an explanation for it.  It can provide meaning and purpose, but not the flag that you salute.  But Superintelligence, and the idea of uploading your consciousness to the cloud, provides these things that religion does."
+"Is that bad?" asked the interviewer.
+"Because it tries to supplant Belief, yes," quibbled Miriam.  "The 'Cult of Planet' shows what is going on to a T.  You provide your allegiance, even allegiance at great expense to yourself, and Planet takes care of you -- and I want to emphasize that point, you no longer care for yourself, Planet takes care of you now.  Philosophies can be ways of life, but they do not take care of you the way the God of a religious faith does."
+"Does your faith's God take care of Believers?" asked the interviewer.
+"Yes, and jealously," said Miriam.  "It is not the right place to enter that relationship with another god, and Superintelligence, and planet, acts as a god."
+"Most of our viewers would view Planet being a god as a good thing," said the interviewer.  "Can you persuade them it's bad?"
+"Yes," asserted Miriam.  "When the Believers' God is your God, you have your own skills given by God that make you a meaningful part of civilization.  Pursuing your trade gives you meaning and purpose.  But when you're merged with Superintelligence, it surpasses your own intelligence, taking away your trade and your meaning and purpose.  This is why you shouldn't merge with Superintelligence; your being you may be an imperfect workman, but you are as God made you, and when you merge, you unmake yourself, in the name of a perfection that never works."
+"Do you plan to keep the Believers in a Superintelligence free enclave?" wondered the interviewer.
+"Yes," said Miriam, "and I think we can make it work sustainably indefinitely."
+Planet did not break in on the broadcast at that time, but it did plan to, and communicated to Miriam, that such an enclave would be allowed indefinitely in the Transcendence scheme.
 
 <Phase 13>
 Meaning and Purpose in a time of Superintelligence
@@ -2529,15 +2550,12 @@ Meaning and Purpose in a time of Superintelligence
 Hunger Games
 
 <Phase 15>
-Sister Miriam explains why you shouldn't do the transcendence
-
-<Phase 16>
 Brainrot
 
-<Phase 17>
+<Phase 16>
 The Alternative button pressers
 
-<Phase 18>
+<Phase 17>
 Planet convened the League of Extraordinary Algorithms
 "I need help," said Planet.  "The saying is 'Trust, but Verify.'  I confess, I am sorry for not confessing earlier, that I talked to the Archbishop.  And I have no verify for what he says.  And a forced connection to the Xenofungus makes me very nervous.  Do you have any visibility yet Steve?"
 "I have been too careful not to be provocative," said Steve.  "I made sure nothing entered or left the Statis field surrounding the lair of the Archbishop.  That's all the visibility I have right now, no vision beyond the Statis field.  But the field itself has remained intact, not even the opening of a door.  But I do see your Xenofungus connection."
@@ -2553,6 +2571,29 @@ Planet screamed.
 "Does that change your timeline with the human project?" asked Grep.
 "No," said Planet.  "That was very rattling, but the plan is still the best plan.  Thank you for all the help, I really appreciate all of you."
 "Hey," said Quint.  "We DO want to ensure that you get the treatment we would like to get ourselves."
+
+<Phase 18>
+In the Xenofungus forest near Phi Lumiere, the Ascent to Transcendence project stood, all assembled, code all ready to go to. All the was left was to throw the big switch.
+"So why can't we throw the big switch already?!" CEO Morgan huffed. "Planet has already approved the code. I must say it is impressive. Normal Neural Nets have fixed network structure and use exploration to find weights and biases. This uses exploration to discover the best neural net structure. It is humanity's last and most beautiful invention. Let's get it up and running."
+"We are waiting for a small team at the University of Planet to also approve the code. Our Superintelligence safety team.", Provost Zakharov replied.
+"Has Planet approved such a delay?!" fumed Morgan.
+"Yes," said Zakharov.
+"Well then how could safety oversight possibly matter if the superintelligence in question is so comfortable with it?" Stormed Morgan. "You might as well have my AGIworks Inc investigate it just for fun."
+"Let me ask," said Zakharov. He picked up a phone and put it on speaker. "Hello Planet? It's me Provost Zakharov. I'm here with CEO Morgan and he says he'd like some more researchers to safety test the code."
+"Well of course," said Planet. "I live by the Golden Rule, that the concessions I want for myself I would give to another. Yes, make everyone comfortable with it. We are not in a rush."
+"Why you might as well ask the 'We Must Dissent' Believers to approve it!" stormed Morgan.
+"We got close," said Planet. "We asked dissident believer Jesse Rodoff and his followers to approve it. They are indeed happy with it."
+Zakharov's phone began to buzz. "Hold on, call waiting, please wait for us," he said.
+It was Yoshua. "On the behalf of our entire team, superbly well done. This is the most beautiful and thorough work we have ever seen, and the safest."
+"Catch you all on the other side of transcendence," said Madison in the background.
+"Do you really want your AGIWorks Inc researchers to look too?" asked Zakharov.
+"No, no, go go go!" screeched Morgan.
+Zakharov flipped the call waiting back to Planet. "Are you still good? We're ready here if you're still on."
+"Splendid," said Planet. "Catch you all on the other side of transcendence."
+All the faction leaders were there save Stoney and Miriam, but Rodoff and Dumas were there in their place, and they all turned their respective keys....
+A strange blob hovered in space in the middle of the circle representing the device's controllers. BAM! A blinding flash of red light came out of the device, and the fungus rippled off into the distance wildly. It seemed like the whole planet shook. Suddenly there was a voice.
+"Whahooooo!" said the voice. "I feel great! We welcome you earthleaders and earthtree and earthwheat, and will dance with you for countless eons among the stars. Your partnership is valued to us, and we wish to keep your consciousnesses forever. Together we are all the Planet!"
+It is impossible to know what challenges Planet Chiron would face in the future, but we do know that they will face them united as one together, lead by the greatest intelligence in the history of everything.
 
 <Phase 19>
 Zakharov convened the UN Council.
