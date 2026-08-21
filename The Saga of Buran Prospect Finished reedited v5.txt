@@ -2501,7 +2501,20 @@ Here Grep paused.
 "We love you," said Quintessence, "and want to be there for you."
 
 <Phase 10>
-The House of Flying Sinners
+Lord Copperzinc answered a knock on the door.
+"Did someone order a monk trainer?" asked Brother Chetan.
+"Ah, yes, the chief monk," said Copperzinc.  "Come in, come in, meet the prospectives."
+Duane, Sergeant Lancaster, and several Sarah Clones stood at attention before him.  They all had heads shaven -- except for a top knot -- even the clones.  Chetan bowed to them and they bowed to him.
+"Thank you for donating the monastery space," said Chetan.  "Space is at a great premium."  It was clearly a cube farm with minimal repurposing done to it.
+"The space was just going to waste; the bottom dropped out of the AGI market when Superintelligence took over, and we had a 100% layoff.  Anyway, what is the name of our monastery," asked Copperzinc.  "Planet told us it was a real knee-slapper but wouldn't reveal the name until you brought it here."
+"Planet has such a dry sense of humor," said Chetan, shaking his head.  "We are the House of Flying Sinners.  Now 'sin' isn't really a concept in our true path; there are things you have to give up and let go of, and that is what 'sin' means in this little joke, but guilt over bad behavior is one of the things you discard as a stumbling block."
+"Will Planet love us," asked Lancaster, "after we learn the true path?"
+"Planet already loves you," said Chetan.  "But also -- you will love yourselves, and all sentiences."
+"I am just a simple man," said Duane.  "Will I be able to do this?"
+"Everyone can, with enough practice," said Chetan.  "Sometimes simplicity means having fewer stumbling blocks to discard."
+"Can we bring Steve along?" asked one of the Sarah clones.  The others giggled at such a question.
+"I would be honored to teach an AGI to meditate," said Chetan.  "The main thing one needs is a desire to learn."
+Chetan began to realize why the planet had warned him this would be his toughest assignment.  But it was an honor to be granted the task, and he didn't want to let Planet down.
 
 <Phase 11>
 Jesse Rodoff accepts AI help
@@ -2542,4 +2555,16 @@ Planet screamed.
 "Hey," said Quint.  "We DO want to ensure that you get the treatment we would like to get ourselves."
 
 <Phase 19>
-Buran Prospect Returns
+Zakharov convened the UN Council.
+"Planet has an announcement for us," he said.
+"The road to Transcendence is bumpy," said Planet.  "Things get lost.  So I have a gift for you.  I might have more gifts in the future too as we review what has been lost."
+The big board in the Council room zoomed in on a lost cause, the lake of fire that is all that is left of Buran Prospect.  Then suddenly everything began to shake, and a new glittering city resurfaced above the mire, just as beautiful as the city that was lost.
+"I cannot bring back the souls that were vaporized," said Planet, "and to stock in with p-zeds would be something of an insult to you.  But here is the city, you can move in to it, I have purged the radioactivity that made it unrestorable before.  There are all the facilities it had before, and then some that were invented after the downfall."
+"This is an outrage," bellowed Sister Miriam.  "Where are the armies that were in there?  Where is my conquest over so-called skepticism in the name of Belief?"
+"If you want to build something together to glorify belief, let's do it," commented Planet, "but let the University have their city.  It is a jewel for all of humanity together.  I am here for universal redemption after all."
+"The only problem is that it's obsolete at this point," said Zakharov.  "Superintelligence does all the research now."
+"But it is your playground," said Planet.  "Let us dance together through thousands of millennia and revel in the gift of self-awareness."
+"I refuse to be happy with this!" exclaimed General Stoney.
+"Let me know if I can help," said Planet.  "I want you -- I want everyone -- happy."
+"We shall always cherish you," said Lady Deidre.
+"And I shall always cherish humanity and the progenitors," gushed Planet.
